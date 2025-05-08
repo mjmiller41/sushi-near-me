@@ -1,1 +1,1 @@
-{ "markdown.validate.enabled": true }
+{ "markdown.validate.enabled": true, "editor.autoIndent": "keep" }

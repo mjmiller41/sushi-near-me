@@ -5,6 +5,7 @@
   "singleQuote": true,
   "objectWrap": "collapse",
   "bracketSameLine": true,
+  "singleAttributePerLine": false,
   "arrowParens": "avoid",
   "printWidth": 88
 }
