@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Remix - Bay City"
+title: Sushi Remix - Bay City
 permalink: /michigan/bay-city/sushi-remix-bay-city.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Bay City
 seo:
-  name: "Sushi Remix - Bay City"
-  type: Restaurant
+  type: restaurant
   links: http://sushiremix.com/
-description: "Sushi Remix - Bay City serves delicious sushi in Bay City, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJydbdlk7hI4gRyovHWfRHXRk
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://sushiremix.com/
+description: >-
+  Discover Sushi Remix in Bay City, MI$$$Nestled in Bay City, MI, Sushi Remix
+  stands out as a vibrant spot for fresh Asian fusion cuisine, offering
+  customizable sushi bowls and burritos that cater to a variety of tastes. This
+  casual eatery combines creative flavors with options like bubble teas, making
+  it an ideal choice for those seeking quick and satisfying meals in a welcoming
+  atmosphere. With its focus on build-your-own dishes, visitors can enjoy
+  generous portions and a range of vegetarian choices, perfect for sushi lovers
+  exploring local dining options. The restaurant's accessible features, such as
+  ample parking and wheelchair-friendly amenities, enhance the overall
+  experience for everyone. As a top-rated sushi destination, it delivers a blend
+  of convenience and taste that keeps diners coming back for more.
+generative_summary: >-
+  Discover Sushi Remix in Bay City, MI$$$Nestled in Bay City, MI, Sushi Remix
+  stands out as a vibrant spot for fresh Asian fusion cuisine, offering
+  customizable sushi bowls and burritos that cater to a variety of tastes. This
+  casual eatery combines creative flavors with options like bubble teas, making
+  it an ideal choice for those seeking quick and satisfying meals in a welcoming
+  atmosphere. With its focus on build-your-own dishes, visitors can enjoy
+  generous portions and a range of vegetarian choices, perfect for sushi lovers
+  exploring local dining options. The restaurant's accessible features, such as
+  ample parking and wheelchair-friendly amenities, enhance the overall
+  experience for everyone. As a top-rated sushi destination, it delivers a blend
+  of convenience and taste that keeps diners coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJydbdlk7hI4gRyovHWfRHXRk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJXzhxdm5BRRAB
@@ -334,6 +357,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPN0txMDVnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPN0txMDVnRRAB!2m1!1s0x8823e14e96ddd6c9:0x195d47f459c78bca
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks around here seem to really
+  appreciate the hearty portions and flavorful combinations at this sushi spot,
+  often highlighting the tasty toppings and convenient on-the-go options like
+  wraps. Many visitors praise the variety of choices, including solid vegetarian
+  picks that make it easy to find something fresh and satisfying for lunch or
+  dinner. While most feedback points to a welcoming vibe and quick service that
+  hits the mark, a few note minor slip-ups like unexpected ingredients, though
+  these don't overshadow the positives. Overall, it's earned high marks as a
+  reliable pick for anyone craving creative sushi nearby, with regulars
+  recommending it for its balance of quality and affordability. If you're on the
+  hunt for a laid-back place to grab a bite, this spot delivers a solid
+  experience that lives up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -365,7 +402,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Raku Sushi & Asian Bistro"
+title: Raku Sushi & Asian Bistro
 permalink: /texas/austin/raku-sushi-asian-bistro.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Raku Sushi & Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: https://rakusushiaustin.com/
-description: "Raku Sushi & Asian Bistro serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHxYbZ3e1RIYRTInKd1PYwFg
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644b577671b161f:0x58c0d85377ca894c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:30 AM – 11:00 PM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 11:30 AM – 11:00 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,274 @@ phone: (512) 297-2778
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '3.7'
-rating_count: 0
+rating_count: 435
 website: https://rakusushiaustin.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Raku Sushi & Asian Bistro in Austin, TX$$$Raku Sushi & Asian Bistro
+  in Austin, Texas, delivers a welcoming spot for enjoying fresh sushi rolls and
+  flavorful Asian dishes in a relaxed environment. This unpretentious eatery
+  stands out with its diverse menu featuring specialty rolls, noodle options,
+  and hearty fried rice, complemented by happy hour deals that make it a great
+  choice for casual dining. Accessibility features like wheelchair-friendly
+  entrances and seating add to the convenience, ensuring everyone can savor the
+  experience. With extended hours from lunch through dinner, it's an ideal
+  destination for those seeking top-rated sushi restaurants near urban hotspots.
+  The vibrant atmosphere and variety of vegetarian-friendly choices enhance its
+  appeal for anyone exploring sushi places in the area.
+generative_summary: >-
+  Discover Raku Sushi & Asian Bistro in Austin, TX$$$Raku Sushi & Asian Bistro
+  in Austin, Texas, delivers a welcoming spot for enjoying fresh sushi rolls and
+  flavorful Asian dishes in a relaxed environment. This unpretentious eatery
+  stands out with its diverse menu featuring specialty rolls, noodle options,
+  and hearty fried rice, complemented by happy hour deals that make it a great
+  choice for casual dining. Accessibility features like wheelchair-friendly
+  entrances and seating add to the convenience, ensuring everyone can savor the
+  experience. With extended hours from lunch through dinner, it's an ideal
+  destination for those seeking top-rated sushi restaurants near urban hotspots.
+  The vibrant atmosphere and variety of vegetarian-friendly choices enhance its
+  appeal for anyone exploring sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJHxYbZ3e1RIYRTInKd1PYwFg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvamRiaTdnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I have to say I'm a little surprised by all the negative reviews... Not
+        to discredit them, but my boyfriend and I have been here multiple times
+        and we absolutely love Raku. Some rolls are better than others, but
+        every time we visit, we have a great experience. My absolute FAVORITE
+        roll has to be the Bevo, but there are so many options to explore that
+        you could spend forever and a day ordering there. I WILL say that last
+        time we visited, the service left something to be desired (we watched
+        our server play on her phone for several minutes when our sushi was
+        ready for "delivery"), but that was an irregularity, not a norm for us
+        here. :)
+      languageCode: en
+    originalText:
+      text: >-
+        I have to say I'm a little surprised by all the negative reviews... Not
+        to discredit them, but my boyfriend and I have been here multiple times
+        and we absolutely love Raku. Some rolls are better than others, but
+        every time we visit, we have a great experience. My absolute FAVORITE
+        roll has to be the Bevo, but there are so many options to explore that
+        you could spend forever and a day ordering there. I WILL say that last
+        time we visited, the service left something to be desired (we watched
+        our server play on her phone for several minutes when our sushi was
+        ready for "delivery"), but that was an irregularity, not a norm for us
+        here. :)
+      languageCode: en
+    authorAttribution:
+      displayName: Kaitlyn B Marsh
+      uri: https://www.google.com/maps/contrib/118065696461275237976/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTL5-LdPD9VpVr9ZrLdc8vVuspNuxzpM4Y95S6sPkt0MDm57i_=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-19T00:19:43.057893Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvamRiaTdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvamRiaTdnRRAB!2m1!1s0x8644b577671b161f:0x58c0d85377ca894c
+  - name: >-
+      places/ChIJHxYbZ3e1RIYRTInKd1PYwFg/reviews/ChdDSUhNMG9nS0VJQ0FnTURRcVpfUG5nRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        EXCELLENT SUSHI!! I got this via DoorDash because it had a $0 delivery
+        fee and wow I’m so glad I did. The spicy tuna crispy rice was soooo
+        delicious! The crunchy roll was perfect and the egg drop soup was
+        great!! Amazing prices too, will def order here again 🤤
+      languageCode: en
+    originalText:
+      text: >-
+        EXCELLENT SUSHI!! I got this via DoorDash because it had a $0 delivery
+        fee and wow I’m so glad I did. The spicy tuna crispy rice was soooo
+        delicious! The crunchy roll was perfect and the egg drop soup was
+        great!! Amazing prices too, will def order here again 🤤
+      languageCode: en
+    authorAttribution:
+      displayName: Ashley
+      uri: https://www.google.com/maps/contrib/113932574206881178085/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKFKDizNlZcYdqbq651ZXIutw2fXumHEriWjT8zAUZALeGIoKI=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-12T02:50:11.938594Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRcVpfUG5nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRcVpfUG5nRRAB!2m1!1s0x8644b577671b161f:0x58c0d85377ca894c
+  - name: >-
+      places/ChIJHxYbZ3e1RIYRTInKd1PYwFg/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzZ1ByTm5nRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        The food was great and fresh, there are so many different options for
+        food. The free drinks are an added bonus too! Loved the great atmosphere
+        and lighting and environment. Amazing price.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was great and fresh, there are so many different options for
+        food. The free drinks are an added bonus too! Loved the great atmosphere
+        and lighting and environment. Amazing price.
+      languageCode: en
+    authorAttribution:
+      displayName: Yuansong Wang
+      uri: https://www.google.com/maps/contrib/114507537353591241663/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKRrIQWlNlCs1YNhXAjDsG1xUU8yyWxOpeaBCdIt-lJlb1QYQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-01T16:46:23.781964Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzZ1ByTm5nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzZ1ByTm5nRRAB!2m1!1s0x8644b577671b161f:0x58c0d85377ca894c
+  - name: >-
+      places/ChIJHxYbZ3e1RIYRTInKd1PYwFg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsbDQ2WmJBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        WHEN I SAY AMAZING FOOD!!
+
+        The server was young and on her phone a lot so there was a bit of
+        waiting on her, but THE FOOD was amazing and tasty!! I came here because
+        I needed cooked Sushi and they double checked for me before I ordered to
+        make sure everything I wanted was in fact cooked, the flavors were
+        everything!! And the prices were absolutely fair! We spent about $85 and
+        got 3 rolls of sushi, 1 bowl of ramen, and 2 appetizers.
+
+        We will definitely be going back!
+      languageCode: en
+    originalText:
+      text: >-
+        WHEN I SAY AMAZING FOOD!!
+
+        The server was young and on her phone a lot so there was a bit of
+        waiting on her, but THE FOOD was amazing and tasty!! I came here because
+        I needed cooked Sushi and they double checked for me before I ordered to
+        make sure everything I wanted was in fact cooked, the flavors were
+        everything!! And the prices were absolutely fair! We spent about $85 and
+        got 3 rolls of sushi, 1 bowl of ramen, and 2 appetizers.
+
+        We will definitely be going back!
+      languageCode: en
+    authorAttribution:
+      displayName: moanna henderson
+      uri: https://www.google.com/maps/contrib/100703598637958429390/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLOshFAR39xfzInDsszyYVRqNA2WYywqouAc0w3N7N26_odoA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-11-28T16:22:40.136750Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsbDQ2WmJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsbDQ2WmJBEAE!2m1!1s0x8644b577671b161f:0x58c0d85377ca894c
+  - name: >-
+      places/ChIJHxYbZ3e1RIYRTInKd1PYwFg/reviews/ChdDSUhNMG9nS0VJQ0FnTURneUxXX2lRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        If I could give zero stars, I would. My friends and I spent over $300 at
+        Raku, expecting to enjoy a good meal, but instead, we were rudely rushed
+        out the moment we paid.
+
+
+        First, a staff member came up and told us, “You guys have been here for
+        a while. Please leave.” This was right as we were figuring out how to
+        split the check—something that takes just a few minutes. Five minutes
+        later, another staff member came by again telling us to leave. It was
+        clear they were more concerned about flipping tables than treating
+        paying customers with respect.
+
+
+        For a restaurant where you’re dropping that much money, you’d expect at
+        least a little hospitality. Instead, we were made to feel unwelcome the
+        second we finished eating. If you value good service and a place where
+        you’re not treated like an inconvenience, avoid this place. Plenty of
+        other restaurants in town actually respect their customers.
+      languageCode: en
+    originalText:
+      text: >-
+        If I could give zero stars, I would. My friends and I spent over $300 at
+        Raku, expecting to enjoy a good meal, but instead, we were rudely rushed
+        out the moment we paid.
+
+
+        First, a staff member came up and told us, “You guys have been here for
+        a while. Please leave.” This was right as we were figuring out how to
+        split the check—something that takes just a few minutes. Five minutes
+        later, another staff member came by again telling us to leave. It was
+        clear they were more concerned about flipping tables than treating
+        paying customers with respect.
+
+
+        For a restaurant where you’re dropping that much money, you’d expect at
+        least a little hospitality. Instead, we were made to feel unwelcome the
+        second we finished eating. If you value good service and a place where
+        you’re not treated like an inconvenience, avoid this place. Plenty of
+        other restaurants in town actually respect their customers.
+      languageCode: en
+    authorAttribution:
+      displayName: Mehul Kutagulla
+      uri: https://www.google.com/maps/contrib/106055405576097137035/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWdi4-gy-Zxit_Wv8DeiEMrDsMTHVnFIWeUm3dB4Tc-ZuwqR4wF6w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-22T06:35:36.224816Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURneUxXX2lRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURneUxXX2lRRRAB!2m1!1s0x8644b577671b161f:0x58c0d85377ca894c
+review_summary: >-
+  What Customers Are Saying About the Food$$$Visitors often rave about the fresh
+  and tasty sushi selections, highlighting the variety of rolls and affordable
+  prices that make it a go-to for satisfying meals. Many appreciate the solid
+  portions and additional perks like free drinks, which add to the overall
+  enjoyment during visits. While the food consistently earns praise for its
+  quality and flavors, some mentions point to occasional inconsistencies in
+  service that could use a bit more attention. Overall, it's a spot that
+  delivers good value and a pleasant vibe, encouraging repeat trips for those
+  craving reliable Asian fare. If you're hunting for the best sushi near you,
+  this place generally leaves diners feeling content with their choices, despite
+  minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: false
+  paidParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: false
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unpretentious destination offering a variety of specialty sushi rolls,
+  yakisoba dishes & fried rice.
 
 ---

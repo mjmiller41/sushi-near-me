@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hiroba Sushi"
+title: Hiroba Sushi
 permalink: /nevada/sparks/hiroba-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Sparks
 seo:
-  name: "Hiroba Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://hirobasushinv.com/
-description: "Hiroba Sushi serves delicious sushi in Sparks, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI-1XA7k-mYAR-vHkVFou5BI
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80993eb90357ed23:0x12e42e5a54e4f1fa!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:30 PM'
     - 'Saturday: 11:00 AM – 8:30 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 8:30 PM'
-    - 'Saturday: 11:00 AM – 8:30 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,358 @@ phone: (775) 470-8177
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 489
 website: http://hirobasushinv.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Hiroba Sushi in Sparks, NV$$$Hiroba Sushi in Sparks, NV, stands out
+  as a welcoming spot for sushi enthusiasts seeking casual dining with
+  all-you-can-eat choices, complemented by a selection of wine and beer. Nestled
+  in a convenient marketplace setting, this sushi restaurant emphasizes fresh
+  ingredients and a variety of rolls that highlight traditional and creative
+  flavors, making it a go-to option for those exploring local Japanese-inspired
+  cuisine. The venue boasts accessibility features like wheelchair-friendly
+  entrances and seating, ensuring a comfortable visit for all guests. With hours
+  that cater to lunch and dinner crowds, it's an ideal stop for anyone hunting
+  for reliable sushi restaurants nearby. Overall, Hiroba Sushi combines
+  affordability and quality in a laid-back atmosphere that appeals to families
+  and groups alike.
+generative_summary: >-
+  Discover Hiroba Sushi in Sparks, NV$$$Hiroba Sushi in Sparks, NV, stands out
+  as a welcoming spot for sushi enthusiasts seeking casual dining with
+  all-you-can-eat choices, complemented by a selection of wine and beer. Nestled
+  in a convenient marketplace setting, this sushi restaurant emphasizes fresh
+  ingredients and a variety of rolls that highlight traditional and creative
+  flavors, making it a go-to option for those exploring local Japanese-inspired
+  cuisine. The venue boasts accessibility features like wheelchair-friendly
+  entrances and seating, ensuring a comfortable visit for all guests. With hours
+  that cater to lunch and dinner crowds, it's an ideal stop for anyone hunting
+  for reliable sushi restaurants nearby. Overall, Hiroba Sushi combines
+  affordability and quality in a laid-back atmosphere that appeals to families
+  and groups alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJI-1XA7k-mYAR-vHkVFou5BI/reviews/ChdDSUhNMG9nS0VJQ0FnTURvb2N6OTBRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        All the chefs were great and the food was amazing. I never had to wait
+        for anything and everyone was really friendly. This is by far one of my
+        favorite places in the Reno/Sparks area to get sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        All the chefs were great and the food was amazing. I never had to wait
+        for anything and everyone was really friendly. This is by far one of my
+        favorite places in the Reno/Sparks area to get sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Joseph Kosturos
+      uri: https://www.google.com/maps/contrib/103355515266449278974/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJGiW7FFIqFH6fIIqa0ju7G_qrryUuA6Redvwrcf6mBmKnhngv2=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-25T17:20:36.473527Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvb2N6OTBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvb2N6OTBRRRAB!2m1!1s0x80993eb90357ed23:0x12e42e5a54e4f1fa
+  - name: >-
+      places/ChIJI-1XA7k-mYAR-vHkVFou5BI/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3cU1xR3BnRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Hiroba Sushi may be tucked away in a strip mall, but don’t let its
+        unassuming exterior fool you. While the décor and ambiance might not
+        immediately catch your eye, what awaits you inside is nothing short of
+        culinary excellence. This is a place where taste and quality take center
+        stage, and the experience is far beyond what you might expect from its
+        location.Taste and Quality: A Culinary DelightThe real star of Hiroba
+        Sushi is, without a doubt, the food. From the moment the first dish
+        arrives at your table, it's clear that the chefs here take immense pride
+        in their craft. The sushi is consistently fresh, bursting with flavor,
+        and presented with an attention to detail that rivals some of the more
+        high-end sushi restaurants. Each piece of sushi is a testament to the
+        quality of the ingredients and the skill of the chefs.The menu offers a
+        wide variety of options, catering to both traditionalists who love the
+        classics and adventurous eaters looking for something new. Whether you
+        opt for a simple tuna roll or one of their more inventive specialty
+        rolls, you can expect a symphony of flavors that delight your taste
+        buds. The balance of textures and flavors in each dish is masterful,
+        making it clear that the team behind the sushi bar has honed their craft
+        to perfection.Service: Warm and AttentiveThe service at Hiroba Sushi is
+        another highlight of the dining experience. The staff is not only
+        knowledgeable about the menu but also genuinely friendly and eager to
+        ensure that your meal is enjoyable. Whether you’re a first-time visitor
+        or a regular, you’ll be treated with the same level of care and
+        attention. The servers are prompt, courteous, and always willing to
+        offer recommendations if you’re unsure about what to order.Ambiance:
+        Simple, Yet ComfortableWhile the ambiance might not be the most
+        luxurious, it is comfortable and clean, providing a pleasant setting to
+        enjoy your meal. The simplicity of the décor allows the food to shine
+        and the warm atmosphere created by the staff makes you feel right at
+        home. It's a reminder that sometimes the best dining experiences are
+        found in the most unexpected places.Conclusion: A Must-Visit for Sushi
+        LoversIn a world where so much emphasis is placed on flashy interiors
+        and trendy locations, Hiroba Sushi stands out as a restaurant that lets
+        its food do the talking. It may not have the most ingenious design, but
+        what it lacks in aesthetics, it more than makes up for in taste and
+        quality. If you’re a sushi lover, this is one place you simply must try.
+        The high-quality ingredients, exceptional taste, and warm, attentive
+        service make Hiroba Sushi a hidden gem worth discovering. Don’t let the
+        strip mall location deter you—once you taste the sushi here, you’ll be
+        planning your next visit before you even leave the restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        Hiroba Sushi may be tucked away in a strip mall, but don’t let its
+        unassuming exterior fool you. While the décor and ambiance might not
+        immediately catch your eye, what awaits you inside is nothing short of
+        culinary excellence. This is a place where taste and quality take center
+        stage, and the experience is far beyond what you might expect from its
+        location.Taste and Quality: A Culinary DelightThe real star of Hiroba
+        Sushi is, without a doubt, the food. From the moment the first dish
+        arrives at your table, it's clear that the chefs here take immense pride
+        in their craft. The sushi is consistently fresh, bursting with flavor,
+        and presented with an attention to detail that rivals some of the more
+        high-end sushi restaurants. Each piece of sushi is a testament to the
+        quality of the ingredients and the skill of the chefs.The menu offers a
+        wide variety of options, catering to both traditionalists who love the
+        classics and adventurous eaters looking for something new. Whether you
+        opt for a simple tuna roll or one of their more inventive specialty
+        rolls, you can expect a symphony of flavors that delight your taste
+        buds. The balance of textures and flavors in each dish is masterful,
+        making it clear that the team behind the sushi bar has honed their craft
+        to perfection.Service: Warm and AttentiveThe service at Hiroba Sushi is
+        another highlight of the dining experience. The staff is not only
+        knowledgeable about the menu but also genuinely friendly and eager to
+        ensure that your meal is enjoyable. Whether you’re a first-time visitor
+        or a regular, you’ll be treated with the same level of care and
+        attention. The servers are prompt, courteous, and always willing to
+        offer recommendations if you’re unsure about what to order.Ambiance:
+        Simple, Yet ComfortableWhile the ambiance might not be the most
+        luxurious, it is comfortable and clean, providing a pleasant setting to
+        enjoy your meal. The simplicity of the décor allows the food to shine
+        and the warm atmosphere created by the staff makes you feel right at
+        home. It's a reminder that sometimes the best dining experiences are
+        found in the most unexpected places.Conclusion: A Must-Visit for Sushi
+        LoversIn a world where so much emphasis is placed on flashy interiors
+        and trendy locations, Hiroba Sushi stands out as a restaurant that lets
+        its food do the talking. It may not have the most ingenious design, but
+        what it lacks in aesthetics, it more than makes up for in taste and
+        quality. If you’re a sushi lover, this is one place you simply must try.
+        The high-quality ingredients, exceptional taste, and warm, attentive
+        service make Hiroba Sushi a hidden gem worth discovering. Don’t let the
+        strip mall location deter you—once you taste the sushi here, you’ll be
+        planning your next visit before you even leave the restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: Jarret Orcutt
+      uri: https://www.google.com/maps/contrib/110467706503917240394/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJZm4xfHW3aPAo5mtO47-y3Yv8fvtmNCUcqDTfsyOZtpwfZnOE=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-12T00:54:04.480691Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3cU1xR3BnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3cU1xR3BnRRAB!2m1!1s0x80993eb90357ed23:0x12e42e5a54e4f1fa
+  - name: >-
+      places/ChIJI-1XA7k-mYAR-vHkVFou5BI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBelp6SlhREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The sushi was delicious! Little sushi rolls with less rice too. All of
+        them teasted fresh. The service was good also.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was delicious! Little sushi rolls with less rice too. All of
+        them teasted fresh. The service was good also.
+      languageCode: en
+    authorAttribution:
+      displayName: Rebecca M
+      uri: https://www.google.com/maps/contrib/112938809109420220960/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWyX8RtG0SPkcO-x0Vi2TbgNuuXRW6_73GKrSVM6ScHzviPSjojEg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-17T01:08:38.840786Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNBelp6SlhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNBelp6SlhREAE!2m1!1s0x80993eb90357ed23:0x12e42e5a54e4f1fa
+  - name: >-
+      places/ChIJI-1XA7k-mYAR-vHkVFou5BI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdzktMDBRRRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        If Woo Jun is my server, then it's smooth sailing. If he isn't there;
+        I'll sit at the bar. We've grown fond of this place over the years.
+        Sushi is always up to par, and their staff takes great care of my
+        family. We always order AYCE and never wait too long for our orders. The
+        Philadelphia and the Golden Gate are a few of my favorite rolls. Uzura
+        is a must!
+
+
+        I've had a mishap with a female server taking cash and giving me the
+        wrong change. I was rushing back to work since I was on my lunch and
+        noticed she shorted me on top of being rude. I still tipped her,
+        although it was against my better judgment. As a woman, it pains me to
+        say that the service I've received from the woman here is not acceptable
+        nor deserving of a tip.
+
+
+        Here's a tip: if you're paying with cash, check your change if your
+        server isn't Woo Jun. Beware of the not so happy older Hispanic lady if
+        she happens to serve you.
+
+
+        Despite these few mishaps, the rest of the crew is great. We come back
+        for the sushi and them.
+      languageCode: en
+    originalText:
+      text: >-
+        If Woo Jun is my server, then it's smooth sailing. If he isn't there;
+        I'll sit at the bar. We've grown fond of this place over the years.
+        Sushi is always up to par, and their staff takes great care of my
+        family. We always order AYCE and never wait too long for our orders. The
+        Philadelphia and the Golden Gate are a few of my favorite rolls. Uzura
+        is a must!
+
+
+        I've had a mishap with a female server taking cash and giving me the
+        wrong change. I was rushing back to work since I was on my lunch and
+        noticed she shorted me on top of being rude. I still tipped her,
+        although it was against my better judgment. As a woman, it pains me to
+        say that the service I've received from the woman here is not acceptable
+        nor deserving of a tip.
+
+
+        Here's a tip: if you're paying with cash, check your change if your
+        server isn't Woo Jun. Beware of the not so happy older Hispanic lady if
+        she happens to serve you.
+
+
+        Despite these few mishaps, the rest of the crew is great. We come back
+        for the sushi and them.
+      languageCode: en
+    authorAttribution:
+      displayName: TEUILA GALLOWAY
+      uri: https://www.google.com/maps/contrib/103260228162056804899/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJE51xtROjSOlJYUhPifAC2x2fHzBB9OUQ_tu8OXSxKSbufs9PA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-04T09:24:17.541317Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJdzktMDBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJdzktMDBRRRAB!2m1!1s0x80993eb90357ed23:0x12e42e5a54e4f1fa
+  - name: >-
+      places/ChIJI-1XA7k-mYAR-vHkVFou5BI/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2d2V2WUtBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 1
+    text:
+      text: >-
+        Food was a complete miss tonight 12/20
+
+        Came in Starving around 7:45 For a party of 2 & have always heard great
+        things about this place, hence why we tried it tonight.
+
+        We were was sat right away & ordered Apps ( Mussels, Calamari)
+
+        Which were super cold and chewy.
+
+        Then ordered 4 rolls that were average at best (2/10.)
+
+        We got grossed out by the Quality of the food and Just asked for the
+        tab.
+
+        $72 For below average sushi and apps for 2 people was a huge lesson we
+        learned and wanted to share with everyone.
+
+        The service was good & fast, that was the only plus.
+
+        Besides that save your $ and go to Somewhere else. :(
+      languageCode: en
+    originalText:
+      text: >-
+        Food was a complete miss tonight 12/20
+
+        Came in Starving around 7:45 For a party of 2 & have always heard great
+        things about this place, hence why we tried it tonight.
+
+        We were was sat right away & ordered Apps ( Mussels, Calamari)
+
+        Which were super cold and chewy.
+
+        Then ordered 4 rolls that were average at best (2/10.)
+
+        We got grossed out by the Quality of the food and Just asked for the
+        tab.
+
+        $72 For below average sushi and apps for 2 people was a huge lesson we
+        learned and wanted to share with everyone.
+
+        The service was good & fast, that was the only plus.
+
+        Besides that save your $ and go to Somewhere else. :(
+      languageCode: en
+    authorAttribution:
+      displayName: DEJV BY RIEGZZ
+      uri: https://www.google.com/maps/contrib/113045718954075966540/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU9GlpBy29G2_qRSJCKwToNjmZrsRWY_LYRW3D4JXAHesuz4iQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-21T04:33:10.404772Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2d2V2WUtBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2d2V2WUtBEAE!2m1!1s0x80993eb90357ed23:0x12e42e5a54e4f1fa
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi spot often praise the
+  fresh, flavorful rolls and attentive service that keep things running
+  smoothly, with many highlighting the all-you-can-eat deals as a fun highlight.
+  While most diners enjoy the variety of options and quick delivery of orders, a
+  few mentions of occasional inconsistencies in food quality show it's not
+  perfect every time. Overall, the vibe is upbeat, with plenty of positive nods
+  to the welcoming staff and tasty specials that make it feel like a solid pick
+  for casual meals. If you're on the hunt for top-rated sushi near you, this
+  place generally delivers a satisfying experience that encourages return trips.
+  In short, it's a reliable choice for Japanese dining in the area, as long as
+  you go in with realistic expectations for a casual eatery.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

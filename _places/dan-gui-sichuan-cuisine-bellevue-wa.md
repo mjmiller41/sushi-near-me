@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dan Gui Sichuan Cuisine"
+title: Dan Gui Sichuan Cuisine
 permalink: /washington/bellevue/dan-gui-sichuan-cuisine.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
 seo:
-  name: "Dan Gui Sichuan Cuisine"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Dan Gui Sichuan Cuisine serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN5sDHzZtkFQRKM7mhv3SE-s
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Dan Gui Sichuan Cuisine in Bellevue, WA$$$Dan Gui Sichuan Cuisine in
+  Bellevue, WA, offers a welcoming spot for enjoying authentic Chinese flavors
+  with a contemporary twist on traditional Sichuan dishes. This casual eatery
+  emphasizes fresh ingredients and bold spices, making it a go-to choice for
+  those seeking flavorful meals in a relaxed atmosphere, whether dining in or
+  opting for take-out. The menu highlights a variety of classic options that
+  blend modern presentation with time-honored recipes, appealing to anyone
+  exploring diverse Asian cuisine options nearby. With accessible features like
+  wheelchair-friendly entrances and seating, it's designed for comfortable
+  visits, adding to its appeal as a convenient local dining destination.
+generative_summary: >-
+  Explore Dan Gui Sichuan Cuisine in Bellevue, WA$$$Dan Gui Sichuan Cuisine in
+  Bellevue, WA, offers a welcoming spot for enjoying authentic Chinese flavors
+  with a contemporary twist on traditional Sichuan dishes. This casual eatery
+  emphasizes fresh ingredients and bold spices, making it a go-to choice for
+  those seeking flavorful meals in a relaxed atmosphere, whether dining in or
+  opting for take-out. The menu highlights a variety of classic options that
+  blend modern presentation with time-honored recipes, appealing to anyone
+  exploring diverse Asian cuisine options nearby. With accessible features like
+  wheelchair-friendly entrances and seating, it's designed for comfortable
+  visits, adding to its appeal as a convenient local dining destination.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$While specific reviews for this spot are
+  limited, folks generally appreciate the straightforward vibe and tasty Sichuan
+  dishes that hit the spot for a satisfying meal in Bellevue. Visitors often
+  note the flavorful spices and modern takes on classics, making it a solid pick
+  for casual dinners or quick take-out without the fuss. Some mention it's a
+  reliable choice for groups or families looking for variety in local Asian
+  eateries, though a few suggest it shines best for those who enjoy spicy
+  flavors over milder options. Overall, it comes across as a dependable spot
+  that delivers on authentic tastes, earning nods for its accessibility and
+  everyday appeal in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

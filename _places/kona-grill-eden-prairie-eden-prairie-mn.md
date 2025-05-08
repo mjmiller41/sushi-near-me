@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kona Grill - Eden Prairie"
+title: Kona Grill - Eden Prairie
 permalink: /minnesota/eden-prairie/kona-grill-eden-prairie.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Eden Prairie
 seo:
-  name: "Kona Grill - Eden Prairie"
-  type: Restaurant
-  links: null
-description: "Kona Grill - Eden Prairie serves delicious sushi in Eden Prairie, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://konagrill.com/locations?locations=Eden-Prairie,55344
 place_id: ChIJnW4txKIY9ocR4QoonRZmb6Q
 photos:
   - name: >-
@@ -170,22 +168,243 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f618a2c42d6e9d:0xa46f66169d280ae1!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 11:00 PM'
+    - 'Tuesday: 11:30 AM – 11:00 PM'
+    - 'Wednesday: 11:30 AM – 11:00 PM'
+    - 'Thursday: 11:30 AM – 11:00 PM'
+    - 'Friday: 11:30 AM – 11:00 PM'
+    - 'Saturday: 11:30 AM – 11:00 PM'
+    - 'Sunday: 11:30 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 0
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 0
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 11
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 11
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 11
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 5
+          hour: 11
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 11
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 0
+          hour: 11
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 6:00 PM, 9:00 PM – 11:00 AM'
+      - 'Tuesday: 2:00 – 6:00 PM, 9:00 PM – 11:00 AM'
+      - 'Wednesday: 2:00 – 6:00 PM, 9:00 PM – 11:00 AM'
+      - 'Thursday: 2:00 – 6:00 PM, 9:00 PM – 11:00 AM'
+      - 'Friday: 2:00 – 6:00 PM, 9:00 PM – 11:00 AM'
+      - 'Saturday: 2:00 – 6:00 PM, 9:00 PM – 11:00 AM'
+      - 'Sunday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
+phone: (952) 941-3262
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 4501
+website: https://konagrill.com/locations?locations=Eden-Prairie,55344
+description: >-
+  Discover Kona Grill in Eden Prairie, MN$$$Kona Grill in Eden Prairie, MN,
+  offers a relaxed dining experience blending casual American flavors with
+  global influences, making it a go-to spot for fresh sushi and innovative
+  dishes. This vibrant grill features a modern bar atmosphere where patrons can
+  enjoy a variety of globally inspired eats, from savory appetizers to
+  satisfying entrees, all crafted with quality ingredients. Accessibility is a
+  key highlight, with wheelchair-friendly parking, entrances, restrooms, and
+  seating ensuring everyone feels welcome. The extensive menu caters to those
+  seeking sushi options in a comfortable setting, perfect for casual meals or
+  unwinding after a day out. Open daily from late morning into the evening, it
+  provides a convenient escape for anyone exploring local dining gems nearby.
+generative_summary: >-
+  Discover Kona Grill in Eden Prairie, MN$$$Kona Grill in Eden Prairie, MN,
+  offers a relaxed dining experience blending casual American flavors with
+  global influences, making it a go-to spot for fresh sushi and innovative
+  dishes. This vibrant grill features a modern bar atmosphere where patrons can
+  enjoy a variety of globally inspired eats, from savory appetizers to
+  satisfying entrees, all crafted with quality ingredients. Accessibility is a
+  key highlight, with wheelchair-friendly parking, entrances, restrooms, and
+  seating ensuring everyone feels welcome. The extensive menu caters to those
+  seeking sushi options in a comfortable setting, perfect for casual meals or
+  unwinding after a day out. Open daily from late morning into the evening, it
+  provides a convenient escape for anyone exploring local dining gems nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Visitors often praise the standout sushi
+  selections at this spot, noting how the creative rolls bring a burst of flavor
+  that keeps them coming back for more. Folks appreciate the solid variety of
+  other favorites like hearty steaks and tasty appetizers, which add to the
+  overall enjoyable meal experience. Service stands out as a big plus, with
+  staff described as friendly and attentive, helping make every visit feel
+  smooth and welcoming. While opinions vary, many highlight the reliable quality
+  and atmosphere that make it a solid choice for groups or solo diners. All in
+  all, it's a place where the combination of great food and helpful vibes
+  creates a positive buzz, encouraging others to give it a try for a satisfying
+  outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +430,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

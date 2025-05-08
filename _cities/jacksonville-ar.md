@@ -5,4 +5,5 @@ permalink: /arkansas/jacksonville/
 stateAbbr: AR
 stateName: Arkansas
 cityName: Jacksonville
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hiroto Sushi"
+title: Hiroto Sushi
 permalink: /new-york/brooklyn/hiroto-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Hiroto Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.hirotosushi.com/
-description: "Hiroto Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ02b0ulbwokRW5ZY7MMGwI8
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25be9d29b4d43:0x8fc006c3ec58965b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 12:00 – 10:30 PM'
     - 'Wednesday: 12:00 – 10:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 12:00 – 10:30 PM'
     - 'Saturday: 12:00 – 10:30 PM'
     - 'Sunday: 12:00 – 10:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 10:30 PM'
-    - 'Wednesday: 12:00 – 10:30 PM'
-    - 'Thursday: 12:00 – 10:30 PM'
-    - 'Friday: 12:00 – 10:30 PM'
-    - 'Saturday: 12:00 – 10:30 PM'
-    - 'Sunday: 12:00 – 10:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,48 @@ phone: (718) 638-0808
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '3.9'
-rating_count: 0
+rating_count: 191
 website: http://www.hirotosushi.com/
+description: >-
+  Discover Hiroto Sushi in Brooklyn, NY$$$Hiroto Sushi in Brooklyn, NY, stands
+  out as a cozy Japanese restaurant nestled in the vibrant Park Slope
+  neighborhood, perfect for those seeking authentic sushi experiences close to
+  home. This spot offers a delightful array of comfort food and quick bites
+  tailored for both lunch and dinner, making it an ideal choice for casual
+  diners looking for fresh flavors in a welcoming setting. With its moderate
+  pricing and focus on quality ingredients, it's a great option for anyone
+  exploring sushi restaurants in the area, where you can enjoy everything from
+  classic rolls to satisfying Japanese staples. The restaurant operates with
+  convenient hours, allowing visitors to drop in for a relaxed meal that
+  highlights the essence of Japanese cuisine without overwhelming formality.
+generative_summary: >-
+  Discover Hiroto Sushi in Brooklyn, NY$$$Hiroto Sushi in Brooklyn, NY, stands
+  out as a cozy Japanese restaurant nestled in the vibrant Park Slope
+  neighborhood, perfect for those seeking authentic sushi experiences close to
+  home. This spot offers a delightful array of comfort food and quick bites
+  tailored for both lunch and dinner, making it an ideal choice for casual
+  diners looking for fresh flavors in a welcoming setting. With its moderate
+  pricing and focus on quality ingredients, it's a great option for anyone
+  exploring sushi restaurants in the area, where you can enjoy everything from
+  classic rolls to satisfying Japanese staples. The restaurant operates with
+  convenient hours, allowing visitors to drop in for a relaxed meal that
+  highlights the essence of Japanese cuisine without overwhelming formality.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to sushi spots like this one often
+  highlight the fresh and flavorful dishes that make Hiroto Sushi a go-to for
+  Japanese fare in Brooklyn. Many appreciate the variety of options available,
+  noting that the rolls and bites deliver a solid taste of authenticity while
+  keeping things approachable for everyday meals. While some mention that
+  service can be hit-or-miss during busier times, the overall vibe remains
+  positive, with folks enjoying the casual atmosphere that's easy for groups or
+  solo diners. If you're on the hunt for top-rated sushi near me, this place
+  generally earns nods for its reliable quality and value, making it a
+  worthwhile stop for anyone craving a satisfying bite. Overall, it's viewed as
+  a dependable choice among local Japanese places, with the majority of feedback
+  leaning toward enjoyment of the experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

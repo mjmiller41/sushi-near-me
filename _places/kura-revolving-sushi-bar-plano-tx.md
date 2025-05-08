@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kura Revolving Sushi Bar"
+title: Kura Revolving Sushi Bar
 permalink: /texas/plano/kura-revolving-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Plano
 seo:
-  name: "Kura Revolving Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Kura Revolving Sushi Bar serves delicious sushi in Plano, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://kurasushi.com/locations/plano-tx/
 place_id: ChIJ1WtT6cQZTIYR20d0hqfpVwg
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c19c4e9536bd5:0x857e9a7867447db!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (972) 517-2400
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 4689
+website: https://kurasushi.com/locations/plano-tx/
+description: >-
+  Experience Kura Revolving Sushi Bar in Plano, TX$$$Kura Revolving Sushi Bar in
+  Plano, TX, offers a modern twist on traditional sushi dining with its
+  innovative conveyor-belt system that brings fresh options right to your table.
+  This spot stands out for its tech-savvy features, including a robot server
+  that adds a fun, futuristic element to your meal, making it a go-to choice for
+  sushi enthusiasts seeking something unique. With a focus on quality
+  ingredients and a variety of rolls that cater to different tastes, it's an
+  ideal destination for anyone exploring top-rated sushi restaurants in the
+  area. The restaurant's accessible design ensures a welcoming environment,
+  while its moderate pricing makes it easy to enjoy authentic Japanese flavors
+  without breaking the bank. Whether you're looking for sushi places near me or
+  craving a casual yet exciting meal, this location combines convenience and
+  creativity for a memorable experience.
+generative_summary: >-
+  Experience Kura Revolving Sushi Bar in Plano, TX$$$Kura Revolving Sushi Bar in
+  Plano, TX, offers a modern twist on traditional sushi dining with its
+  innovative conveyor-belt system that brings fresh options right to your table.
+  This spot stands out for its tech-savvy features, including a robot server
+  that adds a fun, futuristic element to your meal, making it a go-to choice for
+  sushi enthusiasts seeking something unique. With a focus on quality
+  ingredients and a variety of rolls that cater to different tastes, it's an
+  ideal destination for anyone exploring top-rated sushi restaurants in the
+  area. The restaurant's accessible design ensures a welcoming environment,
+  while its moderate pricing makes it easy to enjoy authentic Japanese flavors
+  without breaking the bank. Whether you're looking for sushi places near me or
+  craving a casual yet exciting meal, this location combines convenience and
+  creativity for a memorable experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks who visit this sushi spot often praise the
+  fresh, flavorful dishes and the entertaining conveyor-belt setup, making it a
+  hit for families and groups alike. Many appreciate the efficient service and
+  tech elements like the robot server, which add a playful vibe to the overall
+  dining experience. While some mention occasional waits during peak hours, the
+  general consensus leans positive with the high rating reflecting satisfaction
+  in taste and value. It's commonly noted as a solid pick for anyone hunting for
+  the best sushi near me, with comments highlighting the variety that keeps
+  things exciting for repeat visits. Overall, the buzz around this place
+  suggests it's a reliable choice for enjoyable Japanese cuisine, encouraging
+  newcomers to give it a try for a laid-back and satisfying outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +316,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

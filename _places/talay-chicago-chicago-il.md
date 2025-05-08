@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Talay Chicago"
+title: Talay Chicago
 permalink: /illinois/chicago/talay-chicago.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Talay Chicago"
-  type: Restaurant
+  type: restaurant
   links: http://www.talaychicago.com/
-description: "An urbane spin-off of Park Ridge's Siam Thai serving both Thai standards & raw fish. Talay Chicago serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbbzspdgsDogRaDj3w09CTU0
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.talaychicago.com/
+description: >-
+  Discover Talay Chicago in Chicago, IL$$$Nestled in the vibrant city of
+  Chicago, IL, Talay Chicago offers a relaxed dining experience that blends
+  authentic Thai flavors with fresh sushi options, making it a go-to spot for
+  those seeking diverse Asian cuisine. The restaurant features a welcoming
+  atmosphere with vegetarian dishes and a selection of beverages like beer and
+  wine, catering to a variety of tastes and preferences. Its accessible design
+  ensures a comfortable visit for all guests, with thoughtful touches like
+  wheelchair-friendly entrances and seating that enhance the overall enjoyment.
+  Beyond the flavorful meals, the spot stands out for its moderate pricing and
+  convenient location near popular attractions, ideal for anyone exploring sushi
+  and Thai-inspired eats in the area.
+generative_summary: >-
+  Discover Talay Chicago in Chicago, IL$$$Nestled in the vibrant city of
+  Chicago, IL, Talay Chicago offers a relaxed dining experience that blends
+  authentic Thai flavors with fresh sushi options, making it a go-to spot for
+  those seeking diverse Asian cuisine. The restaurant features a welcoming
+  atmosphere with vegetarian dishes and a selection of beverages like beer and
+  wine, catering to a variety of tastes and preferences. Its accessible design
+  ensures a comfortable visit for all guests, with thoughtful touches like
+  wheelchair-friendly entrances and seating that enhance the overall enjoyment.
+  Beyond the flavorful meals, the spot stands out for its moderate pricing and
+  convenient location near popular attractions, ideal for anyone exploring sushi
+  and Thai-inspired eats in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJbbzspdgsDogRaDj3w09CTU0/reviews/ChdDSUhNMG9nS0VJQ0FnTURJZ3BicHl3RRAB
@@ -355,6 +378,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJb043M253RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJb043M253RRAB!2m1!1s0x880e2cd8a5ecbc6d:0x4d4d424fc3f73868
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Chicago favorite often
+  rave about the tasty Thai classics and creative sushi rolls that hit the spot
+  without breaking the bank, creating a laid-back vibe perfect for casual
+  outings. Many highlight the flavorful dishes like Pad Thai and fresh
+  appetizers that leave you satisfied and eager to return, with service that's
+  consistently friendly and efficient. Folks appreciate the solid options for
+  vegetarians and the overall welcoming feel, making it a reliable choice for
+  groups or quick takeout. While opinions lean positive, some note that ordering
+  close to closing time is handled with grace, adding to the restaurant's
+  approachable charm. Overall, it's clear this place delivers on fresh,
+  enjoyable meals that keep diners coming back for more in the bustling sushi
+  scene.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -386,8 +423,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   An urbane spin-off of Park Ridge's Siam Thai serving both Thai standards & raw
   fish.
 

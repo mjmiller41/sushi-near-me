@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Embers Restaurant"
+title: Embers Restaurant
 permalink: /ohio/cincinnati/embers-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Embers Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.embersrestaurant.com/
-description: "A warm & polished spot offering upscale surf 'n' turf & sushi as well as a happy-hour menu. Embers Restaurant serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJhYjua0JTQIgRR0URtswNntM
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 0
 website: http://www.embersrestaurant.com/
+description: >-
+  Embers Restaurant in Cincinnati, OH$$$Embers Restaurant in Cincinnati, OH,
+  stands out as an upscale steakhouse that blends sophisticated dining with a
+  romantic ambiance, making it a perfect spot for special occasions. This
+  establishment offers a diverse menu featuring premium surf 'n' turf
+  selections, fresh seafood, and creative sushi options that appeal to those
+  seeking Japanese-inspired flavors in a cozy setting. With its polished
+  atmosphere and attention to detail, including wheelchair-accessible features
+  and a variety of small plates, it's ideal for anyone exploring top-rated sushi
+  restaurants nearby. Happy-hour specials add to the allure, providing an
+  accessible way to enjoy expertly crafted cocktails and bites. Whether you're
+  in the mood for elegant dinners or simply great sushi close to you, this venue
+  delivers a memorable experience with its focus on quality and comfort.
+generative_summary: >-
+  Embers Restaurant in Cincinnati, OH$$$Embers Restaurant in Cincinnati, OH,
+  stands out as an upscale steakhouse that blends sophisticated dining with a
+  romantic ambiance, making it a perfect spot for special occasions. This
+  establishment offers a diverse menu featuring premium surf 'n' turf
+  selections, fresh seafood, and creative sushi options that appeal to those
+  seeking Japanese-inspired flavors in a cozy setting. With its polished
+  atmosphere and attention to detail, including wheelchair-accessible features
+  and a variety of small plates, it's ideal for anyone exploring top-rated sushi
+  restaurants nearby. Happy-hour specials add to the allure, providing an
+  accessible way to enjoy expertly crafted cocktails and bites. Whether you're
+  in the mood for elegant dinners or simply great sushi close to you, this venue
+  delivers a memorable experience with its focus on quality and comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJhYjua0JTQIgRR0URtswNntM/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3eEtIQUxBEAE
@@ -376,6 +401,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMdFBPSWlRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMdFBPSWlRRRAB!2m1!1s0x884053426bee8885:0xd39e0dccb6114547
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the delicious sushi
+  and seafood dishes at this spot, highlighting how the fresh rolls and creative
+  presentations make it a standout choice for sushi lovers in the area. Many
+  appreciate the friendly service and well-mixed drinks, which add to the
+  enjoyable, relaxed vibe during meals, though a few note that some entrées
+  could use a bit more refinement for consistent flavor. The cozy atmosphere and
+  attentive staff create a welcoming environment that's great for groups or
+  celebrations, with extras like complimentary desserts leaving a positive
+  impression. Overall, it's praised as a solid pick for quality dining, offering
+  good value despite the higher price point, and feedback suggests it's worth
+  trying for anyone hunting for the best sushi near me. If you're looking for a
+  place with reliable favorites like steaks and sides, this location keeps
+  things upbeat and satisfying for most.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -408,8 +448,8 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A warm & polished spot offering upscale surf 'n' turf & sushi as well as a
   happy-hour menu.
 

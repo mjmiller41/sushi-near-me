@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kaya"
+title: Sushi Kaya
 permalink: /nevada/las-vegas/sushi-kaya.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Sushi Kaya"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushikayalv.com/
-description: "Sushi Kaya serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4VnnC6XGyIARcv1-i6n_OSo
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8c6a50be759e1:0x2a39ffa98b7efd72!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 1
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 1
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 1
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 1
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 2
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 2
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 1:00 AM'
     - 'Tuesday: 11:30 AM – 1:00 AM'
     - 'Wednesday: 11:30 AM – 1:00 AM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 AM'
     - 'Saturday: 11:30 AM – 2:00 AM'
     - 'Sunday: 11:30 AM – 11:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 1:00 AM'
-    - 'Tuesday: 11:30 AM – 1:00 AM'
-    - 'Wednesday: 11:30 AM – 1:00 AM'
-    - 'Thursday: 11:30 AM – 1:00 AM'
-    - 'Friday: 11:30 AM – 2:00 AM'
-    - 'Saturday: 11:30 AM – 2:00 AM'
-    - 'Sunday: 11:30 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T09:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,272 @@ phone: (702) 257-9496
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 2134
 website: http://www.sushikayalv.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Kaya in Las Vegas, NV$$$Sushi Kaya in Las Vegas, NV, stands out
+  as a welcoming Japanese eatery offering an extensive all-you-can-eat selection
+  of fresh sushi rolls and creative specialties that appeal to sushi
+  enthusiasts. The spot features a polished atmosphere with private dining
+  areas, making it ideal for groups seeking a relaxed vibe in the bustling sushi
+  scene. Accessibility is a key highlight, with options like wheelchair-friendly
+  entrances and parking that ensure everyone can enjoy the experience
+  comfortably. Beyond sushi, the menu includes a few Korean-inspired dishes,
+  adding variety for those exploring flavorful Asian cuisine. Open nearly every
+  day with extended hours, it's a convenient choice for locals and visitors
+  alike looking for quality sushi restaurants in the area.
+generative_summary: >-
+  Discover Sushi Kaya in Las Vegas, NV$$$Sushi Kaya in Las Vegas, NV, stands out
+  as a welcoming Japanese eatery offering an extensive all-you-can-eat selection
+  of fresh sushi rolls and creative specialties that appeal to sushi
+  enthusiasts. The spot features a polished atmosphere with private dining
+  areas, making it ideal for groups seeking a relaxed vibe in the bustling sushi
+  scene. Accessibility is a key highlight, with options like wheelchair-friendly
+  entrances and parking that ensure everyone can enjoy the experience
+  comfortably. Beyond sushi, the menu includes a few Korean-inspired dishes,
+  adding variety for those exploring flavorful Asian cuisine. Open nearly every
+  day with extended hours, it's a convenient choice for locals and visitors
+  alike looking for quality sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ4VnnC6XGyIARcv1-i6n_OSo/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3dG83a2J3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        One of my all-time fave sushi all you can eat places in town. Has many
+        great Staples and some inventive options too. The staff is great and
+        keeps up with the crowd on most days, though like everywhere if it's
+        busy things slow down amidweek. As locals, we love coming midday and
+        midwwek amd recommend it for the best service speed and pricing.
+      languageCode: en
+    originalText:
+      text: >-
+        One of my all-time fave sushi all you can eat places in town. Has many
+        great Staples and some inventive options too. The staff is great and
+        keeps up with the crowd on most days, though like everywhere if it's
+        busy things slow down amidweek. As locals, we love coming midday and
+        midwwek amd recommend it for the best service speed and pricing.
+      languageCode: en
+    authorAttribution:
+      displayName: Marc Kassouf
+      uri: https://www.google.com/maps/contrib/117472618151734800649/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXGZR_RfIrX_emhSbswnpE6N63zPYqtWzZHL0v3tsqM2ZZCIZs=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-18T18:58:45.694620Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3dG83a2J3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3dG83a2J3EAE!2m1!1s0x80c8c6a50be759e1:0x2a39ffa98b7efd72
+  - name: >-
+      places/ChIJ4VnnC6XGyIARcv1-i6n_OSo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNncHN1S2ZBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        Used to be really great, but just ok now. I wish it was more saucier as
+        when you dine in. $33.00 to got special 3 roles and one appetizer
+      languageCode: en
+    originalText:
+      text: >-
+        Used to be really great, but just ok now. I wish it was more saucier as
+        when you dine in. $33.00 to got special 3 roles and one appetizer
+      languageCode: en
+    authorAttribution:
+      displayName: Fat boy Gordo
+      uri: https://www.google.com/maps/contrib/107692921315297955742/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUFww2qaZK8_yoYukCH8DC2LL0C1zHe7x-gp6hagtYlHLyN9nCr=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-16T18:59:41.780535Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNncHN1S2ZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNncHN1S2ZBEAE!2m1!1s0x80c8c6a50be759e1:0x2a39ffa98b7efd72
+  - name: >-
+      places/ChIJ4VnnC6XGyIARcv1-i6n_OSo/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3eGMzX3ZRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: |-
+        Great all you can eat. The sushi was tasteful.
+        To many rolls are based on California rolls with pseudo crab meat.
+        Only a couple of rolls are based on fish.
+      languageCode: en
+    originalText:
+      text: |-
+        Great all you can eat. The sushi was tasteful.
+        To many rolls are based on California rolls with pseudo crab meat.
+        Only a couple of rolls are based on fish.
+      languageCode: en
+    authorAttribution:
+      displayName: Yaneck
+      uri: https://www.google.com/maps/contrib/115878228921270936753/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX0UkxhhhOD2xPKgCGmkE5qGlUdssMZMUdNKVpJKZo5ok0-65I0TQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-27T04:29:28.347101Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3eGMzX3ZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3eGMzX3ZRRRAB!2m1!1s0x80c8c6a50be759e1:0x2a39ffa98b7efd72
+  - name: >-
+      places/ChIJ4VnnC6XGyIARcv1-i6n_OSo/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3a0pLRHFRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        Not the best, not the worst. I was hoping they would have sushi with no
+        rice options, a few of my orders didn't come. Now I see why it says 15
+        minutes wait time for some items, because it takes them 15 minutes to
+        remember. For some reason, a few of my nigiri pieces were warm. Plus
+        side, the Cajun albacore was good. Personally, I wouldn't come a second
+        time, disappointing because I was hoping this place would be my second
+        go to for sushi.
+
+        Dinner AYCE for 2 not worth $80.
+      languageCode: en
+    originalText:
+      text: >-
+        Not the best, not the worst. I was hoping they would have sushi with no
+        rice options, a few of my orders didn't come. Now I see why it says 15
+        minutes wait time for some items, because it takes them 15 minutes to
+        remember. For some reason, a few of my nigiri pieces were warm. Plus
+        side, the Cajun albacore was good. Personally, I wouldn't come a second
+        time, disappointing because I was hoping this place would be my second
+        go to for sushi.
+
+        Dinner AYCE for 2 not worth $80.
+      languageCode: en
+    authorAttribution:
+      displayName: Aleida Aguilar
+      uri: https://www.google.com/maps/contrib/111945318986697838042/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWE6oW77oo07CafKbIJrEttsaoLFraLKWSHCcsHXDveyw2PDdm6=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-21T19:31:43.066445Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3a0pLRHFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3a0pLRHFRRRAB!2m1!1s0x80c8c6a50be759e1:0x2a39ffa98b7efd72
+  - name: >-
+      places/ChIJ4VnnC6XGyIARcv1-i6n_OSo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqc2ZhUHR3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 1
+    text:
+      text: >-
+        I was there for the grand opening years ago . Was a great place for
+        sushi.
+
+        Now it's the worst sushi experience I've had . Gas station sushi would
+        be better.
+
+
+        First off, there  were more Flys than customers. One of the servers was
+        using an electronic fly swatter near the table while we were eating.
+
+
+        Every roll was 90% imitated crab with tiny pieces of fish.
+
+        The rice was 3:1 ratio to fish .
+
+        Two of the servers were more occupied on their phones than to deliver
+        orders,  took almost 40 mins for an Alaska roll that was the first
+        order.  All the rolls were soaked in sauce, probably to cover up the
+        taste of old fish.
+
+        The salmon skin salad was soaked in oil with no crisp.
+
+        The pork belly was dry as jerky.
+
+        Avoid this sushi if possible.
+
+        Try some where cleaner and quicker on service like Smile Shota.
+      languageCode: en
+    originalText:
+      text: >-
+        I was there for the grand opening years ago . Was a great place for
+        sushi.
+
+        Now it's the worst sushi experience I've had . Gas station sushi would
+        be better.
+
+
+        First off, there  were more Flys than customers. One of the servers was
+        using an electronic fly swatter near the table while we were eating.
+
+
+        Every roll was 90% imitated crab with tiny pieces of fish.
+
+        The rice was 3:1 ratio to fish .
+
+        Two of the servers were more occupied on their phones than to deliver
+        orders,  took almost 40 mins for an Alaska roll that was the first
+        order.  All the rolls were soaked in sauce, probably to cover up the
+        taste of old fish.
+
+        The salmon skin salad was soaked in oil with no crisp.
+
+        The pork belly was dry as jerky.
+
+        Avoid this sushi if possible.
+
+        Try some where cleaner and quicker on service like Smile Shota.
+      languageCode: en
+    authorAttribution:
+      displayName: Arlo McGovern
+      uri: https://www.google.com/maps/contrib/111879727736337505205/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUO25ay6m9-W3_dGQQO8NbEiE3IiUg9To6wa3doZRufkMb9UuPz=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-04-22T23:54:15.633508Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqc2ZhUHR3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqc2ZhUHR3RRAB!2m1!1s0x80c8c6a50be759e1:0x2a39ffa98b7efd72
+review_summary: >-
+  Insights from Recent Feedback$$$Diners often praise Sushi Kaya for its tasty
+  all-you-can-eat sushi options and solid variety that keeps meals exciting
+  without breaking the bank. While some mention occasional waits during busy
+  times, the overall service tends to be friendly and efficient, especially for
+  midday visits. Feedback highlights the fresh flavors in many rolls, though a
+  few note that certain items could use more sauce or quicker delivery to
+  enhance the experience. On the whole, it's seen as a reliable spot for casual
+  sushi lovers, with positives like the Cajun albacore standing out as a
+  favorite. If you're hunting for top-rated sushi near you, this place delivers
+  a generally satisfying meal that balances fun and affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi & many rolls offered with a few Korean dishes in a polished space with
+  private karaoke rooms.
 
 ---

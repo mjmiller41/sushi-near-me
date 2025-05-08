@@ -5,4 +5,5 @@ permalink: /north-carolina/durham/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Durham
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kura Revolving Sushi Bar"
+title: Kura Revolving Sushi Bar
 permalink: /new-york/carle-place/kura-revolving-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Carle Place
 seo:
-  name: "Kura Revolving Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kura Revolving Sushi Bar serves delicious sushi in Carle Place, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_WtkxRuHwokRckMLJfWUP4k
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kura Revolving Sushi Bar in Carle Place, NY$$$Kura Revolving Sushi
+  Bar in Carle Place, NY, brings a fresh twist to Japanese dining with its
+  innovative conveyor belt system, delivering a variety of sushi options right
+  to your table. This sushi restaurant stands out for its interactive ordering
+  technology, allowing guests to enjoy a seamless and engaging meal experience
+  that combines tradition with modern convenience. Accessibility features like
+  wheelchair-friendly parking and entrances make it an inclusive spot for
+  everyone, enhancing its appeal as a go-to destination for casual sushi
+  outings. Whether you're exploring top-rated sushi places in the area or simply
+  craving authentic flavors, the vibrant atmosphere and creative presentation
+  ensure a memorable visit that captures the essence of Japanese cuisine.
+generative_summary: >-
+  Discover Kura Revolving Sushi Bar in Carle Place, NY$$$Kura Revolving Sushi
+  Bar in Carle Place, NY, brings a fresh twist to Japanese dining with its
+  innovative conveyor belt system, delivering a variety of sushi options right
+  to your table. This sushi restaurant stands out for its interactive ordering
+  technology, allowing guests to enjoy a seamless and engaging meal experience
+  that combines tradition with modern convenience. Accessibility features like
+  wheelchair-friendly parking and entrances make it an inclusive spot for
+  everyone, enhancing its appeal as a go-to destination for casual sushi
+  outings. Whether you're exploring top-rated sushi places in the area or simply
+  craving authentic flavors, the vibrant atmosphere and creative presentation
+  ensure a memorable visit that captures the essence of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks generally enjoy the fun
+  and efficient conveyor belt setup, which makes grabbing fresh sushi rolls feel
+  like an adventure without any fuss. Many highlight the variety of options
+  available, noting that it's a solid pick for those wanting quality Japanese
+  dishes that cater to different tastes and preferences. It's often praised as a
+  family-friendly choice, with comments appreciating the quick service and
+  inviting vibe that keeps things light and enjoyable. Overall, the consensus
+  leans positive, with diners recommending it for anyone searching for reliable
+  sushi restaurants nearby, though some mention portion sizes could vary based
+  on selections. If you're on the hunt for tasty sushi experiences in the
+  region, this spot tends to deliver a satisfying and worthwhile stop.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

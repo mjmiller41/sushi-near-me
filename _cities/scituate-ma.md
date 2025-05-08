@@ -5,4 +5,5 @@ permalink: /massachusetts/scituate/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Scituate
+
 ---

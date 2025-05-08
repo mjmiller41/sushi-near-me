@@ -5,4 +5,5 @@ permalink: /oregon/newberg/
 stateAbbr: OR
 stateName: Oregon
 cityName: Newberg
+
 ---

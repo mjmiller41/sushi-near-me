@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rock N Roll Sushi"
+title: Rock N Roll Sushi
 permalink: /arizona/glendale/rock-n-roll-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Glendale
 seo:
-  name: "Rock N Roll Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Rock N Roll Sushi serves delicious sushi in Glendale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNYZP5NdBK4cRieU4wpHkW1E
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Rock N Roll Sushi in Glendale, AZ$$$Rock N Roll Sushi in Glendale,
+  AZ, brings a lively twist to traditional sushi dining with its casual,
+  music-inspired ambiance and creative American-style rolls. This spot stands
+  out for its fresh flavors and fun atmosphere, making it an ideal choice for
+  anyone craving inventive sushi options in a relaxed setting. Accessibility
+  features like wheelchair-friendly parking and entrances ensure a welcoming
+  experience for all visitors, enhancing its appeal as a go-to destination for
+  local sushi enthusiasts. Whether you're exploring top-rated sushi restaurants
+  in the area, the blend of tasty dishes and thematic vibes here creates an
+  engaging outing that captures the spirit of modern Japanese-inspired cuisine.
+generative_summary: >-
+  Discover Rock N Roll Sushi in Glendale, AZ$$$Rock N Roll Sushi in Glendale,
+  AZ, brings a lively twist to traditional sushi dining with its casual,
+  music-inspired ambiance and creative American-style rolls. This spot stands
+  out for its fresh flavors and fun atmosphere, making it an ideal choice for
+  anyone craving inventive sushi options in a relaxed setting. Accessibility
+  features like wheelchair-friendly parking and entrances ensure a welcoming
+  experience for all visitors, enhancing its appeal as a go-to destination for
+  local sushi enthusiasts. Whether you're exploring top-rated sushi restaurants
+  in the area, the blend of tasty dishes and thematic vibes here creates an
+  engaging outing that captures the spirit of modern Japanese-inspired cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks enjoying sushi spots around Glendale
+  often praise the flavorful rolls and standout specials like creative baked
+  options, paired with refreshing drinks that add to the meal's excitement. The
+  laid-back, music-themed environment and attentive staff make it a hit for
+  casual gatherings, with many highlighting the affordable prices as a big plus
+  for everyday diners. While some note that service can occasionally take a bit
+  longer during busy times, the overall vibe keeps things enjoyable and worth
+  the wait. If you're on the hunt for quality sushi near you, this place
+  delivers solid value with its tasty selections and welcoming feel, making it a
+  reliable choice for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

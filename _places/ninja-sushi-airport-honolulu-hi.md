@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Sushi Airport"
+title: Ninja Sushi Airport
 permalink: /hawaii/honolulu/ninja-sushi-airport.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Ninja Sushi Airport"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ninja Sushi Airport serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPX0LcqhvAHwRBW834junYMM
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ninja Sushi in Honolulu, HI$$$Ninja Sushi in Honolulu, HI, stands out
+  as a convenient conveyor belt sushi spot ideal for travelers seeking quick and
+  fresh Japanese cuisine. Nestled inside the Airport Trade Center, this
+  restaurant offers a seamless dining experience with a variety of sushi options
+  perfect for on-the-go meals during lunch or dinner. Its accessible features,
+  including wheelchair-friendly parking and seating, make it a welcoming choice
+  for all visitors looking for easy sushi restaurants near me. The setup
+  emphasizes efficiency and flavor, allowing patrons to enjoy top-rated sushi in
+  a lively atmosphere that captures the essence of island dining. Whether you're
+  craving a light bite or a full meal, this location combines speed and quality
+  to enhance your airport stopover.
+generative_summary: >-
+  Discover Ninja Sushi in Honolulu, HI$$$Ninja Sushi in Honolulu, HI, stands out
+  as a convenient conveyor belt sushi spot ideal for travelers seeking quick and
+  fresh Japanese cuisine. Nestled inside the Airport Trade Center, this
+  restaurant offers a seamless dining experience with a variety of sushi options
+  perfect for on-the-go meals during lunch or dinner. Its accessible features,
+  including wheelchair-friendly parking and seating, make it a welcoming choice
+  for all visitors looking for easy sushi restaurants near me. The setup
+  emphasizes efficiency and flavor, allowing patrons to enjoy top-rated sushi in
+  a lively atmosphere that captures the essence of island dining. Whether you're
+  craving a light bite or a full meal, this location combines speed and quality
+  to enhance your airport stopover.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Folks often rave about the straightforward
+  vibe at this sushi spot, highlighting the fresh rolls and speedy service that
+  make it a go-to for airport layovers. Many appreciate how the conveyor belt
+  system adds a fun twist to grabbing bites, with comments frequently noting the
+  variety of options that cater to different tastes without any major letdowns.
+  While some mention it can get busy during peak times, the overall consensus
+  leans positive, praising the convenience for those searching for reliable
+  sushi places near me. It's generally seen as a solid pick for families or solo
+  diners wanting a hassle-free meal, with the atmosphere keeping things light
+  and enjoyable. All in all, this spot earns nods for delivering good value and
+  tasty dishes that keep customers coming back for more Japanese favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

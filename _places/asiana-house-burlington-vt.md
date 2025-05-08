@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asiana House"
+title: Asiana House
 permalink: /vermont/burlington/asiana-house.html
 stateAbbr: VT
 stateName: Vermont
 cityName: Burlington
 seo:
-  name: "Asiana House"
-  type: Restaurant
+  type: restaurant
   links: https://www.asianahouse.net/
-description: "Asiana House serves delicious sushi in Burlington, Vermont. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJtbUahPZ6ykwR1m0suhQ2CvU
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://www.asianahouse.net/
+description: >-
+  About Asiana House in Burlington, VT$$$Nestled in the heart of Burlington, VT,
+  Asiana House stands out as a welcoming sushi restaurant offering a blend of
+  casual Asian cuisine that captures the essence of fresh flavors and relaxed
+  dining. This spot delights visitors with its array of sushi rolls, hearty
+  entrees, and a selection of beverages including beer and cocktails, making it
+  ideal for everything from quick lunches to evening outings. The venue boasts
+  accessibility features and outdoor seating, enhancing its appeal for those
+  seeking comfortable and inclusive meal experiences in a vibrant setting. With
+  moderate pricing and options for groups, it's a go-to choice for anyone
+  exploring top-rated sushi spots nearby, where the focus is on satisfying,
+  well-prepared dishes that highlight quality ingredients.
+generative_summary: >-
+  About Asiana House in Burlington, VT$$$Nestled in the heart of Burlington, VT,
+  Asiana House stands out as a welcoming sushi restaurant offering a blend of
+  casual Asian cuisine that captures the essence of fresh flavors and relaxed
+  dining. This spot delights visitors with its array of sushi rolls, hearty
+  entrees, and a selection of beverages including beer and cocktails, making it
+  ideal for everything from quick lunches to evening outings. The venue boasts
+  accessibility features and outdoor seating, enhancing its appeal for those
+  seeking comfortable and inclusive meal experiences in a vibrant setting. With
+  moderate pricing and options for groups, it's a go-to choice for anyone
+  exploring top-rated sushi spots nearby, where the focus is on satisfying,
+  well-prepared dishes that highlight quality ingredients.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJtbUahPZ6ykwR1m0suhQ2CvU/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMGNxLUdnEAE
@@ -329,6 +352,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURGOTZuUXV3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGOTZuUXV3RRAB!2m1!1s0x4cca7af6841ab5b5:0xf50a3614ba2c6dd6
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Asiana House often rave about the
+  standout sushi selections and solid portions that make for a satisfying meal
+  without breaking the bank. Many appreciate the friendly service and generous
+  drinks, adding to the unpretentious vibe that keeps things light and enjoyable
+  for casual diners. While there are occasional mentions of inconsistencies like
+  temperature issues with some items, the overall feedback leans toward positive
+  experiences with flavorful options that encourage return visits. It's clear
+  that this spot holds up well for those hunting for reliable sushi restaurants
+  in the area, with highlights on the welcoming atmosphere and variety that suit
+  both solo outings and group gatherings. If you're on the lookout for fresh
+  Asian fare close to home, it seems like a solid pick based on the enthusiastic
+  nods from recent guests.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -359,7 +396,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

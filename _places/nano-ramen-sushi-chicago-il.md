@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nano Ramen & Sushi"
+title: Nano Ramen & Sushi
 permalink: /illinois/chicago/nano-ramen-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Nano Ramen & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.nanorestaurant.com/
-description: "Creative sushi & ramen plus Thai & Chinese eats, served in a chic, low-lit BYOB eatery. Nano Ramen & Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4-TjzrfTD4gRg3XbBo-jf1s
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.nanorestaurant.com/
+description: >-
+  Experience Nano Ramen & Sushi in Chicago, IL$$$Nestled in the vibrant city of
+  Chicago, IL, Nano Ramen & Sushi stands out as a casual dining spot blending
+  flavorful ramen and fresh sushi rolls in a relaxed, chic atmosphere. This
+  eatery offers a laid-back setting perfect for enjoying creative
+  Japanese-inspired dishes, with options that cater to various tastes including
+  hearty noodle bowls and artfully prepared rolls. Accessibility features make
+  it welcoming for all guests, while the moderate pricing adds to its appeal for
+  everyday meals or special occasions. Whether you're in the mood for a quick
+  bite or a leisurely dinner, this spot delivers on quality and comfort, making
+  it a go-to choice among sushi restaurants in the area.
+generative_summary: >-
+  Experience Nano Ramen & Sushi in Chicago, IL$$$Nestled in the vibrant city of
+  Chicago, IL, Nano Ramen & Sushi stands out as a casual dining spot blending
+  flavorful ramen and fresh sushi rolls in a relaxed, chic atmosphere. This
+  eatery offers a laid-back setting perfect for enjoying creative
+  Japanese-inspired dishes, with options that cater to various tastes including
+  hearty noodle bowls and artfully prepared rolls. Accessibility features make
+  it welcoming for all guests, while the moderate pricing adds to its appeal for
+  everyday meals or special occasions. Whether you're in the mood for a quick
+  bite or a leisurely dinner, this spot delivers on quality and comfort, making
+  it a go-to choice among sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ4-TjzrfTD4gRg3XbBo-jf1s/reviews/ChZDSUhNMG9nS0VJQ0FnSURQdllyck9nEAE
@@ -393,6 +414,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3cUplQ0NnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3cUplQ0NnEAE!2m1!1s0x880fd3b7cee3e4e3:0x5b7fa38f06db7583
+review_summary: >-
+  Buzz Around the Reviews$$$Visitors consistently praise the spot for its tasty
+  ramen and sushi that hit the spot with bold flavors and fresh ingredients,
+  often highlighting how affordable the meals feel without skimping on quality.
+  Folks appreciate the welcoming vibe and smooth service that keeps things
+  easygoing and enjoyable, ideal for casual hangouts or group gatherings. Many
+  note the cozy atmosphere as a perfect escape for unwinding, with meals that
+  leave you satisfied and coming back for more. Overall, it's clear this place
+  scores high for its reliable value and delicious options, making it a solid
+  pick if you're hunting for top-rated Japanese eats nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -424,8 +456,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Creative sushi & ramen plus Thai & Chinese eats, served in a chic, low-lit
   BYOB eatery.
 

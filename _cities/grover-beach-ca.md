@@ -5,4 +5,5 @@ permalink: /california/grover-beach/
 stateAbbr: CA
 stateName: California
 cityName: Grover Beach
+
 ---

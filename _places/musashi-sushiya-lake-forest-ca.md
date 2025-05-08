@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Musashi Sushiya"
+title: Musashi Sushiya
 permalink: /california/lake-forest/musashi-sushiya.html
 stateAbbr: CA
 stateName: California
 cityName: Lake Forest
 seo:
-  name: "Musashi Sushiya"
-  type: Restaurant
+  type: restaurant
   links: http://www.musashisushiya.com/
-description: "Dimly lit Japanese eatery providing creative rolls & sushi plus a happy hour in relaxed environs. Musashi Sushiya serves delicious sushi in Lake Forest, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJw1192Pvo3IARPVqFayAZ19k
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: http://www.musashisushiya.com/
+description: >-
+  Explore Musashi Sushiya in Lake Forest, CA$$$Musashi Sushiya in Lake Forest,
+  CA, stands out as a cozy sushi destination offering a variety of creative
+  rolls and authentic Japanese dishes in a relaxed setting. This eatery delights
+  visitors with fresh, flavorful options that highlight the best of Japanese
+  cuisine, including inventive sushi combinations and happy hour deals that add
+  extra value to your meal. The dimly lit ambiance creates an inviting
+  atmosphere perfect for casual dinners or gatherings with friends, making it a
+  go-to spot for those seeking top-rated sushi experiences nearby. Accessibility
+  features like wheelchair-friendly entrances and seating ensure everyone can
+  enjoy the offerings, while the moderate price range makes it an approachable
+  choice for sushi lovers exploring local Japanese places.
+generative_summary: >-
+  Explore Musashi Sushiya in Lake Forest, CA$$$Musashi Sushiya in Lake Forest,
+  CA, stands out as a cozy sushi destination offering a variety of creative
+  rolls and authentic Japanese dishes in a relaxed setting. This eatery delights
+  visitors with fresh, flavorful options that highlight the best of Japanese
+  cuisine, including inventive sushi combinations and happy hour deals that add
+  extra value to your meal. The dimly lit ambiance creates an inviting
+  atmosphere perfect for casual dinners or gatherings with friends, making it a
+  go-to spot for those seeking top-rated sushi experiences nearby. Accessibility
+  features like wheelchair-friendly entrances and seating ensure everyone can
+  enjoy the offerings, while the moderate price range makes it an approachable
+  choice for sushi lovers exploring local Japanese places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJw1192Pvo3IARPVqFayAZ19k/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBX0wydU93EAE
@@ -372,6 +395,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQcTh5eVRBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQcTh5eVRBEAE!2m1!1s0x80dce8fbd87d5dc3:0xd9d719206b855a3d
+review_summary: >-
+  Insights from Recent Sushi Reviews$$$Visitors to this sushi spot often rave
+  about the fresh and tasty rolls that make every bite memorable, with many
+  highlighting creative options like specialty rolls as standout favorites.
+  Folks appreciate the welcoming vibe and efficient service that enhance the
+  overall dining experience, turning casual meals into enjoyable outings without
+  any major hiccups. While some mention minor preferences for lighting
+  adjustments, the general consensus leans toward it being a hidden gem for
+  quality sushi close to home, ideal for groups or families looking for reliable
+  spots. Overall, it's clear that this place earns its reputation as one of the
+  best sushi restaurants near me, with consistent praise for its flavorful
+  dishes and relaxed atmosphere that keeps patrons coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -403,8 +439,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Dimly lit Japanese eatery providing creative rolls & sushi plus a happy hour
   in relaxed environs.
 

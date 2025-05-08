@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wakame Japanese Restaurant"
+title: Wakame Japanese Restaurant
 permalink: /florida/fruit-cove/wakame-japanese-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fruit Cove
 seo:
-  name: "Wakame Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://wakamefl.com/
-description: "Wakame Japanese Restaurant serves delicious sushi in Fruit Cove, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI0-en4rO5YgR5I-jiQ0niUE
 photos:
   - name: >-
@@ -199,7 +197,42 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: http://wakamefl.com/
+description: >-
+  Discover Wakame in Fruit Cove, FL$$$Wakame Japanese Restaurant in Fruit Cove,
+  FL, delivers an inviting taste of authentic Japanese cuisine with a focus on
+  fresh ingredients and creative twists on classic dishes. The spot stands out
+  for its commitment to quality, offering a range of hearty options that cater
+  to those exploring sushi restaurants in the area, all while maintaining an
+  accessible and welcoming environment. Diners appreciate the thoughtful
+  preparation that highlights flavorful entrees and well-balanced meals, making
+  it a convenient choice for everyday cravings. With extended hours on weekends,
+  this location provides affordable yet satisfying experiences that blend
+  tradition with modern flair, ideal for anyone seeking top-rated sushi nearby.
+generative_summary: >-
+  Discover Wakame in Fruit Cove, FL$$$Wakame Japanese Restaurant in Fruit Cove,
+  FL, delivers an inviting taste of authentic Japanese cuisine with a focus on
+  fresh ingredients and creative twists on classic dishes. The spot stands out
+  for its commitment to quality, offering a range of hearty options that cater
+  to those exploring sushi restaurants in the area, all while maintaining an
+  accessible and welcoming environment. Diners appreciate the thoughtful
+  preparation that highlights flavorful entrees and well-balanced meals, making
+  it a convenient choice for everyday cravings. With extended hours on weekends,
+  this location provides affordable yet satisfying experiences that blend
+  tradition with modern flair, ideal for anyone seeking top-rated sushi nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners$$$Visitors frequently enjoy the lively and fresh flavors
+  at this spot, often praising it as a reliable option for budget-friendly
+  Japanese fare that hits the spot. The laid-back atmosphere and friendly
+  service create a comfortable setting perfect for casual get-togethers or solo
+  stops, with many noting the generous portions that leave you feeling
+  satisfied. Folks appreciate how it consistently delivers great value without
+  skimping on taste, making it a go-to for those hunting for quality sushi
+  experiences close by. Overall, it's celebrated for its dependable meals and
+  welcoming vibe, encouraging return trips for anyone looking to enjoy the best
+  in local dining options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +258,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

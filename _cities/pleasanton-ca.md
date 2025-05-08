@@ -5,4 +5,5 @@ permalink: /california/pleasanton/
 stateAbbr: CA
 stateName: California
 cityName: Pleasanton
+
 ---

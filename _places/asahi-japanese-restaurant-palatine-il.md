@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asahi Japanese Restaurant"
+title: Asahi Japanese Restaurant
 permalink: /illinois/palatine/asahi-japanese-restaurant.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Palatine
 seo:
-  name: "Asahi Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://asahi-palatine.com/
-description: "Small sushi bar crafting traditional & modern rolls & more in an unpretentious setting. Asahi Japanese Restaurant serves delicious sushi in Palatine, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ-0mb4WikD4gRUiCSSqcpGxQ
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: http://asahi-palatine.com/
+description: >-
+  Discover Asahi Japanese Restaurant in Palatine, IL$$$Asahi Japanese Restaurant
+  in Palatine, IL, stands out as a welcoming spot for enjoying fresh sushi and
+  traditional Japanese cuisine in a casual, unpretentious environment nestled
+  within a shopping center. This cozy eatery specializes in a variety of sushi
+  rolls, sashimi, and other Japanese favorites, making it a go-to choice for
+  those seeking reliable sushi restaurants nearby. With its easygoing vibe and
+  focus on quality ingredients, it's ideal for a relaxed meal that highlights
+  both classic and creative dishes. For anyone exploring top-rated sushi options
+  in the area, the menu's emphasis on fresh flavors and approachable dining
+  ensures a satisfying experience that keeps locals coming back.
+generative_summary: >-
+  Discover Asahi Japanese Restaurant in Palatine, IL$$$Asahi Japanese Restaurant
+  in Palatine, IL, stands out as a welcoming spot for enjoying fresh sushi and
+  traditional Japanese cuisine in a casual, unpretentious environment nestled
+  within a shopping center. This cozy eatery specializes in a variety of sushi
+  rolls, sashimi, and other Japanese favorites, making it a go-to choice for
+  those seeking reliable sushi restaurants nearby. With its easygoing vibe and
+  focus on quality ingredients, it's ideal for a relaxed meal that highlights
+  both classic and creative dishes. For anyone exploring top-rated sushi options
+  in the area, the menu's emphasis on fresh flavors and approachable dining
+  ensures a satisfying experience that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-0mb4WikD4gRUiCSSqcpGxQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdVpuQjlRRRAB
@@ -334,6 +355,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURnLTRTV2dnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURnLTRTV2dnRRAB!2m1!1s0x880fa468e19b49fb:0x141b29a74a922052
+review_summary: >-
+  What Customers Love About the Sushi Scene$$$Visitors consistently praise the
+  fresh and flavorful sushi at this spot, with standout rolls like the Hawaiian
+  and Volcano varieties earning high marks for their taste and creativity. Many
+  appreciate the cozy atmosphere and friendly service that make it a comfortable
+  place for casual dinners or takeout, perfect for families or groups looking
+  for reliable Japanese fare. While most feedback highlights the consistently
+  delicious options and generous portions, a few notes mention it's a solid
+  everyday choice without any major surprises. Overall, folks find it a
+  dependable pick for those craving top-rated sushi nearby, with the added bonus
+  of quick service and welcoming vibes that encourage repeat visits. If you're
+  on the hunt for sushi places near me, this location delivers an honest,
+  enjoyable meal that lives up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -366,8 +401,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Small sushi bar crafting traditional & modern rolls & more in an unpretentious
   setting.
 

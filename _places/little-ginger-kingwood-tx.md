@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Little Ginger"
+title: Little Ginger
 permalink: /texas/kingwood/little-ginger.html
 stateAbbr: TX
 stateName: Texas
 cityName: Kingwood
 seo:
-  name: "Little Ginger"
-  type: Restaurant
+  type: restaurant
   links: https://littleginger.kwickmenu.com/
-description: "Little Ginger serves delicious sushi in Kingwood, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ_jh09esQIYRo8_1Egzr_Gg
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640acd7d3e1f827:0x68fceb0c12f5cfa3!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,300 @@ phone: (281) 570-2829
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 248
 website: https://littleginger.kwickmenu.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Little Ginger in Kingwood, TX$$$Little Ginger in Kingwood, TX, stands
+  out as a cozy Japanese eatery offering a blend of fresh sushi rolls, bento
+  boxes, and family-friendly options that make it a go-to spot for casual
+  dining. This relaxed venue emphasizes accessibility with features like
+  wheelchair-friendly parking and seating, ensuring everyone can enjoy its
+  welcoming atmosphere. Patrons appreciate the variety of dishes, including
+  kid-approved meals that cater to all ages, alongside a menu highlighting
+  flavorful Japanese staples. With convenient hours extending into the evening,
+  it's an ideal choice for those seeking authentic tastes without the hassle.
+  Whether you're in the mood for a quick bite or a leisurely meal, this spot
+  delivers on quality and convenience in a serene setting.
+generative_summary: >-
+  Discover Little Ginger in Kingwood, TX$$$Little Ginger in Kingwood, TX, stands
+  out as a cozy Japanese eatery offering a blend of fresh sushi rolls, bento
+  boxes, and family-friendly options that make it a go-to spot for casual
+  dining. This relaxed venue emphasizes accessibility with features like
+  wheelchair-friendly parking and seating, ensuring everyone can enjoy its
+  welcoming atmosphere. Patrons appreciate the variety of dishes, including
+  kid-approved meals that cater to all ages, alongside a menu highlighting
+  flavorful Japanese staples. With convenient hours extending into the evening,
+  it's an ideal choice for those seeking authentic tastes without the hassle.
+  Whether you're in the mood for a quick bite or a leisurely meal, this spot
+  delivers on quality and convenience in a serene setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJJ_jh09esQIYRo8_1Egzr_Gg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvNF82NWN3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Restaurant is always Very clean, I usually order takeout but stopped by
+        for the first time and it was very enjoyable! Food tastes fresh and
+        delicious, our server was very friendly and patient. I highly recommend
+        this restaurant it’s probably one of the best sushi restaurants in
+        kingwood!
+
+
+        Pricing is reasonable and the quality of the food is excellent!!
+      languageCode: en
+    originalText:
+      text: >-
+        Restaurant is always Very clean, I usually order takeout but stopped by
+        for the first time and it was very enjoyable! Food tastes fresh and
+        delicious, our server was very friendly and patient. I highly recommend
+        this restaurant it’s probably one of the best sushi restaurants in
+        kingwood!
+
+
+        Pricing is reasonable and the quality of the food is excellent!!
+      languageCode: en
+    authorAttribution:
+      displayName: Glory Yoani
+      uri: https://www.google.com/maps/contrib/104205024890906018024/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWSbM-Kq1S8nnRrZtIPIjcr29m34U9jK9Q_M1vyq4xIu8Xgrllfgw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-19T15:01:22.180695Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvNF82NWN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNF82NWN3EAE!2m1!1s0x8640acd7d3e1f827:0x68fceb0c12f5cfa3
+  - name: >-
+      places/ChIJJ_jh09esQIYRo8_1Egzr_Gg/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2ODl1cjBnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        We had another wonderful dinner at Little Ginger! Sorry for the late
+        review. We are actually going to dine with Michael at Little Ginger
+        today! Very excited to enjoy some Uni! Michael texted my husband to let
+        him know he was able to purchase some Uni as he knew we were wanting
+        some! Thank you, Michael, you are a great guy and Little Ginger is
+        delicious every single time! At our last visit, we enjoyed some edamame,
+        fresh seaweed salad with squid, salmon, jalapeno crab and cream cheese
+        appetizer (so yummy) and Austn Roll. Everything was fresh and delicious!
+        We look forward to dining there today and highly recommend lunch or
+        dinner when you crave sushi. They also serve many other things, not just
+        sushi. Great restaurant, friendly and personable service and delicious
+        food!
+
+        Melinda and Darrell Breaux
+      languageCode: en
+    originalText:
+      text: >-
+        We had another wonderful dinner at Little Ginger! Sorry for the late
+        review. We are actually going to dine with Michael at Little Ginger
+        today! Very excited to enjoy some Uni! Michael texted my husband to let
+        him know he was able to purchase some Uni as he knew we were wanting
+        some! Thank you, Michael, you are a great guy and Little Ginger is
+        delicious every single time! At our last visit, we enjoyed some edamame,
+        fresh seaweed salad with squid, salmon, jalapeno crab and cream cheese
+        appetizer (so yummy) and Austn Roll. Everything was fresh and delicious!
+        We look forward to dining there today and highly recommend lunch or
+        dinner when you crave sushi. They also serve many other things, not just
+        sushi. Great restaurant, friendly and personable service and delicious
+        food!
+
+        Melinda and Darrell Breaux
+      languageCode: en
+    authorAttribution:
+      displayName: Melinda Sorge
+      uri: https://www.google.com/maps/contrib/101348466239665476496/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ55T0mvr5Ohm-z_W3njOdqEDViIrwJtLJfbBOObB0o5Hj-=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-14T14:52:49.580571Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2ODl1cjBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2ODl1cjBnRRAB!2m1!1s0x8640acd7d3e1f827:0x68fceb0c12f5cfa3
+  - name: >-
+      places/ChIJJ_jh09esQIYRo8_1Egzr_Gg/reviews/ChdDSUhNMG9nS0VJQ0FnSURQbTlUYzJ3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 2
+    text:
+      text: >-
+        Tried this place for the first time today. Ordered a large won ton soup
+        and an order of egg rolls for about $11. Picked it up and the hostess
+        was kind and gave me my order. I was a bit disappointed in the portion
+        sizes, the egg rolls are mini and the wonton soup doesn't seem like a
+        large order. The broth has no flavor and tastes very watered down. The
+        wonton themselves are a bit overcooked and small. Total of 4 wontons in
+        my order. Egg rolls were not my favorite. Would not try this place
+        again.
+      languageCode: en
+    originalText:
+      text: >-
+        Tried this place for the first time today. Ordered a large won ton soup
+        and an order of egg rolls for about $11. Picked it up and the hostess
+        was kind and gave me my order. I was a bit disappointed in the portion
+        sizes, the egg rolls are mini and the wonton soup doesn't seem like a
+        large order. The broth has no flavor and tastes very watered down. The
+        wonton themselves are a bit overcooked and small. Total of 4 wontons in
+        my order. Egg rolls were not my favorite. Would not try this place
+        again.
+      languageCode: en
+    authorAttribution:
+      displayName: daniella ulloa
+      uri: https://www.google.com/maps/contrib/105873354016308445439/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKTt4WaV5WXKpJYv1JnJL6nM0f8k6rJKJUbgQDZgmrfEB1Cpw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-05T18:53:05.726046Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQbTlUYzJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQbTlUYzJ3RRAB!2m1!1s0x8640acd7d3e1f827:0x68fceb0c12f5cfa3
+  - name: >-
+      places/ChIJJ_jh09esQIYRo8_1Egzr_Gg/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3cUlPVDZ3RRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        I really enjoy this restaurant and have visited it three or four times.
+        My boyfriend and I especially love the New Orleans roll—it's so
+        delicious that we keep coming back for it. I wish I had taken a picture,
+        but we always end up devouring the food as soon as it arrives!
+
+
+        Additionally, the atmosphere and music are quite pleasant, and the staff
+        is always friendly. I would definitely recommend this place to family
+        and friends. 😊
+      languageCode: en
+    originalText:
+      text: >-
+        I really enjoy this restaurant and have visited it three or four times.
+        My boyfriend and I especially love the New Orleans roll—it's so
+        delicious that we keep coming back for it. I wish I had taken a picture,
+        but we always end up devouring the food as soon as it arrives!
+
+
+        Additionally, the atmosphere and music are quite pleasant, and the staff
+        is always friendly. I would definitely recommend this place to family
+        and friends. 😊
+      languageCode: en
+    authorAttribution:
+      displayName: Esther Ruth
+      uri: https://www.google.com/maps/contrib/110097430202712533525/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKS54KfPJlrgU4VEtpUzmBFByhUFz9oav2fznKyuzo44JsiLQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-12T02:12:14.434941Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3cUlPVDZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3cUlPVDZ3RRAB!2m1!1s0x8640acd7d3e1f827:0x68fceb0c12f5cfa3
+  - name: >-
+      places/ChIJJ_jh09esQIYRo8_1Egzr_Gg/reviews/ChZDSUhNMG9nS0VJQ0FnSURob2ZlaVNnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The waitstaff are attentive and quick. It is also a nice relaxed
+        atmosphere.
+
+
+        Update:
+
+        We've gone dozens times so far since the first review. Same level of
+        service. It's our favorite sushi place.
+
+        They let me name a couple of custom rolls since we get them all the time
+        now.
+
+        One's called the Natsu Kashi Roll.
+
+        It is the rice based roll.
+
+        The other is the Kobayashi Maru.
+
+        It's one of the cucumber rolls in the pictures.
+
+        Please try one. I hope you enjoy it.
+      languageCode: en
+    originalText:
+      text: >-
+        The waitstaff are attentive and quick. It is also a nice relaxed
+        atmosphere.
+
+
+        Update:
+
+        We've gone dozens times so far since the first review. Same level of
+        service. It's our favorite sushi place.
+
+        They let me name a couple of custom rolls since we get them all the time
+        now.
+
+        One's called the Natsu Kashi Roll.
+
+        It is the rice based roll.
+
+        The other is the Kobayashi Maru.
+
+        It's one of the cucumber rolls in the pictures.
+
+        Please try one. I hope you enjoy it.
+      languageCode: en
+    authorAttribution:
+      displayName: Chad Newman
+      uri: https://www.google.com/maps/contrib/107769256976443451622/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXC3euGkAWVs1RkF8r1YvhncY5fdxgm4sMA13k2JBDhWfMPAZVwWA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-29T19:34:29.924596Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURob2ZlaVNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURob2ZlaVNnEAE!2m1!1s0x8640acd7d3e1f827:0x68fceb0c12f5cfa3
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often rave about the
+  fresh and delicious sushi selections that keep them coming back for more,
+  praising the overall quality and reasonable prices that make it a solid pick
+  for everyday meals. Many highlight the friendly service and relaxed vibe,
+  noting how it enhances the dining experience with attentive staff and a
+  comfortable environment. While a few mentions point to occasional
+  inconsistencies with certain appetizers like soups, the majority agree that
+  the standout dishes and welcoming atmosphere outweigh any minor drawbacks.
+  Overall, it's a favorite for groups and families, with plenty of positive
+  feedback on the variety of options that suit different tastes. If you're
+  exploring local Japanese cuisine, this place offers a reliably enjoyable
+  experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
+live_music: false
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

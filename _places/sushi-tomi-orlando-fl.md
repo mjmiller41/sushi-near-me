@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Tomi"
+title: Sushi Tomi
 permalink: /florida/orlando/sushi-tomi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Sushi Tomi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushitomiorlando.com/
-description: "Familiar Japanese restaurant & sushi bar offering a full menu including other Japanese specialties. Sushi Tomi serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJQ83xudV954gRnaZsKRtLWbg
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: http://www.sushitomiorlando.com/
+description: >-
+  Explore Sushi Tomi in Orlando, FL$$$Sushi Tomi in Orlando, FL, stands out as a
+  cozy Japanese restaurant and sushi bar that delights with its authentic
+  flavors and fresh offerings. The spot emphasizes high-quality ingredients and
+  traditional preparation methods, making it a favorite for those seeking
+  genuine Japanese cuisine in a welcoming atmosphere. Diners enjoy a variety of
+  specialties like expertly crafted sushi and tempura, which highlight the
+  restaurant's commitment to taste and quality. With reasonable pricing and
+  efficient service, it's an ideal choice for anyone exploring sushi restaurants
+  in the area, offering a satisfying experience that feels both accessible and
+  true to its roots.
+generative_summary: >-
+  Explore Sushi Tomi in Orlando, FL$$$Sushi Tomi in Orlando, FL, stands out as a
+  cozy Japanese restaurant and sushi bar that delights with its authentic
+  flavors and fresh offerings. The spot emphasizes high-quality ingredients and
+  traditional preparation methods, making it a favorite for those seeking
+  genuine Japanese cuisine in a welcoming atmosphere. Diners enjoy a variety of
+  specialties like expertly crafted sushi and tempura, which highlight the
+  restaurant's commitment to taste and quality. With reasonable pricing and
+  efficient service, it's an ideal choice for anyone exploring sushi restaurants
+  in the area, offering a satisfying experience that feels both accessible and
+  true to its roots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQ83xudV954gRnaZsKRtLWbg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBbE1Md1JnEAE
@@ -340,6 +361,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnaGQzTkRBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnaGQzTkRBEAE!2m1!1s0x88e77dd5b9f1cd43:0xb8594b1b296ca69d
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Orlando sushi spot often rave
+  about the fresh, authentic flavors that make meals feel truly special, with
+  many highlighting the high-quality ingredients and well-prepared dishes like
+  tempura and rice. While most folks appreciate the friendly service and great
+  value for money, a few mentions note occasional inconsistencies in certain
+  items or busier times affecting attentiveness. Overall, it's a hit for sushi
+  enthusiasts looking for reliable options nearby, as the positives far outweigh
+  any minor hiccups, creating a generally enjoyable vibe. If you're searching
+  for top-rated sushi places, this one delivers on taste and authenticity while
+  keeping things approachable for groups or casual diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -373,8 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Familiar Japanese restaurant & sushi bar offering a full menu including other
   Japanese specialties.
 

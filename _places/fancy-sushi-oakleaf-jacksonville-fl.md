@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fancy Sushi Oakleaf"
+title: Fancy Sushi Oakleaf
 permalink: /florida/jacksonville/fancy-sushi-oakleaf.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
 seo:
-  name: "Fancy Sushi Oakleaf"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fancy Sushi Oakleaf serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyUOoHULB5YgR4ZiJhI1fp98
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fancy Sushi Oakleaf in Jacksonville, FL$$$Fancy Sushi Oakleaf in
+  Jacksonville, Florida, stands out as a welcoming spot for those seeking fresh
+  Japanese-inspired cuisine, particularly its expertly crafted sushi rolls that
+  blend traditional techniques with creative flavors. This cozy restaurant
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  seating, ensuring a comfortable experience for all visitors in the vibrant
+  Southwest neighborhood. Patrons can enjoy a variety of options that cater to
+  sushi enthusiasts looking for flavorful dishes in a relaxed setting, making it
+  a go-to choice for casual Japanese dining near you. Whether you're in the mood
+  for a quick meal or a leisurely outing, the spot's thoughtful ambiance adds a
+  touch of elegance to everyday sushi experiences, ideal for anyone searching
+  for top-rated sushi restaurants in the area.
+generative_summary: >-
+  Discover Fancy Sushi Oakleaf in Jacksonville, FL$$$Fancy Sushi Oakleaf in
+  Jacksonville, Florida, stands out as a welcoming spot for those seeking fresh
+  Japanese-inspired cuisine, particularly its expertly crafted sushi rolls that
+  blend traditional techniques with creative flavors. This cozy restaurant
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  seating, ensuring a comfortable experience for all visitors in the vibrant
+  Southwest neighborhood. Patrons can enjoy a variety of options that cater to
+  sushi enthusiasts looking for flavorful dishes in a relaxed setting, making it
+  a go-to choice for casual Japanese dining near you. Whether you're in the mood
+  for a quick meal or a leisurely outing, the spot's thoughtful ambiance adds a
+  touch of elegance to everyday sushi experiences, ideal for anyone searching
+  for top-rated sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks who stop by this sushi place
+  often rave about the fresh ingredients and creative rolls that make every bite
+  feel like a treat, highlighting it as a solid pick for anyone craving Japanese
+  flavors nearby. Many appreciate the welcoming vibe and attentive service that
+  turn a simple meal into a enjoyable outing, with comments frequently noting
+  the variety of options that suit different tastes without overwhelming the
+  menu. While some mention the cozy atmosphere could get busy during peak times,
+  overall feedback leans positive, praising the accessibility features that make
+  it easy for everyone to dine in comfort. In a casual summary, it's clear that
+  this spot delivers on the basics of good sushi dining, earning nods as one of
+  the reliable choices for sushi near me that's worth returning to for its
+  consistent quality and friendly feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

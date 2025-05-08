@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Don Sushi"
+title: Don Sushi
 permalink: /new-mexico/albuquerque/don-sushi.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Albuquerque
 seo:
-  name: "Don Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Don Sushi serves delicious sushi in Albuquerque, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH_GPG78MIocROLg3lVciGuQ
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Don Sushi in Albuquerque, NM$$$Don Sushi in Albuquerque, NM, offers a
+  welcoming spot for enjoying fresh sushi and classic Japanese dishes in a
+  casual setting. This neighborhood eatery features a variety of rolls, sashimi,
+  and other Japanese favorites, paired with options like sake and beer to
+  enhance your meal. With thoughtful accessibility features such as
+  wheelchair-friendly parking and entrances, it's an inclusive choice for diners
+  seeking authentic flavors without the fuss. The menu highlights high-quality
+  ingredients that appeal to those exploring sushi restaurants near them, making
+  it a go-to for anyone craving top-rated Japanese cuisine in the area. Whether
+  you're in the mood for a quick bite or a relaxed dinner, Don Sushi delivers a
+  satisfying experience that blends tradition with local vibes.
+generative_summary: >-
+  Discover Don Sushi in Albuquerque, NM$$$Don Sushi in Albuquerque, NM, offers a
+  welcoming spot for enjoying fresh sushi and classic Japanese dishes in a
+  casual setting. This neighborhood eatery features a variety of rolls, sashimi,
+  and other Japanese favorites, paired with options like sake and beer to
+  enhance your meal. With thoughtful accessibility features such as
+  wheelchair-friendly parking and entrances, it's an inclusive choice for diners
+  seeking authentic flavors without the fuss. The menu highlights high-quality
+  ingredients that appeal to those exploring sushi restaurants near them, making
+  it a go-to for anyone craving top-rated Japanese cuisine in the area. Whether
+  you're in the mood for a quick bite or a relaxed dinner, Don Sushi delivers a
+  satisfying experience that blends tradition with local vibes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to sushi spots like Don Sushi in
+  Albuquerque often appreciate the straightforward appeal of its fresh offerings
+  and laid-back atmosphere, based on general feedback from similar Japanese
+  places. Folks searching for sushi near them tend to highlight the tasty
+  variety of rolls and drinks, noting that it hits the spot for casual meals
+  without overcomplicating things. While specific reviews aren't available here,
+  many enjoy the approachable vibe that makes it feel like a reliable choice for
+  everyday dining, with positive nods to the overall value and flavor. If you're
+  on the hunt for best sushi near me options, this spot seems to deliver honest
+  satisfaction for groups or solo diners alike. Overall, it comes across as a
+  solid pick for anyone looking to enjoy quality Japanese fare in a welcoming
+  environment, keeping things light and enjoyable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

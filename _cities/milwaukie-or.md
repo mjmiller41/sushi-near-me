@@ -5,4 +5,5 @@ permalink: /oregon/milwaukie/
 stateAbbr: OR
 stateName: Oregon
 cityName: Milwaukie
+
 ---

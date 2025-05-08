@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Plum House"
+title: Plum House
 permalink: /new-york/rochester/plum-house.html
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
 seo:
-  name: "Plum House"
-  type: Restaurant
+  type: restaurant
   links: https://www.plumhouse686.com/
-description: "Plum House serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJR3DQ6w211okRvHfN_2U2pyg
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: https://www.plumhouse686.com/
+description: >-
+  Discover Plum House in Rochester, NY$$$Plum House in Rochester, NY, stands out
+  as a traditional Japanese spot where fresh sushi and flavorful options take
+  center stage in a welcoming atmosphere. This eatery offers an array of
+  expertly crafted sushi rolls, complemented by selections of sake and beer,
+  making it a go-to choice for anyone craving authentic Japanese flavors right
+  in the heart of the city. With accessible features like wheelchair-friendly
+  entrances and parking, it's designed for everyone to enjoy a seamless dining
+  experience. The moderate price range ensures great value without compromising
+  on quality, appealing to those exploring top-rated sushi restaurants nearby.
+  Whether you're in the mood for a quick bite or a relaxed meal, Plum House
+  delivers on taste and convenience in Rochester's vibrant scene.
+generative_summary: >-
+  Discover Plum House in Rochester, NY$$$Plum House in Rochester, NY, stands out
+  as a traditional Japanese spot where fresh sushi and flavorful options take
+  center stage in a welcoming atmosphere. This eatery offers an array of
+  expertly crafted sushi rolls, complemented by selections of sake and beer,
+  making it a go-to choice for anyone craving authentic Japanese flavors right
+  in the heart of the city. With accessible features like wheelchair-friendly
+  entrances and parking, it's designed for everyone to enjoy a seamless dining
+  experience. The moderate price range ensures great value without compromising
+  on quality, appealing to those exploring top-rated sushi restaurants nearby.
+  Whether you're in the mood for a quick bite or a relaxed meal, Plum House
+  delivers on taste and convenience in Rochester's vibrant scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJR3DQ6w211okRvHfN_2U2pyg/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3cDlIaFRnEAE
@@ -388,6 +411,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmNXRXQmFBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmNXRXQmFBEAE!2m1!1s0x89d6b50debd07047:0x28a73665ffcd77bc
+review_summary: >-
+  Insights from Recent Feedback$$$Folks dining at this spot often highlight the
+  fantastic deals on lunch specials, praising the fresh sushi rolls and generous
+  portions that make every visit feel worthwhile. Many appreciate how quickly
+  the food arrives, turning a simple meal into a satisfying escape without much
+  wait time. While service can vary from visit to visit, the overall vibe
+  remains friendly and accommodating, adding to the charm of the place. If
+  you're hunting for sushi places near you, the emphasis on value and flavor
+  keeps drawing people back for more. All in all, it's a solid pick for enjoying
+  Japanese cuisine with a positive spin on everyday eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -419,7 +453,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

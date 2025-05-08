@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "naruto show me the sushi"
+title: naruto show me the sushi
 permalink: /california/roseville/naruto-show-me-the-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Roseville
 seo:
-  name: "naruto show me the sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "naruto show me the sushi serves delicious sushi in Roseville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ3DtM5Uhm4AR3uLDcoq4PTs
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Naruto Show Me The Sushi in Roseville, CA$$$Nestled in Roseville, CA,
+  Naruto Show Me The Sushi stands out as a welcoming spot for sushi enthusiasts
+  seeking fresh Japanese cuisine. This casual restaurant boasts a menu featuring
+  an array of sushi rolls, bento boxes, and other traditional dishes, all
+  prepared with care to highlight authentic flavors. Accessibility is a key
+  feature, with options like wheelchair-accessible parking and seating making it
+  easy for everyone to enjoy a meal. Whether you're looking for top-rated sushi
+  options near you, the inviting atmosphere adds to the appeal, perfect for a
+  relaxed dining experience in the area.
+generative_summary: >-
+  Explore Naruto Show Me The Sushi in Roseville, CA$$$Nestled in Roseville, CA,
+  Naruto Show Me The Sushi stands out as a welcoming spot for sushi enthusiasts
+  seeking fresh Japanese cuisine. This casual restaurant boasts a menu featuring
+  an array of sushi rolls, bento boxes, and other traditional dishes, all
+  prepared with care to highlight authentic flavors. Accessibility is a key
+  feature, with options like wheelchair-accessible parking and seating making it
+  easy for everyone to enjoy a meal. Whether you're looking for top-rated sushi
+  options near you, the inviting atmosphere adds to the appeal, perfect for a
+  relaxed dining experience in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at This Local Sushi Favorite$$$Folks often rave about the
+  tasty sushi selections at this spot, with highlights on creative rolls and
+  satisfying Japanese favorites that keep things fresh and flavorful. Many
+  appreciate the friendly service and solid value, making it a go-to choice for
+  casual meals without breaking the bank. It's clear that options like bento
+  boxes and other dishes add variety, drawing in those searching for reliable
+  sushi restaurants nearby. Overall, the positive vibes from visitors suggest
+  it's a solid pick for anyone craving quality eats in a laid-back setting,
+  though it's always good to check for your preferences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

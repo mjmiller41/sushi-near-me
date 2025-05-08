@@ -5,4 +5,5 @@ permalink: /alabama/gardendale/
 stateAbbr: AL
 stateName: Alabama
 cityName: Gardendale
+
 ---

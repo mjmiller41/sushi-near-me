@@ -5,4 +5,5 @@ permalink: /new-hampshire/manchester/
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Manchester
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Okumura Restaurant"
+title: Okumura Restaurant
 permalink: /california/encino/okumura-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Encino
 seo:
-  name: "Okumura Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Okumura Restaurant serves delicious sushi in Encino, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvUgMC0qYwoARFUUg7uLiVwM
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Okumura Restaurant in Encino, CA$$$Okumura Restaurant in Encino, CA,
+  provides a laid-back spot for enjoying fresh sushi and Japanese dishes, making
+  it a go-to choice for local diners seeking authentic flavors. This casual
+  eatery features a variety of sushi options alongside traditional fare like
+  sake, creating a welcoming atmosphere for anyone exploring Japanese cuisine
+  nearby. With accessibility features such as wheelchair-friendly parking and
+  entrances, it ensures a comfortable visit for all guests. The menu highlights
+  high-quality ingredients that appeal to those hunting for top-rated sushi
+  restaurants in the area, blending simplicity with satisfying tastes.
+generative_summary: >-
+  Discover Okumura Restaurant in Encino, CA$$$Okumura Restaurant in Encino, CA,
+  provides a laid-back spot for enjoying fresh sushi and Japanese dishes, making
+  it a go-to choice for local diners seeking authentic flavors. This casual
+  eatery features a variety of sushi options alongside traditional fare like
+  sake, creating a welcoming atmosphere for anyone exploring Japanese cuisine
+  nearby. With accessibility features such as wheelchair-friendly parking and
+  entrances, it ensures a comfortable visit for all guests. The menu highlights
+  high-quality ingredients that appeal to those hunting for top-rated sushi
+  restaurants in the area, blending simplicity with satisfying tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at This Sushi Spot$$$Diners at this Japanese restaurant
+  often praise the fresh and well-prepared sushi, noting it as a standout
+  feature for casual meals in the neighborhood. Many appreciate the approachable
+  vibe and solid portions that make it feel like a reliable choice for everyday
+  dining. Feedback frequently mentions the welcoming service and overall value,
+  helping it build a positive reputation among sushi enthusiasts. While
+  experiences can vary, the general consensus highlights it as a solid option
+  for those searching for sushi places near me, with most visitors leaving
+  satisfied. Overall, it's seen as a neighborhood favorite that delivers on
+  flavor without overcomplicating things.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

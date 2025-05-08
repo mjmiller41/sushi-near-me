@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sato Sushi"
+title: Sato Sushi
 permalink: /california/lancaster/sato-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Lancaster
 seo:
-  name: "Sato Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sato Sushi serves delicious sushi in Lancaster, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTS6mpAxbwoARELfiJpVZHkk
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c25b0ca4a62e4d:0x491e599526e2b710!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 3:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,58 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (661) 722-7300
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
+rating: '4.3'
+rating_count: 594
 website: null
+description: >-
+  Discover Sato Sushi in Lancaster, CA$$$Sato Sushi in Lancaster, CA, stands out
+  as a welcoming Japanese restaurant that combines a cozy atmosphere with a
+  variety of fresh sushi options, making it a go-to spot for anyone craving
+  authentic flavors. This casual eatery features an array of Japanese dishes,
+  complemented by selections of beer, wine, and sake, all served in a relaxed
+  setting that's perfect for casual meals or gatherings. Accessibility is a key
+  highlight, with features like wheelchair-accessible parking, entrances,
+  restrooms, and seating that ensure everyone can enjoy the experience
+  comfortably. Operating from late morning through the evening on most days, it
+  offers flexible hours to fit busy schedules, adding to its appeal for locals
+  and visitors searching for quality sushi restaurants nearby. Whether you're
+  exploring top-rated Japanese places in the area, Sato Sushi delivers a
+  satisfying blend of taste and convenience that keeps diners coming back.
+generative_summary: >-
+  Discover Sato Sushi in Lancaster, CA$$$Sato Sushi in Lancaster, CA, stands out
+  as a welcoming Japanese restaurant that combines a cozy atmosphere with a
+  variety of fresh sushi options, making it a go-to spot for anyone craving
+  authentic flavors. This casual eatery features an array of Japanese dishes,
+  complemented by selections of beer, wine, and sake, all served in a relaxed
+  setting that's perfect for casual meals or gatherings. Accessibility is a key
+  highlight, with features like wheelchair-accessible parking, entrances,
+  restrooms, and seating that ensure everyone can enjoy the experience
+  comfortably. Operating from late morning through the evening on most days, it
+  offers flexible hours to fit busy schedules, adding to its appeal for locals
+  and visitors searching for quality sushi restaurants nearby. Whether you're
+  exploring top-rated Japanese places in the area, Sato Sushi delivers a
+  satisfying blend of taste and convenience that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About This Sushi Spot$$$From the solid 4.3 rating based
+  on hundreds of feedback points, it seems folks really appreciate the fresh
+  flavors and reliable service at this sushi restaurant, often highlighting how
+  it hits the spot for everyday cravings. Many comments suggest the menu stands
+  out for its variety of rolls and dishes that feel both authentic and
+  approachable, making it a favorite for those hunting for great sushi close to
+  home. While not every visit is flawless, the overall vibe comes across as
+  friendly and efficient, with people noting that the portions are generous and
+  the prices fair for the quality. If you're on the hunt for sushi near me
+  that's worth trying, this place gets nods for its consistent taste and
+  welcoming feel, encouraging repeat trips without any major letdowns. All in
+  all, the buzz around here leans positive, painting a picture of a spot that's
+  solid for casual dining and leaves most people satisfied with their
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +319,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

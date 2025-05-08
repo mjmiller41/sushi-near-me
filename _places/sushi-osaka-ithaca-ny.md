@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Osaka"
+title: Sushi Osaka
 permalink: /new-york/ithaca/sushi-osaka.html
 stateAbbr: NY
 stateName: New York
 cityName: Ithaca
 seo:
-  name: "Sushi Osaka"
-  type: Restaurant
-  links: null
-description: "Sushi Osaka serves delicious sushi in Ithaca, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushiosakaithacany.com/
 place_id: ChIJtROEX5yB0IkRgx7c1nGxCpo
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89d0819c5f8413b5:0x9a0ab171d6dc1e83!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (607) 379-6128
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 280
+website: https://www.sushiosakaithacany.com/
+description: >-
+  Discover Sushi Osaka in Ithaca, NY$$$Sushi Osaka in Ithaca, New York, stands
+  out as a casual spot for enjoying fresh Japanese cuisine, particularly its
+  array of sushi options that highlight quality ingredients and traditional
+  flavors. Located in the heart of downtown, this sushi restaurant offers a
+  welcoming atmosphere with convenient accessibility features, making it easy
+  for everyone to savor a meal. Diners can explore a menu featuring creative
+  rolls and classic dishes, perfect for those seeking authentic tastes in a
+  relaxed setting. With daily hours extending into the evening, it's an ideal
+  choice for anyone looking for sushi places near me to unwind after a day of
+  exploring the area.
+generative_summary: >-
+  Discover Sushi Osaka in Ithaca, NY$$$Sushi Osaka in Ithaca, New York, stands
+  out as a casual spot for enjoying fresh Japanese cuisine, particularly its
+  array of sushi options that highlight quality ingredients and traditional
+  flavors. Located in the heart of downtown, this sushi restaurant offers a
+  welcoming atmosphere with convenient accessibility features, making it easy
+  for everyone to savor a meal. Diners can explore a menu featuring creative
+  rolls and classic dishes, perfect for those seeking authentic tastes in a
+  relaxed setting. With daily hours extending into the evening, it's an ideal
+  choice for anyone looking for sushi places near me to unwind after a day of
+  exploring the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks generally appreciate the fresh and flavorful
+  sushi at this spot, often noting how it hits the spot for a satisfying meal
+  without breaking the bank. Many highlight the variety of options that cater to
+  different tastes, making it a go-to for casual Japanese dining experiences.
+  The service tends to be friendly and efficient, contributing to a pleasant
+  overall vibe that's great for groups or solo visits. While some mention
+  occasional waits during peak times, the consensus leans positive, with plenty
+  of praise for the authentic flavors that keep people coming back for more
+  sushi near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

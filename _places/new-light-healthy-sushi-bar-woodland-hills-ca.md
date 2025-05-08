@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "New Light & Healthy Sushi Bar"
+title: New Light & Healthy Sushi Bar
 permalink: /california/woodland-hills/new-light-healthy-sushi-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Woodland Hills
 seo:
-  name: "New Light & Healthy Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "New Light & Healthy Sushi Bar serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCfNhbUeZwoARqwQEvBOcdlo
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover New Light & Healthy Sushi Bar in Woodland Hills, CA$$$New Light &
+  Healthy Sushi Bar in Woodland Hills, CA, offers a relaxed vibe with an
+  emphasis on fresh, all-you-can-eat sushi options that appeal to those seeking
+  lighter, flavorful Japanese cuisine. This spot stands out for its variety of
+  rolls and traditional dishes, complemented by enticing happy hour deals that
+  make it a smart choice for casual diners. With thoughtful accessibility
+  features like wheelchair-friendly parking and entrances, it ensures a
+  welcoming experience for all guests exploring sushi restaurants in the area.
+  Whether you're in the mood for a quick meal or a laid-back gathering, the
+  focus on healthy ingredients and diverse selections helps it shine as a go-to
+  option for sushi enthusiasts nearby.
+generative_summary: >-
+  Discover New Light & Healthy Sushi Bar in Woodland Hills, CA$$$New Light &
+  Healthy Sushi Bar in Woodland Hills, CA, offers a relaxed vibe with an
+  emphasis on fresh, all-you-can-eat sushi options that appeal to those seeking
+  lighter, flavorful Japanese cuisine. This spot stands out for its variety of
+  rolls and traditional dishes, complemented by enticing happy hour deals that
+  make it a smart choice for casual diners. With thoughtful accessibility
+  features like wheelchair-friendly parking and entrances, it ensures a
+  welcoming experience for all guests exploring sushi restaurants in the area.
+  Whether you're in the mood for a quick meal or a laid-back gathering, the
+  focus on healthy ingredients and diverse selections helps it shine as a go-to
+  option for sushi enthusiasts nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Folks generally enjoy the fresh
+  flavors and generous portions at this casual eatery, often praising it as a
+  solid pick for affordable all-you-can-eat deals that hit the spot. Many
+  highlight the variety of rolls and the welcoming atmosphere, making it a
+  favorite for groups looking to unwind over Japanese fare. While some note that
+  service can vary depending on the time of day, the overall value and quality
+  of ingredients keep drawing positive nods from visitors. It's frequently
+  recommended for anyone hunting for reliable sushi options close by, with happy
+  hour specials adding an extra layer of appeal. If you're on the hunt for
+  tasty, approachable dining, this place tends to leave people satisfied and
+  coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

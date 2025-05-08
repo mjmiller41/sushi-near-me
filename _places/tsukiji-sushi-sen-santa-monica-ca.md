@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsukiji Sushi Sen"
+title: Tsukiji Sushi Sen
 permalink: /california/santa-monica/tsukiji-sushi-sen.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
 seo:
-  name: "Tsukiji Sushi Sen"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tsukiji Sushi Sen serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLYbxHdK6woARk8ZRhofs4eA
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bad21df1862d:0xe0e1ec878651c693!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,54 +234,345 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:00 PM'
+      - 'Tuesday: 3:00 – 6:00 PM'
+      - 'Wednesday: 3:00 – 6:00 PM'
+      - 'Thursday: 3:00 – 6:00 PM'
+      - 'Friday: 3:00 – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T22:00:00Z'
 phone: (310) 581-3525
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.1'
-rating_count: 0
+rating_count: 237
 website: null
-reviews: null
+description: >-
+  Discover Tsukiji Sushi Sen in Santa Monica, CA$$$Tsukiji Sushi Sen in Santa
+  Monica, CA, stands out as a welcoming Japanese restaurant offering fresh sushi
+  rolls, bento boxes, and seafood specialties in a relaxed, casual atmosphere.
+  The spot features funky decor that adds a fun twist to traditional dining,
+  making it an ideal choice for those exploring sushi restaurants near the
+  coast. Patrons can enjoy a variety of familiar Japanese dishes alongside sake
+  and beer, creating a laid-back setting perfect for casual meals or quick
+  bites. With its emphasis on quality ingredients and accessible vibe, it's a
+  great option for anyone searching for top-rated sushi experiences close to
+  home. The restaurant's accessibility features, like wheelchair-friendly
+  entrances, ensure a comfortable visit for all.
+generative_summary: >-
+  Discover Tsukiji Sushi Sen in Santa Monica, CA$$$Tsukiji Sushi Sen in Santa
+  Monica, CA, stands out as a welcoming Japanese restaurant offering fresh sushi
+  rolls, bento boxes, and seafood specialties in a relaxed, casual atmosphere.
+  The spot features funky decor that adds a fun twist to traditional dining,
+  making it an ideal choice for those exploring sushi restaurants near the
+  coast. Patrons can enjoy a variety of familiar Japanese dishes alongside sake
+  and beer, creating a laid-back setting perfect for casual meals or quick
+  bites. With its emphasis on quality ingredients and accessible vibe, it's a
+  great option for anyone searching for top-rated sushi experiences close to
+  home. The restaurant's accessibility features, like wheelchair-friendly
+  entrances, ensure a comfortable visit for all.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJLYbxHdK6woARk8ZRhofs4eA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUNF96UFFREAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing place! It’s located in the middle of Santa Monica's Main Street.
+        I went there on a Friday night, and there was enough space for three
+        people. I tried various sushi and sashimi dishes, all of which were
+        impressive. I highly recommend Chutoro here. Also Engawa Sushi and
+        Simaaji were fresh with exquisite flavors. The house sake, both cold and
+        hot, was fantastic. The chefs were all very kind, adding to the great
+        experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing place! It’s located in the middle of Santa Monica's Main Street.
+        I went there on a Friday night, and there was enough space for three
+        people. I tried various sushi and sashimi dishes, all of which were
+        impressive. I highly recommend Chutoro here. Also Engawa Sushi and
+        Simaaji were fresh with exquisite flavors. The house sake, both cold and
+        hot, was fantastic. The chefs were all very kind, adding to the great
+        experience.
+      languageCode: en
+    authorAttribution:
+      displayName: 문가린
+      uri: https://www.google.com/maps/contrib/117186147217555297286/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU6Enmornkt9_aWJj3EUEsjMM-kQ9CNH3aqLXTLMcFEeEk4-brD=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-05-18T17:53:10.791826Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUNF96UFFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUNF96UFFREAE!2m1!1s0x80c2bad21df1862d:0xe0e1ec878651c693
+  - name: >-
+      places/ChIJLYbxHdK6woARk8ZRhofs4eA/reviews/ChdDSUhNMG9nS0VJQ0FnSURIb2J2S29nRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Delicious, fresh sushi. Very cozy,  esthetic, relaxing little oasis in
+        the heart of Main Street Santa Monica. Chris was very welcoming,
+        knowledgeable in assisting with my selection
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious, fresh sushi. Very cozy,  esthetic, relaxing little oasis in
+        the heart of Main Street Santa Monica. Chris was very welcoming,
+        knowledgeable in assisting with my selection
+      languageCode: en
+    authorAttribution:
+      displayName: Rodica “Rachel” Carroll
+      uri: https://www.google.com/maps/contrib/106632102865183640354/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUGoUX9pUAFkcEAKDqiacvIC-x7g6CrRx-bZS37VRCb_tyQrJxSNQ=s128-c0x00000000-cc-rp-mo-ba8
+    publishTime: '2024-09-16T20:52:12.796920Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIb2J2S29nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIb2J2S29nRRAB!2m1!1s0x80c2bad21df1862d:0xe0e1ec878651c693
+  - name: >-
+      places/ChIJLYbxHdK6woARk8ZRhofs4eA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNveWJEYlZnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Superbly delicious sushi and sashimi served in beautifully crafted
+        presentations. The sushi "happy hour" is perfection. The service is
+        excellent.
+      languageCode: en
+    originalText:
+      text: >-
+        Superbly delicious sushi and sashimi served in beautifully crafted
+        presentations. The sushi "happy hour" is perfection. The service is
+        excellent.
+      languageCode: en
+    authorAttribution:
+      displayName: Praia Menino
+      uri: https://www.google.com/maps/contrib/112289867195661386315/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKwUiYCfKePHX2-Xup-lU3TNGZRdKXpCc_Y8TC7dpITl6q2kw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-18T02:08:19.579634Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNveWJEYlZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNveWJEYlZnEAE!2m1!1s0x80c2bad21df1862d:0xe0e1ec878651c693
+  - name: >-
+      places/ChIJLYbxHdK6woARk8ZRhofs4eA/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzcTZxelRBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        “ I Start with the customer experience and work backwards to the
+        technology.
+
+
+        — Steve Jobs “.
+
+
+        I wrote “ The best toro in west LA .” On Yelp many years ago.
+
+
+        Unfortunately, quality declined drastically.   Different chief every
+        time I eat.
+
+
+        Insulted by Korean manager ( I was told to speak only English )
+
+        WFT !
+
+
+        Save $ and try N/ Naka
+
+        Ps I returned and tried Toro again Dec 4 th.
+
+        Good Toro is back.    I added a star .
+
+        Management did not apologize yet
+
+        I spoke only  English while dining here .
+      languageCode: en
+    originalText:
+      text: >-
+        “ I Start with the customer experience and work backwards to the
+        technology.
+
+
+        — Steve Jobs “.
+
+
+        I wrote “ The best toro in west LA .” On Yelp many years ago.
+
+
+        Unfortunately, quality declined drastically.   Different chief every
+        time I eat.
+
+
+        Insulted by Korean manager ( I was told to speak only English )
+
+        WFT !
+
+
+        Save $ and try N/ Naka
+
+        Ps I returned and tried Toro again Dec 4 th.
+
+        Good Toro is back.    I added a star .
+
+        Management did not apologize yet
+
+        I spoke only  English while dining here .
+      languageCode: en
+    authorAttribution:
+      displayName: Hyunsoo Kim
+      uri: https://www.google.com/maps/contrib/113877182202420120500/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWX1UTJwdp3_eutBPyzKu8iB_Uy5LYP5Ej8dwILsyMCNxJeCiYA2A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-03T16:35:38.705102Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzcTZxelRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzcTZxelRBEAE!2m1!1s0x80c2bad21df1862d:0xe0e1ec878651c693
+  - name: >-
+      places/ChIJLYbxHdK6woARk8ZRhofs4eA/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0akxUNFR3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I have been visiting this location for many years, and I have failed to
+        leave a review. Today I promised myself I would review this delicious
+        Sushi Restaurant. My sushi chef Kai recommended the sashimi plate, which
+        he artfully decorated with edible flowers , leaves and different types
+        of sauce. The dish was absolutely amazing. I have been eating sushi for
+        a very long time I have learned to appreciate the best and extras. For
+        dessert I had the Unagi, which is ill with light Unagi sauce also
+        extremely delicious and the portions were nice as you can see in the
+        picture. My servers name was Kamari.  She was extremely helpful and
+        cognizant of anything I needed without me asking like extra napkins and
+        refills on my hot green tea. As I have been, I will be coming back here
+        as long as they’re open. I highly recommend it.
+      languageCode: en
+    originalText:
+      text: >-
+        I have been visiting this location for many years, and I have failed to
+        leave a review. Today I promised myself I would review this delicious
+        Sushi Restaurant. My sushi chef Kai recommended the sashimi plate, which
+        he artfully decorated with edible flowers , leaves and different types
+        of sauce. The dish was absolutely amazing. I have been eating sushi for
+        a very long time I have learned to appreciate the best and extras. For
+        dessert I had the Unagi, which is ill with light Unagi sauce also
+        extremely delicious and the portions were nice as you can see in the
+        picture. My servers name was Kamari.  She was extremely helpful and
+        cognizant of anything I needed without me asking like extra napkins and
+        refills on my hot green tea. As I have been, I will be coming back here
+        as long as they’re open. I highly recommend it.
+      languageCode: en
+    authorAttribution:
+      displayName: Seven Electric
+      uri: https://www.google.com/maps/contrib/106311475790515542607/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWgLZO6p3yiAMDljx5xRCNPNf13LK7uMHYqcH2rHnkC1rQY_nk=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-02-02T21:56:22.566022Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR0akxUNFR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR0akxUNFR3EAE!2m1!1s0x80c2bad21df1862d:0xe0e1ec878651c693
+review_summary: >-
+  What Visitors Are Saying About Tsukiji Sushi Sen$$$Folks often rave about the
+  fresh and flavorful sushi and sashimi here, with many highlighting the
+  creative presentations and solid happy hour deals that add extra value to the
+  experience. The cozy, relaxing ambiance on Main Street makes it a favorite
+  spot for unwinding over a meal, and service tends to be friendly and
+  attentive, helping diners pick the best options. While most feedback focuses
+  on the delicious seafood and welcoming feel, a few mentions note occasional
+  inconsistencies in quality, though these seem to be exceptions rather than the
+  norm. Overall, it's clear that this place keeps customers coming back for its
+  reliable vibes and tasty selections, making it a solid pick for anyone craving
+  Japanese fare. If you're in the mood for something straightforward and
+  enjoyable, the positive buzz around the menu keeps the energy upbeat and
+  inviting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Hip spot with funky decor for sushi, noodles, seafood specialties & bento
+  boxes with sake & beer.
 
 ---

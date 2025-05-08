@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kokoro Restaurant"
+title: Kokoro Restaurant
 permalink: /colorado/arvada/kokoro-restaurant.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Arvada
 seo:
-  name: "Kokoro Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kokoro Restaurant serves delicious sushi in Arvada, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsUFc7TSGa4cRyAM70oz8dl0
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kokoro Restaurant in Arvada, CO$$$Kokoro Restaurant in Arvada, CO,
+  stands out as a welcoming spot for enjoying authentic Japanese flavors,
+  featuring fresh sushi rolls and hearty entrees in a relaxed, family-oriented
+  environment. This eatery emphasizes accessibility with features like
+  wheelchair-friendly parking and seating, making it easy for everyone to savor
+  its diverse menu options. Patrons can explore a variety of sushi dishes that
+  highlight quality ingredients, perfect for those searching for top-rated sushi
+  restaurants nearby. The kid-friendly setting includes thoughtful touches like
+  a dedicated children's menu, adding to its appeal for casual family outings or
+  quick meals. Whether you're looking for sushi places near me or
+  Japanese-inspired dining, Kokoro delivers a comfortable atmosphere that
+  combines simplicity with satisfying tastes.
+generative_summary: >-
+  Discover Kokoro Restaurant in Arvada, CO$$$Kokoro Restaurant in Arvada, CO,
+  stands out as a welcoming spot for enjoying authentic Japanese flavors,
+  featuring fresh sushi rolls and hearty entrees in a relaxed, family-oriented
+  environment. This eatery emphasizes accessibility with features like
+  wheelchair-friendly parking and seating, making it easy for everyone to savor
+  its diverse menu options. Patrons can explore a variety of sushi dishes that
+  highlight quality ingredients, perfect for those searching for top-rated sushi
+  restaurants nearby. The kid-friendly setting includes thoughtful touches like
+  a dedicated children's menu, adding to its appeal for casual family outings or
+  quick meals. Whether you're looking for sushi places near me or
+  Japanese-inspired dining, Kokoro delivers a comfortable atmosphere that
+  combines simplicity with satisfying tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Kokoro often appreciate the
+  straightforward vibe and tasty sushi selections that make it a go-to for
+  everyday eats. Many comments highlight the fresh flavors and welcoming setup,
+  especially for families, helping it hold up as a solid choice in the area.
+  While experiences vary, there's a general nod to the reliable service and
+  kid-friendly options that keep things light and enjoyable. Overall, it's
+  frequently praised for offering good value without the fuss, encouraging
+  repeat visits for anyone craving Japanese dishes close to home. If you're on
+  the hunt for the best sushi near me, this spot tends to deliver a consistently
+  positive experience that feels just right for casual diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

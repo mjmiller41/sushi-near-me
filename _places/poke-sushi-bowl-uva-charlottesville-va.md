@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Sushi Bowl UVA"
+title: Poke Sushi Bowl UVA
 permalink: /virginia/charlottesville/poke-sushi-bowl-uva.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
 seo:
-  name: "Poke Sushi Bowl UVA"
-  type: Restaurant
-  links: null
-description: "Poke Sushi Bowl UVA serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.momosushipoke.com/
 place_id: ChIJ0ZGiw0eGs4kRrrlFxg4blzQ
 photos:
   - name: >-
@@ -168,8 +166,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b38647c3a291d1:0x34971b0ec645b9ae!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 8:30 PM'
+    - 'Thursday: 11:00 AM – 8:30 PM'
+    - 'Friday: 11:00 AM – 8:30 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +240,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (434) 328-8833
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 153
+website: http://www.momosushipoke.com/
+description: >-
+  Discover Poke Sushi Bowl in Charlottesville, VA$$$Poke Sushi Bowl UVA in
+  Charlottesville, VA, stands out as a welcoming spot for enjoying fresh
+  Hawaiian-inspired sushi and poke options in a casual setting. This sushi
+  restaurant near the heart of the city offers a relaxed atmosphere perfect for
+  quick meals or unwinding after a day out, with dishes that highlight vibrant
+  flavors and high-quality ingredients. Located conveniently in a shopping
+  center, it's an ideal choice for those seeking sushi places close to home,
+  complete with accessible entrances and parking to enhance your visit. The menu
+  features a variety of customizable bowls that cater to different tastes,
+  making it a go-to for anyone exploring Japanese-style cuisine in the area.
+  Open throughout the week with extended hours on weekends, it's easy to fit
+  into your schedule for a satisfying meal.
+generative_summary: >-
+  Discover Poke Sushi Bowl in Charlottesville, VA$$$Poke Sushi Bowl UVA in
+  Charlottesville, VA, stands out as a welcoming spot for enjoying fresh
+  Hawaiian-inspired sushi and poke options in a casual setting. This sushi
+  restaurant near the heart of the city offers a relaxed atmosphere perfect for
+  quick meals or unwinding after a day out, with dishes that highlight vibrant
+  flavors and high-quality ingredients. Located conveniently in a shopping
+  center, it's an ideal choice for those seeking sushi places close to home,
+  complete with accessible entrances and parking to enhance your visit. The menu
+  features a variety of customizable bowls that cater to different tastes,
+  making it a go-to for anyone exploring Japanese-style cuisine in the area.
+  Open throughout the week with extended hours on weekends, it's easy to fit
+  into your schedule for a satisfying meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks checking out this sushi spot near
+  Charlottesville often highlight the tasty, fresh ingredients and solid portion
+  sizes that make every bite worthwhile, based on its strong overall rating.
+  Many appreciate the straightforward service and variety of options that keep
+  things exciting without overwhelming choices, helping it stand out among local
+  Japanese places. While some mention waits during peak times, the general vibe
+  is positive, with diners enjoying the value for the price and the welcoming
+  feel that encourages repeat visits. Overall, it's clear that customers find
+  the experience reliable and enjoyable, especially for those craving top-rated
+  sushi on the go. If you're in the mood for something light and flavorful, this
+  place seems to deliver just what people are looking for in a casual dining
+  scene.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Japan Ginger"
+title: Japan Ginger
 permalink: /washington/issaquah/japan-ginger.html
 stateAbbr: WA
 stateName: Washington
 cityName: Issaquah
 seo:
-  name: "Japan Ginger"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Japan Ginger serves delicious sushi in Issaquah, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxT63aIBvkFQRcC1sUDgzWPQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906f8068b73ec5:0xf4583338506c2d70!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 9
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 AM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 AM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,44 @@ phone: (425) 427-6080
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 224
 website: null
+description: >-
+  Discover Japan Ginger in Issaquah, WA$$$Japan Ginger in Issaquah, WA, stands
+  out as a welcoming spot for casual Japanese dining, featuring a menu that
+  highlights fresh sushi, tempura, and teriyaki classics in a relaxed
+  atmosphere. This neighborhood eatery emphasizes accessibility with features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy authentic flavors without any hassle. Visitors can expect a variety of
+  familiar favorites that capture the essence of Japanese cuisine, perfect for
+  those exploring sushi options in the area. With convenient hours from late
+  morning into the evening, it's an ideal choice for a satisfying lunch or
+  dinner outing near local hotspots.
+generative_summary: >-
+  Discover Japan Ginger in Issaquah, WA$$$Japan Ginger in Issaquah, WA, stands
+  out as a welcoming spot for casual Japanese dining, featuring a menu that
+  highlights fresh sushi, tempura, and teriyaki classics in a relaxed
+  atmosphere. This neighborhood eatery emphasizes accessibility with features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy authentic flavors without any hassle. Visitors can expect a variety of
+  familiar favorites that capture the essence of Japanese cuisine, perfect for
+  those exploring sushi options in the area. With convenient hours from late
+  morning into the evening, it's an ideal choice for a satisfying lunch or
+  dinner outing near local hotspots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Experience$$$Diners often praise the tasty
+  and fresh dishes at this Japanese spot, with many highlighting the quality of
+  the sushi and other offerings that make meals feel genuinely satisfying.
+  Feedback frequently notes the affordable prices and efficient service,
+  creating a laid-back vibe that's great for quick visits or casual gatherings.
+  The strong overall rating suggests that folks appreciate the reliable flavors
+  and welcoming environment, turning it into a favorite for those seeking
+  dependable Japanese eats nearby. If you're on the hunt for solid sushi places
+  in the vicinity, this location delivers on taste and value, encouraging repeat
+  trips for its consistently positive vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

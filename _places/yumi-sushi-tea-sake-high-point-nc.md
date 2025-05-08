@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "YUMI 優美 sushi•tea•sake"
+title: YUMI 優美 sushi•tea•sake
 permalink: /north-carolina/high-point/yumi-sushi-tea-sake.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: High Point
 seo:
-  name: "YUMI 優美 sushi•tea•sake"
-  type: Restaurant
+  type: restaurant
   links: http://www.yumisushihp.com/
-description: "YUMI 優美 sushi•tea•sake serves delicious sushi in High Point, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJTdeeYFgJU4gRfEZY36iByn0
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRzp65QA!2e10!4m2!3m1!1s0x88530958609ed74d:0x7dca81a8df58467c
 address: '275 N Elm St Fl 1, # 10, High Point, NC 27262, USA'
-street: '275 N Elm St Fl 1, # 10'
+street: 275 N Elm St Fl 1,# 10
 city: High Point
 state: NC
 zip: '27262'
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://www.yumisushihp.com/
+description: >-
+  Discover YUMI Sushi in High Point, NC$$$YUMI 優美 sushi•tea•sake in High Point,
+  North Carolina, stands out as a welcoming Japanese eatery nestled within a
+  vibrant food court, offering a blend of fresh sushi rolls, poke bowls, and
+  refreshing bubble tea options. This spot excels with its accessible features,
+  including wheelchair-friendly entrances and seating, making it easy for
+  everyone to enjoy authentic flavors in a casual setting. Patrons can savor a
+  variety of Japanese-inspired dishes and drinks, such as sake selections, all
+  prepared with attention to quality and presentation. For those exploring
+  top-rated sushi restaurants nearby, the menu highlights creative twists on
+  classics, complemented by convenient parking and outdoor seating for a relaxed
+  dining experience.
+generative_summary: >-
+  Discover YUMI Sushi in High Point, NC$$$YUMI 優美 sushi•tea•sake in High Point,
+  North Carolina, stands out as a welcoming Japanese eatery nestled within a
+  vibrant food court, offering a blend of fresh sushi rolls, poke bowls, and
+  refreshing bubble tea options. This spot excels with its accessible features,
+  including wheelchair-friendly entrances and seating, making it easy for
+  everyone to enjoy authentic flavors in a casual setting. Patrons can savor a
+  variety of Japanese-inspired dishes and drinks, such as sake selections, all
+  prepared with attention to quality and presentation. For those exploring
+  top-rated sushi restaurants nearby, the menu highlights creative twists on
+  classics, complemented by convenient parking and outdoor seating for a relaxed
+  dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJTdeeYFgJU4gRfEZY36iByn0/reviews/ChdDSUhNMG9nS0VJQ0FnTURJaXUzc3pRRRAB
@@ -356,6 +379,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsX3NDamdBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsX3NDamdBRRAB!2m1!1s0x88530958609ed74d:0x7dca81a8df58467c
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the tasty and well-prepared dishes, with many highlighting the flavorful
+  sushi rolls and poke bowls that hit the spot every time. Folks appreciate the
+  variety of options, including bubble tea that's just the right mix of chewy
+  and refreshing, making it a go-to for casual meetups or family outings. The
+  helpful service stands out, especially for those with dietary needs, ensuring
+  everyone feels taken care of without any hassle. Overall, the laid-back vibe
+  in the food hall setting adds to the appeal, creating a positive atmosphere
+  that keeps people coming back for more delicious eats. If you're on the hunt
+  for reliable Japanese places nearby, this one consistently delivers on fresh
+  flavors and enjoyable experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -388,7 +424,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

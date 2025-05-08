@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KaJi JAPANESE SUSHI AND GRILL"
+title: KaJi JAPANESE SUSHI AND GRILL
 permalink: /missouri/kearney/kaji-japanese-sushi-and-grill.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kearney
 seo:
-  name: "KaJi JAPANESE SUSHI AND GRILL"
-  type: Restaurant
+  type: restaurant
   links: http://www.kajikearney.com/?utm_source=gmb&utm_medium=website
-description: "KaJi JAPANESE SUSHI AND GRILL serves delicious sushi in Kearney, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJGdcW6wWtwYcRhSuDb87vZCQ
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: http://www.kajikearney.com/?utm_source=gmb&utm_medium=website
+description: >-
+  Discover KaJi Japanese Sushi and Grill in Kearney, MO$$$KaJi Japanese Sushi
+  and Grill in Kearney, MO, delivers a welcoming experience with a focus on
+  fresh sushi and traditional Japanese flavors that appeal to locals seeking
+  authentic dining options. The menu features an array of sushi rolls, flavorful
+  fried rice, and hibachi-style meats, all prepared in a relaxed, casual setting
+  that makes it easy to enjoy a meal without the fuss. Accessibility is a
+  highlight, with options like wheelchair-friendly entrances and parking that
+  ensure everyone can savor the experience. This spot stands out for its
+  moderate pricing and variety of dishes, making it a go-to choice for those
+  exploring Japanese cuisine nearby. Whether you're in the mood for a quick bite
+  or a leisurely dinner, KaJi offers a straightforward yet satisfying
+  introduction to quality Asian fare.
+generative_summary: >-
+  Discover KaJi Japanese Sushi and Grill in Kearney, MO$$$KaJi Japanese Sushi
+  and Grill in Kearney, MO, delivers a welcoming experience with a focus on
+  fresh sushi and traditional Japanese flavors that appeal to locals seeking
+  authentic dining options. The menu features an array of sushi rolls, flavorful
+  fried rice, and hibachi-style meats, all prepared in a relaxed, casual setting
+  that makes it easy to enjoy a meal without the fuss. Accessibility is a
+  highlight, with options like wheelchair-friendly entrances and parking that
+  ensure everyone can savor the experience. This spot stands out for its
+  moderate pricing and variety of dishes, making it a go-to choice for those
+  exploring Japanese cuisine nearby. Whether you're in the mood for a quick bite
+  or a leisurely dinner, KaJi offers a straightforward yet satisfying
+  introduction to quality Asian fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJGdcW6wWtwYcRhSuDb87vZCQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURBeE5MWkZ3EAE
@@ -376,6 +401,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNabjh6dGJREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNabjh6dGJREAE!2m1!1s0x87c1ad05eb16d719:0x2464efce6f832b85
+review_summary: >-
+  What Customers Are Saying$$$Visitors to KaJi Japanese Sushi and Grill often
+  rave about the fresh and authentic sushi selections, highlighting how the
+  flavors bring a genuine taste of Japan right to Kearney. Many appreciate the
+  friendly service and clean atmosphere, which add to the overall enjoyable
+  vibe, even if some note occasional waits during busy times. Feedback
+  frequently praises specific items like sweet potato rolls and hibachi options
+  for their delicious taste and reasonable value, making it a solid pick for
+  families or groups looking for tasty meals. While a few mentions point to
+  varying portion sizes or service speed, the general consensus leans positive,
+  with diners encouraged to try the standout dishes for a satisfying experience.
+  If you're searching for reliable sushi spots nearby, this place earns high
+  marks for its flavorful offerings and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -408,7 +447,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

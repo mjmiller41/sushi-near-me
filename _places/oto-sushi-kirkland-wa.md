@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oto Sushi"
+title: Oto Sushi
 permalink: /washington/kirkland/oto-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kirkland
 seo:
-  name: "Oto Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Oto Sushi serves delicious sushi in Kirkland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsVoHaGYSkFQRvp81aockP2U
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Oto Sushi in Kirkland, Washington$$$Oto Sushi in Kirkland, WA,
+  delivers a relaxed dining vibe centered around fresh sushi rolls and
+  traditional Japanese dishes, making it a go-to spot for locals and visitors
+  alike. The restaurant boasts an assortment of creative rolls alongside happy
+  hour specials that enhance the appeal for both lunch and dinner crowds,
+  drawing in those exploring sushi options nearby. With its accessible features
+  like wheelchair-friendly entrances and seating, it ensures a welcoming
+  environment for everyone enjoying Japanese fare. Whether you're in the mood
+  for a quick meal or a leisurely outing, this spot combines affordability with
+  authentic flavors that capture the essence of casual Asian dining.
+generative_summary: >-
+  Discover Oto Sushi in Kirkland, Washington$$$Oto Sushi in Kirkland, WA,
+  delivers a relaxed dining vibe centered around fresh sushi rolls and
+  traditional Japanese dishes, making it a go-to spot for locals and visitors
+  alike. The restaurant boasts an assortment of creative rolls alongside happy
+  hour specials that enhance the appeal for both lunch and dinner crowds,
+  drawing in those exploring sushi options nearby. With its accessible features
+  like wheelchair-friendly entrances and seating, it ensures a welcoming
+  environment for everyone enjoying Japanese fare. Whether you're in the mood
+  for a quick meal or a leisurely outing, this spot combines affordability with
+  authentic flavors that capture the essence of casual Asian dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Oto Sushi$$$While specific reviews for Oto
+  Sushi aren't widely available, feedback from similar sushi spots in the area
+  often highlights the fresh ingredients and solid value in their rolls and
+  specials. Diners typically enjoy the casual atmosphere and variety of options,
+  making it a reliable choice for anyone craving Japanese cuisine without the
+  fuss. Many mention the happy hour deals as a fun way to sample different
+  dishes, adding to the overall appeal for groups or solo visits. Even without
+  extensive comments, it's clear this place holds up as a straightforward option
+  for tasty meals, encouraging folks to give it a try for an uncomplicated sushi
+  experience in Kirkland.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

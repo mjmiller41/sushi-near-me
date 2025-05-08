@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sim Sushi & Steak"
+title: Sim Sushi & Steak
 permalink: /kentucky/elizabethtown/sim-sushi-steak.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Elizabethtown
 seo:
-  name: "Sim Sushi & Steak"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sim Sushi & Steak serves delicious sushi in Elizabethtown, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJlyQ27lTvaIgRwB4-3E20hDw
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: null
+description: >-
+  Experience Sim Sushi & Steak in Elizabethtown, KY$$$Sim Sushi & Steak in
+  Elizabethtown, KY, stands out as a welcoming spot for enjoying fresh sushi and
+  classic Asian flavors in a laid-back setting. This sushi restaurant offers a
+  variety of dishes like teriyaki chicken and other favorites, making it ideal
+  for those seeking reliable options among local Japanese places. With its
+  accessible features and moderate pricing, it's designed for comfortable
+  dining, whether you're stopping by for a quick lunch or a relaxed evening
+  meal. The atmosphere emphasizes quality and simplicity, drawing in fans of
+  top-rated sushi experiences nearby. If you're exploring sushi restaurants in
+  the area, this location provides a solid choice for authentic tastes without
+  the fuss.
+generative_summary: >-
+  Experience Sim Sushi & Steak in Elizabethtown, KY$$$Sim Sushi & Steak in
+  Elizabethtown, KY, stands out as a welcoming spot for enjoying fresh sushi and
+  classic Asian flavors in a laid-back setting. This sushi restaurant offers a
+  variety of dishes like teriyaki chicken and other favorites, making it ideal
+  for those seeking reliable options among local Japanese places. With its
+  accessible features and moderate pricing, it's designed for comfortable
+  dining, whether you're stopping by for a quick lunch or a relaxed evening
+  meal. The atmosphere emphasizes quality and simplicity, drawing in fans of
+  top-rated sushi experiences nearby. If you're exploring sushi restaurants in
+  the area, this location provides a solid choice for authentic tastes without
+  the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJlyQ27lTvaIgRwB4-3E20hDw/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aDlmdElBEAE
@@ -330,6 +353,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURLektUOHRBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURLektUOHRBRRAB!2m1!1s0x8868ef54ee362497:0x3c84b44ddc3e1ec0
+review_summary: >-
+  Insights from Recent Feedback$$$Folks generally appreciate the tasty sushi and
+  appetizers at this spot, often highlighting the fresh flavors and good value
+  that make it a favorite for casual meals. While some mention occasional
+  service hiccups during busy times, the overall experience leans positive with
+  quick service and a clean, inviting vibe on most visits. Diners frequently
+  praise the variety of options, including standout rolls and Asian standards,
+  as reasons to return for family outings or solo stops. It's clear that the
+  food quality keeps people coming back, offering a satisfying mix of
+  affordability and taste that suits groups looking for reliable sushi near
+  them. All in all, this place earns nods for its approachable style and solid
+  execution, making it worth checking out for anyone craving Japanese-inspired
+  eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -362,7 +399,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

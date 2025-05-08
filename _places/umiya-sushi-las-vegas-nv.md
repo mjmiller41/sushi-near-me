@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umiya Sushi"
+title: Umiya Sushi
 permalink: /nevada/las-vegas/umiya-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Umiya Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://umiyalv.com/
-description: "Umiya Sushi serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1RtP7ZfGyIAR1sccqiX79Vo
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8c697ed4f1bd5:0x5af5fb25aa1cc7d6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 0
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 0
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 0
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 0
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 0
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 0
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 0
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 12:30 AM'
     - 'Tuesday: 11:30 AM – 12:30 AM'
     - 'Wednesday: 11:30 AM – 12:30 AM'
@@ -177,54 +233,609 @@ opening_hours:
     - 'Friday: 11:30 AM – 12:30 AM'
     - 'Saturday: 11:30 AM – 12:30 AM'
     - 'Sunday: 11:30 AM – 12:30 AM'
-  current:
-    - 'Monday: 11:30 AM – 12:30 AM'
-    - 'Tuesday: 11:30 AM – 12:30 AM'
-    - 'Wednesday: 11:30 AM – 12:30 AM'
-    - 'Thursday: 11:30 AM – 12:30 AM'
-    - 'Friday: 11:30 AM – 12:30 AM'
-    - 'Saturday: 11:30 AM – 12:30 AM'
-    - 'Sunday: 11:30 AM – 12:30 AM'
+  nextCloseTime: '2025-05-04T07:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 23
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 23
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 23
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 23
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 23
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 23
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 23
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 11:30 PM'
+      - 'Tuesday: 11:30 AM – 11:30 PM'
+      - 'Wednesday: 11:30 AM – 11:30 PM'
+      - 'Thursday: 11:30 AM – 11:30 PM'
+      - 'Friday: 11:30 AM – 11:30 PM'
+      - 'Saturday: 11:30 AM – 11:30 PM'
+      - 'Sunday: 11:30 AM – 11:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T06:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 15
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 3:00 PM'
+      - 'Tuesday: 11:30 AM – 3:00 PM'
+      - 'Wednesday: 11:30 AM – 3:00 PM'
+      - 'Thursday: 11:30 AM – 3:00 PM'
+      - 'Friday: 11:30 AM – 3:00 PM'
+      - 'Saturday: 11:30 AM – 3:00 PM'
+      - 'Sunday: 11:30 AM – 3:00 PM'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-04T18:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 0
+          minute: 30
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 0
+          minute: 30
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 0
+          minute: 30
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 0
+          minute: 30
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 0
+          minute: 30
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 0
+          minute: 30
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 0
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 3:00 PM – 12:30 AM'
+      - 'Tuesday: 3:00 PM – 12:30 AM'
+      - 'Wednesday: 3:00 PM – 12:30 AM'
+      - 'Thursday: 3:00 PM – 12:30 AM'
+      - 'Friday: 3:00 PM – 12:30 AM'
+      - 'Saturday: 3:00 PM – 12:30 AM'
+      - 'Sunday: 3:00 PM – 12:30 AM'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T07:30:00Z'
 phone: (702) 365-6195
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 2573
 website: http://umiyalv.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Umiya Sushi in Las Vegas, NV$$$Umiya Sushi in Las Vegas, NV, stands
+  out as a vibrant Japanese restaurant offering a modern twist on classic sushi
+  dining, with creative plates and all-you-can-eat options that cater to a
+  variety of tastes. This spot delivers fresh seafood and flavorful dishes in a
+  contemporary setting, making it an ideal choice for anyone craving authentic
+  Japanese flavors without leaving the city. Accessibility features like
+  wheelchair-friendly parking and seating ensure a welcoming experience for all
+  guests, while the extensive menu covers everything from sushi rolls to hearty
+  appetizers. Open for lunch and dinner with extended hours, it's perfect for
+  casual meals or group outings, positioning it as a reliable option among
+  top-rated sushi restaurants in the area.
+generative_summary: >-
+  Discover Umiya Sushi in Las Vegas, NV$$$Umiya Sushi in Las Vegas, NV, stands
+  out as a vibrant Japanese restaurant offering a modern twist on classic sushi
+  dining, with creative plates and all-you-can-eat options that cater to a
+  variety of tastes. This spot delivers fresh seafood and flavorful dishes in a
+  contemporary setting, making it an ideal choice for anyone craving authentic
+  Japanese flavors without leaving the city. Accessibility features like
+  wheelchair-friendly parking and seating ensure a welcoming experience for all
+  guests, while the extensive menu covers everything from sushi rolls to hearty
+  appetizers. Open for lunch and dinner with extended hours, it's perfect for
+  casual meals or group outings, positioning it as a reliable option among
+  top-rated sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ1RtP7ZfGyIAR1sccqiX79Vo/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3dmVXUXFnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The late night all u can eat Ayce sushi $21.95 at Umiya is legit!!
+
+
+        We came around 10pm and 80% of seats were full which was a good sign. We
+        were quickly greeted and seated. What we ordered were as follows.
+
+        Miso soup
+
+        Tempura noodle
+
+        Spicy Scallop roll
+
+        Smoked salmon
+
+        Seafood Dynamite
+
+        Salmon belly
+
+        Yum yum crab
+
+        Tina poke
+
+        Baked oyster
+
+        Chicken katsu
+
+        Pork belly (this one is average)
+
+        Bugulgi fries
+
+        Snow white roll
+
+        Flamingo roll
+
+        Kiss of fire
+
+        Firecracker
+
+
+        Service is great and dishes were served quickly. (Sometimes they were
+        busy so you have to let them know you are ready to order.)
+
+
+        At night, the restaurant is a little bit dark  so I have to look at the
+        menu very closely.
+
+
+        You can get a free Thai tea (valued $5) after you leave a review on
+        Yelp. I don’t leave whatever reviews for just a complimentary drink so I
+        waited until my husband and I finished all orders. I wrote this review
+        and gave 5 stars since I really enjoyed it.
+
+
+        There is a 60 min limitation so I will recommend to come earlier as you
+        can. Overall, we enjoyed Umiya and will definitely come back.
+      languageCode: en
+    originalText:
+      text: >-
+        The late night all u can eat Ayce sushi $21.95 at Umiya is legit!!
+
+
+        We came around 10pm and 80% of seats were full which was a good sign. We
+        were quickly greeted and seated. What we ordered were as follows.
+
+        Miso soup
+
+        Tempura noodle
+
+        Spicy Scallop roll
+
+        Smoked salmon
+
+        Seafood Dynamite
+
+        Salmon belly
+
+        Yum yum crab
+
+        Tina poke
+
+        Baked oyster
+
+        Chicken katsu
+
+        Pork belly (this one is average)
+
+        Bugulgi fries
+
+        Snow white roll
+
+        Flamingo roll
+
+        Kiss of fire
+
+        Firecracker
+
+
+        Service is great and dishes were served quickly. (Sometimes they were
+        busy so you have to let them know you are ready to order.)
+
+
+        At night, the restaurant is a little bit dark  so I have to look at the
+        menu very closely.
+
+
+        You can get a free Thai tea (valued $5) after you leave a review on
+        Yelp. I don’t leave whatever reviews for just a complimentary drink so I
+        waited until my husband and I finished all orders. I wrote this review
+        and gave 5 stars since I really enjoyed it.
+
+
+        There is a 60 min limitation so I will recommend to come earlier as you
+        can. Overall, we enjoyed Umiya and will definitely come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Jenny L.
+      uri: https://www.google.com/maps/contrib/102849682834202113130/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJjYBRCXuaxFR0lBHizQiw7sDycVsOn4I2j94jlcn2TJyajow=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-27T19:41:00.554971Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3dmVXUXFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3dmVXUXFnRRAB!2m1!1s0x80c8c697ed4f1bd5:0x5af5fb25aa1cc7d6
+  - name: >-
+      places/ChIJ1RtP7ZfGyIAR1sccqiX79Vo/reviews/ChZDSUhNMG9nS0VJQ0FnSURfdEpPMmFREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I come here all the time but never left a review this time, it’s only
+        right to show my appreciation for their excellent service and fantastic
+        food! We ordered and enjoyed ebi sushi (probably 30 pieces, maybe more!)
+        and tried different rolls, fish, squid, and oysters. Everything was
+        fresh, delicious, and perfectly prepared. The quality of the food and
+        the attentive service make this place a standout. I will definitely
+        recommend Umiya Japanese Restaurant to anyone who loves amazing Japanese
+        cuisine. Can’t wait to return!
+      languageCode: en
+    originalText:
+      text: >-
+        I come here all the time but never left a review this time, it’s only
+        right to show my appreciation for their excellent service and fantastic
+        food! We ordered and enjoyed ebi sushi (probably 30 pieces, maybe more!)
+        and tried different rolls, fish, squid, and oysters. Everything was
+        fresh, delicious, and perfectly prepared. The quality of the food and
+        the attentive service make this place a standout. I will definitely
+        recommend Umiya Japanese Restaurant to anyone who loves amazing Japanese
+        cuisine. Can’t wait to return!
+      languageCode: en
+    authorAttribution:
+      displayName: ARNOLD PREPEÑA
+      uri: https://www.google.com/maps/contrib/111841644381087023755/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXyEXc26maVGvhA0ACgkvX7o44W6MoQMN64aKL3GcRq582ZMIPc=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-22T00:56:40.139334Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfdEpPMmFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfdEpPMmFREAE!2m1!1s0x80c8c697ed4f1bd5:0x5af5fb25aa1cc7d6
+  - name: >-
+      places/ChIJ1RtP7ZfGyIAR1sccqiX79Vo/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbUtyLURBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Decent sushi Restaurant
+
+        We reserved a table for 5 before we came to eat.  It was about an hour
+        wait @ about 9 pm on a weekday.  Luckily the restaurant opened until
+        midnight.
+
+        It was all you can eat sushi @ about $35/person. A good deal of you can
+        eat a lot. Everything we ordered was priced total at about the price we
+        paid for.
+
+        The portions were small but we were well fed and full.  The group of 3
+        teenagers and 2 adults, so we ordered about 3 rounds of food.
+
+        Overall the food was fresh but the quality was just average.
+
+        I would take my family back again for the all you can eat sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Decent sushi Restaurant
+
+        We reserved a table for 5 before we came to eat.  It was about an hour
+        wait @ about 9 pm on a weekday.  Luckily the restaurant opened until
+        midnight.
+
+        It was all you can eat sushi @ about $35/person. A good deal of you can
+        eat a lot. Everything we ordered was priced total at about the price we
+        paid for.
+
+        The portions were small but we were well fed and full.  The group of 3
+        teenagers and 2 adults, so we ordered about 3 rounds of food.
+
+        Overall the food was fresh but the quality was just average.
+
+        I would take my family back again for the all you can eat sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Khiem Bui
+      uri: https://www.google.com/maps/contrib/112715190521209213750/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWB3C-NO8DKmnRfWSvsNwNsqJRlEHRWgof0MI0BFNsmfKzaRQ8=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-06T19:56:50.611749Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbUtyLURBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbUtyLURBEAE!2m1!1s0x80c8c697ed4f1bd5:0x5af5fb25aa1cc7d6
+  - name: >-
+      places/ChIJ1RtP7ZfGyIAR1sccqiX79Vo/reviews/ChZDSUhNMG9nS0VJQ0FnSURQeC12d1VnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Today, I had the opportunity to visit Umiya Sushi.  The service staff
+        was not only kind, they were efficient and attentive.  The restaurant
+        was cozy and had a hip vibe.  The shusi was fabulous and tasty, cold
+        when it needed to be, hot and steamy when it needed to be.  The soup was
+        a hit.  The price description was apparent, so there was no deception or
+        price increase.  For AYCE, the price was worth it.  What a delightful
+        lunch right of the strip.
+      languageCode: en
+    originalText:
+      text: >-
+        Today, I had the opportunity to visit Umiya Sushi.  The service staff
+        was not only kind, they were efficient and attentive.  The restaurant
+        was cozy and had a hip vibe.  The shusi was fabulous and tasty, cold
+        when it needed to be, hot and steamy when it needed to be.  The soup was
+        a hit.  The price description was apparent, so there was no deception or
+        price increase.  For AYCE, the price was worth it.  What a delightful
+        lunch right of the strip.
+      languageCode: en
+    authorAttribution:
+      displayName: Vicki Seawell
+      uri: https://www.google.com/maps/contrib/118374725597338547194/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJuxe57VNmmGEhSdPMkaeoDEfC2dAehIuZLBDi_C426W42puL4=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-06T03:03:57.604772Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQeC12d1VnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQeC12d1VnEAE!2m1!1s0x80c8c697ed4f1bd5:0x5af5fb25aa1cc7d6
+  - name: >-
+      places/ChIJ1RtP7ZfGyIAR1sccqiX79Vo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmb2VHQnZRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Arriving later so we looked for a late night dinner.  And came across
+        this ayce late night menu. $21.95 sounded too good but we tried it
+        anyways.
+
+
+        Pleasantly surprised and we would bring the kids with us next time. 
+        There is something for everyone, even our picky 18 year old.
+
+
+        You can make reservations on open table. Time limit is 60 minutes but we
+        didn’t have any issues.  Anyone with a tablet can make an order for you.
+
+
+        Next time we will try to noodles- they have udon and ramen.
+
+
+        Nigiri’s just have a little ball of rice which is nice.  The larger
+        rolls have more rice and make you fuller but you can ask for a half
+        roll.
+
+
+        I wanted to try their Thai tea with coffee jelly, we arrived at 1030 and
+        they didn’t have anymore.
+      languageCode: en
+    originalText:
+      text: >-
+        Arriving later so we looked for a late night dinner.  And came across
+        this ayce late night menu. $21.95 sounded too good but we tried it
+        anyways.
+
+
+        Pleasantly surprised and we would bring the kids with us next time. 
+        There is something for everyone, even our picky 18 year old.
+
+
+        You can make reservations on open table. Time limit is 60 minutes but we
+        didn’t have any issues.  Anyone with a tablet can make an order for you.
+
+
+        Next time we will try to noodles- they have udon and ramen.
+
+
+        Nigiri’s just have a little ball of rice which is nice.  The larger
+        rolls have more rice and make you fuller but you can ask for a half
+        roll.
+
+
+        I wanted to try their Thai tea with coffee jelly, we arrived at 1030 and
+        they didn’t have anymore.
+      languageCode: en
+    authorAttribution:
+      displayName: Christina Ng
+      uri: https://www.google.com/maps/contrib/107673254960936430246/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXNLGIHPpFBCmrduXLbp2XO1-TqAmCn5CXrtKXBKINaLP3EHkdx=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-29T20:03:55.217796Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmb2VHQnZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmb2VHQnZRRRAB!2m1!1s0x80c8c697ed4f1bd5:0x5af5fb25aa1cc7d6
+review_summary: >-
+  What Visitors Are Saying$$$Folks who've tried Umiya Sushi often highlight the
+  fresh fish and tasty all-you-can-eat deals as real standouts, making it a
+  solid pick for anyone hunting down great sushi spots nearby. Many appreciate
+  the quick service and reasonable prices, which keep things enjoyable without
+  breaking the bank, even during busy evenings. While portions might be on the
+  smaller side, diners generally feel satisfied with the variety of rolls and
+  appetizers that keep the experience fun and filling. Overall, it's praised for
+  its welcoming vibe and reliable quality, encouraging repeat visits for those
+  looking for dependable Japanese eats in the neighborhood. If you're in the
+  mood for something approachable yet delicious, this place tends to deliver a
+  positive experience that lives up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: true
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Stylish, contemporary restaurant presenting creative sushi plates, plus
+  all-you-can-eat options.
 
 ---

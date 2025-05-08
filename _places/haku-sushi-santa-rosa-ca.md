@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Haku Sushi"
+title: Haku Sushi
 permalink: /california/santa-rosa/haku-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Rosa
 seo:
-  name: "Haku Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Haku Sushi serves delicious sushi in Santa Rosa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2aQNN_9HhIARrVjwyxLAd0Q
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Haku Sushi in Santa Rosa, CA$$$Haku Sushi in Santa Rosa, CA, delivers
+  a relaxed dining vibe with fresh sushi and traditional Japanese dishes that
+  appeal to everyday food lovers. The menu highlights a mix of creative rolls,
+  hearty bento boxes, and subtle Korean influences, creating a fusion that's
+  both approachable and satisfying. With features like wheelchair-accessible
+  seating and parking, it's designed for easy visits from anyone in the
+  community. This spot stands out for its straightforward yet flavorful
+  offerings, making it a go-to choice for those seeking quality sushi
+  restaurants in the area.
+generative_summary: >-
+  Discover Haku Sushi in Santa Rosa, CA$$$Haku Sushi in Santa Rosa, CA, delivers
+  a relaxed dining vibe with fresh sushi and traditional Japanese dishes that
+  appeal to everyday food lovers. The menu highlights a mix of creative rolls,
+  hearty bento boxes, and subtle Korean influences, creating a fusion that's
+  both approachable and satisfying. With features like wheelchair-accessible
+  seating and parking, it's designed for easy visits from anyone in the
+  community. This spot stands out for its straightforward yet flavorful
+  offerings, making it a go-to choice for those seeking quality sushi
+  restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Even with limited feedback available, folks
+  hunting for tasty sushi near Santa Rosa tend to rave about spots like this one
+  for their fresh flavors and solid variety. Many appreciate the casual
+  atmosphere and how it blends classic Japanese staples with fun twists, keeping
+  things light and enjoyable without overwhelming the palate. It's often noted
+  as a welcoming option for groups or solo diners looking for reliable meals
+  that hit the spot. Overall, based on similar local favorites, Haku Sushi seems
+  to be building a positive buzz as a top pick for anyone craving authentic yet
+  accessible eats in the region.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /michigan/bay-city/
 stateAbbr: MI
 stateName: Michigan
 cityName: Bay City
+
 ---

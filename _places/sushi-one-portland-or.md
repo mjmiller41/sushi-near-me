@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi One"
+title: Sushi One
 permalink: /oregon/portland/sushi-one.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Sushi One"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushionepdx.com/
-description: "Sushi One serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJzUxPqGnlVQRG8HkL8en8go
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495a7a13e313527:0xaf2a7c72fe4c11b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:30 PM'
     - 'Tuesday: 4:00 – 9:30 PM'
     - 'Wednesday: 4:00 – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 4:00 – 10:00 PM'
     - 'Saturday: 4:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 4:00 – 9:30 PM'
-    - 'Tuesday: 4:00 – 9:30 PM'
-    - 'Wednesday: 4:00 – 9:30 PM'
-    - 'Thursday: 4:00 – 9:30 PM'
-    - 'Friday: 4:00 – 10:00 PM'
-    - 'Saturday: 4:00 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,237 @@ phone: (503) 954-1311
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 340
 website: http://www.sushionepdx.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi One in Portland, OR$$$Sushi One in Portland, OR, offers a cozy
+  and inviting atmosphere for enjoying fresh Japanese cuisine, including a
+  variety of sushi rolls and cooked options that cater to diverse tastes. With
+  all-you-can-eat selections and a focus on quality ingredients, it's an ideal
+  spot for those exploring sushi restaurants in the area seeking authentic
+  flavors without the fuss. The venue provides accessible features like
+  wheelchair-friendly entrances and parking, ensuring a comfortable visit for
+  all guests. Additionally, its convenient location in North Portland makes it a
+  go-to choice for anyone searching for Japanese places near me, blending
+  affordability with a relaxed dining experience. Whether you're in the mood for
+  top-rated sushi or a casual meal, this spot delivers on freshness and value in
+  a welcoming environment.
+generative_summary: >-
+  Discover Sushi One in Portland, OR$$$Sushi One in Portland, OR, offers a cozy
+  and inviting atmosphere for enjoying fresh Japanese cuisine, including a
+  variety of sushi rolls and cooked options that cater to diverse tastes. With
+  all-you-can-eat selections and a focus on quality ingredients, it's an ideal
+  spot for those exploring sushi restaurants in the area seeking authentic
+  flavors without the fuss. The venue provides accessible features like
+  wheelchair-friendly entrances and parking, ensuring a comfortable visit for
+  all guests. Additionally, its convenient location in North Portland makes it a
+  go-to choice for anyone searching for Japanese places near me, blending
+  affordability with a relaxed dining experience. Whether you're in the mood for
+  top-rated sushi or a casual meal, this spot delivers on freshness and value in
+  a welcoming environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJJzUxPqGnlVQRG8HkL8en8go/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmOXZPbHp3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        We recently moved to the area and this was our first time trying this
+        place (we ordered takeout this time). We ordered the citrus salmon and
+        the Alaska, Denver, and Rainbow rolls. Everything was fresh and
+        delicious! Happy to have such a great sushi restaurant in our
+        neighborhood! We will definitely be back 😋
+      languageCode: en
+    originalText:
+      text: >-
+        We recently moved to the area and this was our first time trying this
+        place (we ordered takeout this time). We ordered the citrus salmon and
+        the Alaska, Denver, and Rainbow rolls. Everything was fresh and
+        delicious! Happy to have such a great sushi restaurant in our
+        neighborhood! We will definitely be back 😋
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Dubin
+      uri: https://www.google.com/maps/contrib/111765488377028767951/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWCreW7voZ8gPnifRpgtoFGhdn6N_WcSU5PJYjZkbHeo-g-Icqoag=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-29T00:57:59.884148Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmOXZPbHp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmOXZPbHp3RRAB!2m1!1s0x5495a7a13e313527:0xaf2a7c72fe4c11b
+  - name: >-
+      places/ChIJJzUxPqGnlVQRG8HkL8en8go/reviews/ChZDSUhNMG9nS0VJQ0FnSURyNE03b1BnEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        I usually take my time to leave review because I know how much it helps
+        business. This sushi restaurant is awesome, not only is it fresh, the
+        pricing and presentation are both excellent. We were having a quick bite
+        on our way to the airport to pick up our friends, and they make
+        everything fast and easy.
+      languageCode: en
+    originalText:
+      text: >-
+        I usually take my time to leave review because I know how much it helps
+        business. This sushi restaurant is awesome, not only is it fresh, the
+        pricing and presentation are both excellent. We were having a quick bite
+        on our way to the airport to pick up our friends, and they make
+        everything fast and easy.
+      languageCode: en
+    authorAttribution:
+      displayName: Li Lee
+      uri: https://www.google.com/maps/contrib/114168134957091666756/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV_BwPEmg5HqBQ6lLe6048rtiO4Dyt5lxPZCFUeaiS58tOqfagd=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-13T03:28:45.408166Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyNE03b1BnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyNE03b1BnEAE!2m1!1s0x5495a7a13e313527:0xaf2a7c72fe4c11b
+  - name: >-
+      places/ChIJJzUxPqGnlVQRG8HkL8en8go/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNGNhRUJnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Ate here last week for my sisters birthday.  I had my nephew and niece
+        with us and Jenny was so sweet and accommodating.  The sushi was high
+        grade and seemed very fresh.  Would recommend trying if you have not. 
+        Would come every week if I lived closer.
+      languageCode: en
+    originalText:
+      text: >-
+        Ate here last week for my sisters birthday.  I had my nephew and niece
+        with us and Jenny was so sweet and accommodating.  The sushi was high
+        grade and seemed very fresh.  Would recommend trying if you have not. 
+        Would come every week if I lived closer.
+      languageCode: en
+    authorAttribution:
+      displayName: Jordan G
+      uri: https://www.google.com/maps/contrib/107473370645390445672/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX8ckGj5icAj2PAX3urNK15aBoWCou_d-L1dd5Hbk4jY3riObze=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-11T15:26:04.962856Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRNGNhRUJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRNGNhRUJnEAE!2m1!1s0x5495a7a13e313527:0xaf2a7c72fe4c11b
+  - name: >-
+      places/ChIJJzUxPqGnlVQRG8HkL8en8go/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsejltZVZ3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        First time customer and I loved Sushi One. Only caveat, this was my
+        first sushi dinner in years so if you're a sushi connoisseur then you'll
+        need to make your own assessment. We ordered these: delicious sake,
+        tasty sashimi appetizer, massive Oregon Coast roll, savory veggie
+        tempura, generous seaweed salad, and standard inari nigiri, miso soup, &
+        green tea. Comfortable seating. Attentive service with helpful
+        suggestions.
+      languageCode: en
+    originalText:
+      text: >-
+        First time customer and I loved Sushi One. Only caveat, this was my
+        first sushi dinner in years so if you're a sushi connoisseur then you'll
+        need to make your own assessment. We ordered these: delicious sake,
+        tasty sashimi appetizer, massive Oregon Coast roll, savory veggie
+        tempura, generous seaweed salad, and standard inari nigiri, miso soup, &
+        green tea. Comfortable seating. Attentive service with helpful
+        suggestions.
+      languageCode: en
+    authorAttribution:
+      displayName: Kealani Iglesias
+      uri: https://www.google.com/maps/contrib/102264994999157623841/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV2ktmpDgf2kQcPs93-9Z-4_p1PAQOMaQXVSZ4zSIGueypfxgHI9A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-11-29T03:39:40.247657Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsejltZVZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsejltZVZ3EAE!2m1!1s0x5495a7a13e313527:0xaf2a7c72fe4c11b
+  - name: >-
+      places/ChIJJzUxPqGnlVQRG8HkL8en8go/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGNllxTFpnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        How have I lived in this neighborhood and not been here since the new
+        ownership took over?! Really amazing sushi. The sashimi slices are so
+        thick and fresh - we were literally stuffed with one regular order of
+        sashimi (12 pieces) and 2 unagi nigiri (between two of us) that we
+        couldn't even eat the MASSIVE One Special Roll we also ordered and had
+        to take that one to go. Great sake and beer selections as well.
+        Wonderful, sweet staff and owners as well. We will be back regularly!
+      languageCode: en
+    originalText:
+      text: >-
+        How have I lived in this neighborhood and not been here since the new
+        ownership took over?! Really amazing sushi. The sashimi slices are so
+        thick and fresh - we were literally stuffed with one regular order of
+        sashimi (12 pieces) and 2 unagi nigiri (between two of us) that we
+        couldn't even eat the MASSIVE One Special Roll we also ordered and had
+        to take that one to go. Great sake and beer selections as well.
+        Wonderful, sweet staff and owners as well. We will be back regularly!
+      languageCode: en
+    authorAttribution:
+      displayName: Megan Pointer
+      uri: https://www.google.com/maps/contrib/101525146598747153286/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWC8ep-qTW3cVS-WFc6InyHp9BnCqHT3pJs6XHQcHIjTe66DhSl=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-10-29T02:18:13.869767Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNGNllxTFpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNGNllxTFpnEAE!2m1!1s0x5495a7a13e313527:0xaf2a7c72fe4c11b
+review_summary: >-
+  What Visitors Love About This Spot$$$Folks who dine here often rave about the
+  fresh and flavorful sushi that stands out for its quality and eye-catching
+  presentation, making it a hit for anyone craving Japanese fare. Many
+  appreciate the great pricing, which keeps things affordable without skimping
+  on generous portions or variety, perfect for a casual outing. The service gets
+  high marks for being attentive and efficient, helping to create a smooth and
+  enjoyable experience overall. If you're on the hunt for the best sushi near
+  me, this place seems to deliver on what people expect from a reliable local
+  option. All in all, it's a solid choice for tasty meals that leave a positive
+  impression, encouraging return visits for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /idaho/nampa/
 stateAbbr: ID
 stateName: Idaho
 cityName: Nampa
+
 ---

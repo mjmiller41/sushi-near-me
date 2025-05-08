@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr. Sushi Pompton Lakes"
+title: Mr. Sushi Pompton Lakes
 permalink: /new-jersey/pompton-lakes/mr-sushi-pompton-lakes.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Pompton Lakes
 seo:
-  name: "Mr. Sushi Pompton Lakes"
-  type: Restaurant
-  links: null
-description: "Mr. Sushi Pompton Lakes serves delicious sushi in Pompton Lakes, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://amazingmrsushi.com/
 place_id: ChIJt-s9_7Ycw4kRiIC7onmZrbQ
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c31cb6ff3debb7:0xb4ad9979a2bb8088!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (973) 831-4555
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 375
+website: http://amazingmrsushi.com/
+description: >-
+  Discover Mr. Sushi in Pompton Lakes, NJ$$$Nestled in Pompton Lakes, NJ, Mr.
+  Sushi offers a welcoming spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a casual, informal atmosphere. This pan-Asian eatery specializes in
+  specialty rolls and bento boxes, making it a go-to choice for those seeking
+  flavorful options from top-rated sushi restaurants nearby. With its accessible
+  features like wheelchair-friendly parking and seating, the spot ensures a
+  comfortable experience for all visitors looking for quality Japanese cuisine.
+  The menu highlights a variety of creative rolls and traditional favorites,
+  perfect for anyone exploring sushi places close to home. Open throughout the
+  week with extended hours on weekends, it's an ideal destination for a relaxed
+  meal that combines authentic flavors with everyday convenience.
+generative_summary: >-
+  Discover Mr. Sushi in Pompton Lakes, NJ$$$Nestled in Pompton Lakes, NJ, Mr.
+  Sushi offers a welcoming spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a casual, informal atmosphere. This pan-Asian eatery specializes in
+  specialty rolls and bento boxes, making it a go-to choice for those seeking
+  flavorful options from top-rated sushi restaurants nearby. With its accessible
+  features like wheelchair-friendly parking and seating, the spot ensures a
+  comfortable experience for all visitors looking for quality Japanese cuisine.
+  The menu highlights a variety of creative rolls and traditional favorites,
+  perfect for anyone exploring sushi places close to home. Open throughout the
+  week with extended hours on weekends, it's an ideal destination for a relaxed
+  meal that combines authentic flavors with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Raving About$$$From what folks are sharing online, this
+  sushi spot in Pompton Lakes seems to hit the mark with its tasty dishes and
+  friendly vibe, earning solid praise for fresh ingredients and creative rolls.
+  Many visitors highlight the consistent quality of the meals, noting that it's
+  a reliable pick for anyone craving top-rated sushi without the fuss. While
+  there are occasional mentions of wait times during peak hours, the overall
+  feedback leans positive, with people appreciating the affordable prices and
+  welcoming setting. It's clear that diners enjoy the variety of options, making
+  it a favorite for casual get-togethers or quick bites near you. All in all,
+  the buzz suggests it's worth checking out for a satisfying experience that
+  keeps customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

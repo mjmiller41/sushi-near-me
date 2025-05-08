@@ -5,4 +5,5 @@ permalink: /california/fair-oaks/
 stateAbbr: CA
 stateName: California
 cityName: Fair Oaks
+
 ---

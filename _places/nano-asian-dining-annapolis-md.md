@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nano Asian Dining"
+title: Nano Asian Dining
 permalink: /maryland/annapolis/nano-asian-dining.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Annapolis
 seo:
-  name: "Nano Asian Dining"
-  type: Restaurant
+  type: restaurant
   links: http://www.nanoasian.com/
-description: "Brightly decorated hangout known for its long sushi bar, Pan-Asian menu & traditional tatami room. Nano Asian Dining serves delicious sushi in Annapolis, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJvdRS4U_2t4kRx2rHUYzCJ8Y
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.nanoasian.com/
+description: >-
+  Discover Nano Asian Dining in Annapolis, MD$$$Nano Asian Dining in Annapolis,
+  MD, stands out as a welcoming spot for enjoying fresh sushi and a variety of
+  Pan-Asian dishes in a brightly decorated setting. The restaurant features a
+  long sushi bar and a traditional tatami room, creating an inviting atmosphere
+  perfect for casual meals or quick takeout options. With its focus on flavorful
+  Asian fare, including sushi rolls and other favorites, it's an excellent
+  choice for those searching for reliable sushi spots nearby. Accessibility is a
+  key highlight, with wheelchair-friendly features throughout, making it easier
+  for everyone to savor the experience. Whether you're looking for dine-in vibes
+  or convenient delivery, this spot delivers on quality and variety that appeals
+  to sushi enthusiasts.
+generative_summary: >-
+  Discover Nano Asian Dining in Annapolis, MD$$$Nano Asian Dining in Annapolis,
+  MD, stands out as a welcoming spot for enjoying fresh sushi and a variety of
+  Pan-Asian dishes in a brightly decorated setting. The restaurant features a
+  long sushi bar and a traditional tatami room, creating an inviting atmosphere
+  perfect for casual meals or quick takeout options. With its focus on flavorful
+  Asian fare, including sushi rolls and other favorites, it's an excellent
+  choice for those searching for reliable sushi spots nearby. Accessibility is a
+  key highlight, with wheelchair-friendly features throughout, making it easier
+  for everyone to savor the experience. Whether you're looking for dine-in vibes
+  or convenient delivery, this spot delivers on quality and variety that appeals
+  to sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJvdRS4U_2t4kRx2rHUYzCJ8Y/reviews/ChZDSUhNMG9nS0VJQ0FnSURmdnR6VVVREAE
@@ -360,6 +383,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyLXVuR0R3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyLXVuR0R3EAE!2m1!1s0x89b7f64fe152d4bd:0xc627c28c51c76ac7
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Annapolis eatery often praise the
+  generous portions and tasty sushi selections, making it a solid pick for
+  anyone craving flavorful Asian cuisine. Many highlight the wide range of
+  options, from fresh rolls to hearty sides, as consistently satisfying and
+  well-priced for a casual outing. While some mentions note occasional slowdowns
+  in service during peak times, the overall vibe remains upbeat with friendly
+  staff and a cozy environment that keeps diners coming back. It's frequently
+  recommended as a go-to for groups or families seeking dependable meals,
+  blending good value with enjoyable flavors that leave a positive impression.
+  If you're on the hunt for top-rated sushi in the area, this place tends to hit
+  the mark with its reliable appeal and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -390,8 +426,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Brightly decorated hangout known for its long sushi bar, Pan-Asian menu &
   traditional tatami room.
 

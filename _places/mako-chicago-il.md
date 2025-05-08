@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mako"
+title: Mako
 permalink: /illinois/chicago/mako.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Mako"
-  type: Restaurant
+  type: restaurant
   links: http://www.makochicago.com/
-description: "Elaborate, seasonal sushi presentations make up the multiple courses at this sleek, upscale eatery. Mako serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJDdy6PActDogRtHVYT64x2sY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 0
 website: http://www.makochicago.com/
+description: >-
+  Experience Mako Sushi in Chicago$$$Mako in Chicago, IL, stands out as an
+  intimate sushi destination offering a seasonal omakase menu that highlights
+  creative and fresh flavors. This upscale spot features a thoughtfully curated
+  selection of dishes, emphasizing high-quality ingredients and elegant
+  presentations that change with the seasons. With its sleek ambiance and focus
+  on innovative sushi options, it's ideal for those seeking a refined dining
+  experience in the bustling West Loop area. Visitors can enjoy a variety of
+  expertly prepared rolls and nigiri, making it a go-to choice for anyone
+  exploring top sushi restaurants nearby. Whether you're in the mood for
+  something special or just great sushi close to home, this venue delivers a
+  memorable meal in a cozy setting.
+generative_summary: >-
+  Experience Mako Sushi in Chicago$$$Mako in Chicago, IL, stands out as an
+  intimate sushi destination offering a seasonal omakase menu that highlights
+  creative and fresh flavors. This upscale spot features a thoughtfully curated
+  selection of dishes, emphasizing high-quality ingredients and elegant
+  presentations that change with the seasons. With its sleek ambiance and focus
+  on innovative sushi options, it's ideal for those seeking a refined dining
+  experience in the bustling West Loop area. Visitors can enjoy a variety of
+  expertly prepared rolls and nigiri, making it a go-to choice for anyone
+  exploring top sushi restaurants nearby. Whether you're in the mood for
+  something special or just great sushi close to home, this venue delivers a
+  memorable meal in a cozy setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDdy6PActDogRtHVYT64x2sY/reviews/ChdDSUhNMG9nS0VJQ0FnSURQcTlfUjdBRRAB
@@ -452,6 +475,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5djhYZlBBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5djhYZlBBEAE!2m1!1s0x880e2d073cbadc0d:0xc6da31ae4f5875b4
+review_summary: >-
+  Insights from Recent Feedback$$$Diners often rave about the delicious and
+  unique flavors at this sushi spot, with many highlighting the creative twists
+  on traditional dishes that make every bite feel special. While the intimate
+  atmosphere and seasonal menu create a perfect backdrop for celebrations, some
+  note that pricing can be on the higher side, encouraging visits for occasional
+  treats rather than everyday meals. Feedback generally praises the engaging
+  service and beautiful presentations, though a few mention minor
+  inconsistencies like portion sizes or unexpected add-ons. Overall, it's a
+  solid pick for anyone hunting for quality sushi experiences, blending
+  excitement with a few areas for improvement to keep things real. If you're
+  searching for the best sushi near you, this place tends to leave a positive
+  impression despite the occasional hiccup.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -482,8 +519,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Elaborate, seasonal sushi presentations make up the multiple courses at this
   sleek, upscale eatery.
 

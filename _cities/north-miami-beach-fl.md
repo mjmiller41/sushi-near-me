@@ -5,4 +5,5 @@ permalink: /florida/north-miami-beach/
 stateAbbr: FL
 stateName: Florida
 cityName: North Miami Beach
+
 ---

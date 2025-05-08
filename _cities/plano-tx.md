@@ -5,4 +5,5 @@ permalink: /texas/plano/
 stateAbbr: TX
 stateName: Texas
 cityName: Plano
+
 ---

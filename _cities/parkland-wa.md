@@ -5,4 +5,5 @@ permalink: /washington/parkland/
 stateAbbr: WA
 stateName: Washington
 cityName: Parkland
+
 ---

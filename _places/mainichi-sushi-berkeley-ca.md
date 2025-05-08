@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mainichi Sushi"
+title: Mainichi Sushi
 permalink: /california/berkeley/mainichi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
 seo:
-  name: "Mainichi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://mainichisushi.menu11.com/berkeley/order
-description: "Mainichi Sushi serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNTEVhBV5hYARjZvmA_YbiMM
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8085791584153135:0xc3881bf603e69b8d!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,252 @@ phone: (510) 280-5037
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 144
 website: https://mainichisushi.menu11.com/berkeley/order
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Mainichi Sushi in Berkeley, CA$$$Nestled in the vibrant city of
+  Berkeley, California, Mainichi Sushi stands out as a welcoming Japanese eatery
+  offering a variety of fresh sushi options and hearty bento boxes in a relaxed,
+  informal atmosphere. Patrons can enjoy classic dishes like miso soup and
+  inventive rolls, making it a go-to spot for those seeking authentic Japanese
+  flavors in a casual setting. The restaurant emphasizes accessibility with
+  features like wheelchair-friendly entrances and ample seating, ensuring a
+  comfortable dining experience for all. Its convenient hours and neighborhood
+  location make it an ideal choice for anyone exploring sushi restaurants
+  nearby, with options that cater to quick lunches or evening meals. Free street
+  parking adds to the appeal, allowing visitors to easily savor high-quality
+  Japanese cuisine without the hassle.
+generative_summary: >-
+  Discover Mainichi Sushi in Berkeley, CA$$$Nestled in the vibrant city of
+  Berkeley, California, Mainichi Sushi stands out as a welcoming Japanese eatery
+  offering a variety of fresh sushi options and hearty bento boxes in a relaxed,
+  informal atmosphere. Patrons can enjoy classic dishes like miso soup and
+  inventive rolls, making it a go-to spot for those seeking authentic Japanese
+  flavors in a casual setting. The restaurant emphasizes accessibility with
+  features like wheelchair-friendly entrances and ample seating, ensuring a
+  comfortable dining experience for all. Its convenient hours and neighborhood
+  location make it an ideal choice for anyone exploring sushi restaurants
+  nearby, with options that cater to quick lunches or evening meals. Free street
+  parking adds to the appeal, allowing visitors to easily savor high-quality
+  Japanese cuisine without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJNTEVhBV5hYARjZvmA_YbiMM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfMXJ5S3ZBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Great sushi place! Free miso soup and orange slices. I recommend getting
+        a few rolls and splitting them with a party. Our server, Mika, was
+        great. I like to get the orange blossom roll with lemon slices on top
+        instead of tobiko. It’s delish. I highly recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi place! Free miso soup and orange slices. I recommend getting
+        a few rolls and splitting them with a party. Our server, Mika, was
+        great. I like to get the orange blossom roll with lemon slices on top
+        instead of tobiko. It’s delish. I highly recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Alethea D
+      uri: https://www.google.com/maps/contrib/111818573240544302530/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV71oIP9EVRpzovrb82kKvYkVU0WO_TREi3xFBT9mGHMHLhZjwC=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-15T23:27:07.669249Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfMXJ5S3ZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfMXJ5S3ZBRRAB!2m1!1s0x8085791584153135:0xc3881bf603e69b8d
+  - name: >-
+      places/ChIJNTEVhBV5hYARjZvmA_YbiMM/reviews/ChZDSUhNMG9nS0VJQ0FnSURua2ZPTllnEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        The chirashi don comes with a generous portion of sashimi, and the bento
+        box is also quite substantial. Though the flavors are definitely
+        mediocre. It's great value for the price, with attentive service.
+        Perfect for a quick lunch or dinner.
+      languageCode: en
+    originalText:
+      text: >-
+        The chirashi don comes with a generous portion of sashimi, and the bento
+        box is also quite substantial. Though the flavors are definitely
+        mediocre. It's great value for the price, with attentive service.
+        Perfect for a quick lunch or dinner.
+      languageCode: en
+    authorAttribution:
+      displayName: Hannah Jin
+      uri: https://www.google.com/maps/contrib/106886643289463162646/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-Vp4dRIlE0ESrjzGTS6DlEU_p8wHTjZboJ53irljTEwTPQc6q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-10T03:48:29.742565Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURua2ZPTllnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURua2ZPTllnEAE!2m1!1s0x8085791584153135:0xc3881bf603e69b8d
+  - name: >-
+      places/ChIJNTEVhBV5hYARjZvmA_YbiMM/reviews/ChZDSUhNMG9nS0VJQ0FnSUREemQtQkhnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Friendly service. Enjoyed warm miso soup on a chilly night. Solid sushi
+        rolls and portion. The Real California Roll with real crab was
+        delightful. Surprisingly tasty with good texture. Scallops nigiri tasted
+        fresh. Ocean salad with salmon, tuna and hamachi was was delicious.
+        Spider roll was crunchy with cucumber and fried soft shell crab. Solano
+        roll has everything. Ended the meal with cream puff on the house.
+        Appreciated the friendly staff and refilling hot tea several times.
+        Interior was cozy and spacious. Mainichi is a great neighborhood sushi
+        spot.
+      languageCode: en
+    originalText:
+      text: >-
+        Friendly service. Enjoyed warm miso soup on a chilly night. Solid sushi
+        rolls and portion. The Real California Roll with real crab was
+        delightful. Surprisingly tasty with good texture. Scallops nigiri tasted
+        fresh. Ocean salad with salmon, tuna and hamachi was was delicious.
+        Spider roll was crunchy with cucumber and fried soft shell crab. Solano
+        roll has everything. Ended the meal with cream puff on the house.
+        Appreciated the friendly staff and refilling hot tea several times.
+        Interior was cozy and spacious. Mainichi is a great neighborhood sushi
+        spot.
+      languageCode: en
+    authorAttribution:
+      displayName: V W
+      uri: https://www.google.com/maps/contrib/108821399952689735741/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI_dvqb4C6UBLRMz5Q5UqoTdeXbcMogQn3do3T3U1zeWe-viQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-04-12T20:19:48.884860Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREemQtQkhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREemQtQkhnEAE!2m1!1s0x8085791584153135:0xc3881bf603e69b8d
+  - name: >-
+      places/ChIJNTEVhBV5hYARjZvmA_YbiMM/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3aTRMYUhREAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        Not a fan. The gyoza and tempura were super overcooked and so crunchy.
+        The waitress didn't seem like she had any kind of training and didn't
+        know what was available.  In my opinion,  the fish-to-rice ratio was
+        super off. The nigiri was just huge for no reason and not good quality. 
+        I ended up leaving most of my nigiri.  The miso soup was also pretty
+        salty.
+      languageCode: en
+    originalText:
+      text: >-
+        Not a fan. The gyoza and tempura were super overcooked and so crunchy.
+        The waitress didn't seem like she had any kind of training and didn't
+        know what was available.  In my opinion,  the fish-to-rice ratio was
+        super off. The nigiri was just huge for no reason and not good quality. 
+        I ended up leaving most of my nigiri.  The miso soup was also pretty
+        salty.
+      languageCode: en
+    authorAttribution:
+      displayName: Nicola
+      uri: https://www.google.com/maps/contrib/109816524987834571324/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUguSvwDLjzunG-ZsQT4AyZ7GRhDSLL3yr0s80Zun13gtV5VCOxSQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-21T05:03:32.110393Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3aTRMYUhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3aTRMYUhREAE!2m1!1s0x8085791584153135:0xc3881bf603e69b8d
+  - name: >-
+      places/ChIJNTEVhBV5hYARjZvmA_YbiMM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiMmRES0ZREAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Great sushi spot and friendly atmosphere. You won't be disappointed.
+
+
+        We stopped here because of the bento box and sushi. What stood out to me
+        about this restaurant was how they provided everyone at the table Miso
+        Soup for no extra charge before we even ordered. There was plenty of
+        room to sit as well as parking in front of restaurant. We ordered the
+        paparazzi, lion king and a bento box and were not disappointed by the
+        quality of the food.
+
+
+        Highly recommend the restaurant if you are in the area.
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi spot and friendly atmosphere. You won't be disappointed.
+
+
+        We stopped here because of the bento box and sushi. What stood out to me
+        about this restaurant was how they provided everyone at the table Miso
+        Soup for no extra charge before we even ordered. There was plenty of
+        room to sit as well as parking in front of restaurant. We ordered the
+        paparazzi, lion king and a bento box and were not disappointed by the
+        quality of the food.
+
+
+        Highly recommend the restaurant if you are in the area.
+      languageCode: en
+    authorAttribution:
+      displayName: Elias Juarez
+      uri: https://www.google.com/maps/contrib/110640704884114566527/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUvNMyGRnJfFYv_eWJTaqehJlBek9B3Hz3iM8OL2-3ZhZfnGxndsA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-29T00:47:17.516935Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiMmRES0ZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiMmRES0ZREAE!2m1!1s0x8085791584153135:0xc3881bf603e69b8d
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks frequently praise the
+  generous portions and flavorful sushi rolls at this Berkeley favorite, often
+  highlighting the complimentary miso soup and fresh ingredients as standout
+  features that enhance the overall meal. Many appreciate the attentive service
+  and great value, making it a solid pick for groups or families looking for a
+  relaxed vibe during lunch or dinner. While most diners enjoy the authentic
+  Japanese dishes like bento boxes and udon, a few mention occasional
+  inconsistencies in preparation, though these don't overshadow the generally
+  positive experiences. Overall, it's seen as a reliable neighborhood option for
+  tasty, affordable eats that keep customers coming back for more. If you're on
+  the hunt for top-rated sushi places nearby, this spot delivers a welcoming
+  atmosphere and satisfying meals that live up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jae's Asian Bistro & Sushi"
+title: Jae's Asian Bistro & Sushi
 permalink: /washington/seattle/jae-s-asian-bistro-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Jae's Asian Bistro & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.jaesasianbistroandsushi-seattle.com/
-description: "Jae's Asian Bistro & Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn9xP1iVrkFQRG2E9qB4cD54
 photos:
   - name: >-
@@ -169,7 +167,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906b25d64fdc9f:0x9e0f1c1ea83d611b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -177,14 +273,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +285,50 @@ phone: (206) 323-0171
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.7'
-rating_count: 0
+rating_count: 114
 website: https://www.jaesasianbistroandsushi-seattle.com/
+description: >-
+  Discover Jae's Asian Bistro & Sushi in Seattle, WA$$$Jae's Asian Bistro &
+  Sushi in Seattle, WA, stands out as a go-to spot for authentic Japanese fare,
+  blending fresh sushi rolls, nigiri, and bento boxes in a welcoming, casual
+  setting. This top-rated sushi restaurant near you offers a menu that
+  highlights quality ingredients and creative presentations, perfect for those
+  craving Japanese places in the area. Complementing the meals are selections of
+  beer and wine, adding to the relaxed vibe that makes it ideal for a laid-back
+  dining experience. Accessibility features like wheelchair-friendly entrances
+  and seating ensure everyone can enjoy the flavorful offerings without hassle.
+  Whether you're searching for sushi close to me or simply exploring Seattle's
+  vibrant food scene, this establishment delivers a satisfying blend of
+  tradition and taste.
+generative_summary: >-
+  Discover Jae's Asian Bistro & Sushi in Seattle, WA$$$Jae's Asian Bistro &
+  Sushi in Seattle, WA, stands out as a go-to spot for authentic Japanese fare,
+  blending fresh sushi rolls, nigiri, and bento boxes in a welcoming, casual
+  setting. This top-rated sushi restaurant near you offers a menu that
+  highlights quality ingredients and creative presentations, perfect for those
+  craving Japanese places in the area. Complementing the meals are selections of
+  beer and wine, adding to the relaxed vibe that makes it ideal for a laid-back
+  dining experience. Accessibility features like wheelchair-friendly entrances
+  and seating ensure everyone can enjoy the flavorful offerings without hassle.
+  Whether you're searching for sushi close to me or simply exploring Seattle's
+  vibrant food scene, this establishment delivers a satisfying blend of
+  tradition and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks who dine here often
+  praise the fresh and creative sushi options, with standout dishes like the
+  king crab nigiri leaving a lasting impression for their quality and flavor.
+  Many appreciate the friendly and efficient service that keeps things running
+  smoothly, making it a comfortable choice for casual meals or group outings.
+  The cozy atmosphere adds to the appeal, creating a relaxed environment that
+  enhances the overall experience at this Japanese restaurant. While opinions
+  highlight consistent positives, it's clear that the attention to detail in
+  both food and hospitality keeps customers coming back. If you're on the hunt
+  for one of the best sushi places near me, this spot delivers a reliably
+  enjoyable vibe that lives up to its reputation in a genuine, down-to-earth
+  way.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +354,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

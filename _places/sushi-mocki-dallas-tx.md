@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Mockï"
+title: Sushi Mockï
 permalink: /texas/dallas/sushi-mocki.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Sushi Mockï"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushimocki.com/
-description: "Sushi Mockï serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXxuNPYufToYRBgZIGca1e7A
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e9f8b3d8d1b5f:0xb07bb5c619480606!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,254 @@ phone: (469) 677-7219
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 147
 website: http://www.sushimocki.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Mockï in Dallas, TX$$$Sushi Mockï in Dallas, TX, stands out as
+  a go-to destination for fresh sushi and creative Asian flavors in a relaxed
+  environment. This spot delights with its inventive rolls and diverse plates
+  that blend traditional and modern tastes, making it ideal for those seeking
+  authentic Japanese-inspired dining options nearby. The casual setting features
+  accessible entrances and seating, along with outdoor options, perfect for
+  enjoying a meal with friends or family after a day out. Open daily from 11 AM
+  to 10 PM, it offers a welcoming atmosphere for quick lunches or evening
+  gatherings, emphasizing affordability and variety. Whether you're exploring
+  top-rated sushi restaurants in the area, this location combines quality
+  ingredients with a laid-back vibe to satisfy your cravings.
+generative_summary: >-
+  Discover Sushi Mockï in Dallas, TX$$$Sushi Mockï in Dallas, TX, stands out as
+  a go-to destination for fresh sushi and creative Asian flavors in a relaxed
+  environment. This spot delights with its inventive rolls and diverse plates
+  that blend traditional and modern tastes, making it ideal for those seeking
+  authentic Japanese-inspired dining options nearby. The casual setting features
+  accessible entrances and seating, along with outdoor options, perfect for
+  enjoying a meal with friends or family after a day out. Open daily from 11 AM
+  to 10 PM, it offers a welcoming atmosphere for quick lunches or evening
+  gatherings, emphasizing affordability and variety. Whether you're exploring
+  top-rated sushi restaurants in the area, this location combines quality
+  ingredients with a laid-back vibe to satisfy your cravings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJXxuNPYufToYRBgZIGca1e7A/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdi0yUDJBRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Food was so delicious and gorgeous. I got the lunch combo and subbed the
+        california roll for the salmon and the salmon was really fresh and the
+        other two rolls were delicious and perfectly crispy. My friend got the
+        lover roll and it ws good but actually spicy (spicy mayo uses tabasco i
+        think). Overall, I recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Food was so delicious and gorgeous. I got the lunch combo and subbed the
+        california roll for the salmon and the salmon was really fresh and the
+        other two rolls were delicious and perfectly crispy. My friend got the
+        lover roll and it ws good but actually spicy (spicy mayo uses tabasco i
+        think). Overall, I recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: shir mazor
+      uri: https://www.google.com/maps/contrib/103355589361190492903/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVVAoddzMPqsjQmmGeFIV2slwhKBSMhrrg70dp9Mmr1z_6JafI65g=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-05T22:28:10.056034Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJdi0yUDJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJdi0yUDJBRRAB!2m1!1s0x864e9f8b3d8d1b5f:0xb07bb5c619480606
+  - name: >-
+      places/ChIJXxuNPYufToYRBgZIGca1e7A/reviews/ChdDSUhNMG9nS0VJQ0FnTURnbmQ2bTBBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing! Probably the best spicy salmon and spicy yellowtail I’ve had.
+        They mix in spices with the salmon which I love. The spring rolls were
+        so perfect. Was so good almost finished it before taking a photo. I will
+        be bike. Convenient next to bike trails and workers are very friendly.
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing! Probably the best spicy salmon and spicy yellowtail I’ve had.
+        They mix in spices with the salmon which I love. The spring rolls were
+        so perfect. Was so good almost finished it before taking a photo. I will
+        be bike. Convenient next to bike trails and workers are very friendly.
+      languageCode: en
+    authorAttribution:
+      displayName: Fleet Wood
+      uri: https://www.google.com/maps/contrib/110302828401348246071/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXRMjf3VX1-I6Khsxk5txT4LfoL3mw4larePyX9-wxcphgAYz7B=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-26T18:36:36.321378Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnbmQ2bTBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnbmQ2bTBBRRAB!2m1!1s0x864e9f8b3d8d1b5f:0xb07bb5c619480606
+  - name: >-
+      places/ChIJXxuNPYufToYRBgZIGca1e7A/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbUtuYUlnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Genuinely the best sushi I’ve had in a really long time! We’re visiting
+        from Oklahoma and they treated us so kindly and the food was delicious!!
+        If you love sushi, THIS IS THE PLACE TO COME!!! (Gyoza as the second pic
+        and Hollywood roll as the first🤤)
+      languageCode: en
+    originalText:
+      text: >-
+        Genuinely the best sushi I’ve had in a really long time! We’re visiting
+        from Oklahoma and they treated us so kindly and the food was delicious!!
+        If you love sushi, THIS IS THE PLACE TO COME!!! (Gyoza as the second pic
+        and Hollywood roll as the first🤤)
+      languageCode: en
+    authorAttribution:
+      displayName: chelsea robertson
+      uri: https://www.google.com/maps/contrib/106094466699436031989/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL5cGY67GENRk5Q9-ayOpCu-CLa2CNJClHc3d8uCGwpawu8PA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-30T00:53:48.217562Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJbUtuYUlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJbUtuYUlnEAE!2m1!1s0x864e9f8b3d8d1b5f:0xb07bb5c619480606
+  - name: >-
+      places/ChIJXxuNPYufToYRBgZIGca1e7A/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdzl1Qnl3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Amazing service Amazing food 10/10 recommend. It’s honestly very cheap
+        very affordable i love sushi, my first time going here and i love it.
+        The inside is so beautiful very comfortable didn’t get to sit but i
+        would stay there for hours. Definitely coming backkk😊😊
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing service Amazing food 10/10 recommend. It’s honestly very cheap
+        very affordable i love sushi, my first time going here and i love it.
+        The inside is so beautiful very comfortable didn’t get to sit but i
+        would stay there for hours. Definitely coming backkk😊😊
+      languageCode: en
+    authorAttribution:
+      displayName: sammy Moreno
+      uri: https://www.google.com/maps/contrib/106358417072147818125/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI7xHN1lqX6f78hfgRq_Tni1oyDWk6boHSvgwzOGC3xE9aQqA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-06T20:07:56.581893Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRdzl1Qnl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRdzl1Qnl3RRAB!2m1!1s0x864e9f8b3d8d1b5f:0xb07bb5c619480606
+  - name: >-
+      places/ChIJXxuNPYufToYRBgZIGca1e7A/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvMjRDRmdnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        So, someone mentioned in the reviews how there's a lady waitress, at
+        this location who's very rude. After having her take my order for the
+        first time, I can confirm, that they were not lying.
+
+
+        When I first arrived she was all friendly, after I tipped her and
+        received my food, that friendliness quickly disappeared. So one would
+        assume she just wanted the tip and that was it, and after that screw you
+        right?
+
+
+        Well, putting her to the side, the food is great, though I did find a
+        tiny piece of hair in my food. The service is kind of slow sometimes.
+
+
+        But there is one guy, with a hat and glasses. He's very friendly and fun
+        to talk to. There's another guy, who's kind of bald at the top, but he's
+        always checking up to see if I need anything else. There's another young
+        guy with glasses, who's also doing a great job. Really, these few people
+        are the real reason I continue to come.
+      languageCode: en
+    originalText:
+      text: >-
+        So, someone mentioned in the reviews how there's a lady waitress, at
+        this location who's very rude. After having her take my order for the
+        first time, I can confirm, that they were not lying.
+
+
+        When I first arrived she was all friendly, after I tipped her and
+        received my food, that friendliness quickly disappeared. So one would
+        assume she just wanted the tip and that was it, and after that screw you
+        right?
+
+
+        Well, putting her to the side, the food is great, though I did find a
+        tiny piece of hair in my food. The service is kind of slow sometimes.
+
+
+        But there is one guy, with a hat and glasses. He's very friendly and fun
+        to talk to. There's another guy, who's kind of bald at the top, but he's
+        always checking up to see if I need anything else. There's another young
+        guy with glasses, who's also doing a great job. Really, these few people
+        are the real reason I continue to come.
+      languageCode: en
+    authorAttribution:
+      displayName: Librarian
+      uri: https://www.google.com/maps/contrib/105481413815596148082/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVanFlz-znmDwMs3T_NYQ-ve8jDDbTJ0Ftpa5xMlDM4iqV3fvEl=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-20T04:49:31.314395Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvMjRDRmdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvMjRDRmdnRRAB!2m1!1s0x864e9f8b3d8d1b5f:0xb07bb5c619480606
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks love the fresh and flavorful sushi
+  rolls here, with many highlighting the spicy options and lunch specials as
+  standout choices for a satisfying meal. The service often comes across as
+  friendly and attentive, creating a welcoming spot that's great for casual
+  get-togethers or solo visits, though it can vary slightly depending on the
+  staff. Reviewers frequently mention the affordable prices and generous
+  portions, making it a solid pick for anyone hunting for quality Japanese eats
+  without breaking the bank. Overall, the vibe is positive, with people
+  appreciating the convenient location near local trails and the variety of
+  dishes that cater to different tastes. If you're on the hunt for tasty sushi
+  places in the neighborhood, this one earns high marks for its reliable flavors
+  and relaxed appeal, encouraging repeat trips for sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /north-carolina/charlotte/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
+
 ---

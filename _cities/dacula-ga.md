@@ -5,4 +5,5 @@ permalink: /georgia/dacula/
 stateAbbr: GA
 stateName: Georgia
 cityName: Dacula
+
 ---

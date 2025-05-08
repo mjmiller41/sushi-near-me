@@ -5,4 +5,5 @@ permalink: /kansas/manhattan/
 stateAbbr: KS
 stateName: Kansas
 cityName: Manhattan
+
 ---

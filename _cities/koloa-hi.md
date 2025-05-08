@@ -5,4 +5,5 @@ permalink: /hawaii/koloa/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Koloa
+
 ---

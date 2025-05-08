@@ -5,4 +5,5 @@ permalink: /washington/vancouver/
 stateAbbr: WA
 stateName: Washington
 cityName: Vancouver
+
 ---

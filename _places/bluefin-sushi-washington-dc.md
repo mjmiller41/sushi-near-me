@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bluefin Sushi"
+title: Bluefin Sushi
 permalink: /district-of-columbia/washington/bluefin-sushi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Bluefin Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://bluefingeorgetown.com/
-description: "Maki, nigiri & specialty rolls in a snug spot with limited seating, plus takeout & delivery options. Bluefin Sushi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJaRMy80u2t4kRJ4nZjxmT5BY
 photos:
   - name: >-
@@ -181,6 +179,29 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 0
 website: http://bluefingeorgetown.com/
+description: >-
+  Explore Bluefin Sushi in Washington, DC$$$Bluefin Sushi in Washington, DC,
+  stands out as a cozy spot for enjoying fresh Japanese cuisine, featuring a
+  variety of expertly crafted rolls and seafood dishes that highlight
+  high-quality ingredients. The intimate setting offers a welcoming atmosphere
+  perfect for a quick meal or takeout, with options like green tea and sake to
+  enhance your dining experience. Diners appreciate the straightforward service
+  that makes it easy to order and relax, whether you're seeking a casual bite or
+  something more flavorful after a day exploring the city. This hidden gem in
+  the heart of the neighborhood provides an approachable vibe that keeps
+  visitors returning for its tasty selections and reliable flavors.
+generative_summary: >-
+  Explore Bluefin Sushi in Washington, DC$$$Bluefin Sushi in Washington, DC,
+  stands out as a cozy spot for enjoying fresh Japanese cuisine, featuring a
+  variety of expertly crafted rolls and seafood dishes that highlight
+  high-quality ingredients. The intimate setting offers a welcoming atmosphere
+  perfect for a quick meal or takeout, with options like green tea and sake to
+  enhance your dining experience. Diners appreciate the straightforward service
+  that makes it easy to order and relax, whether you're seeking a casual bite or
+  something more flavorful after a day exploring the city. This hidden gem in
+  the heart of the neighborhood provides an approachable vibe that keeps
+  visitors returning for its tasty selections and reliable flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJaRMy80u2t4kRJ4nZjxmT5BY/reviews/ChZDSUhNMG9nS0VJQ0FnSURmNHVmVmNnEAE
@@ -354,6 +375,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3OVBpS0RBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3OVBpS0RBEAE!2m1!1s0x89b7b64bf3321369:0x16e493198fd98927
+review_summary: >-
+  Customer Feedback on Bluefin Sushi$$$Folks often rave about the fresh seafood
+  and creative rolls at this spot, making it a go-to for anyone craving
+  satisfying Japanese flavors in a laid-back environment. Many highlight the
+  friendly staff and efficient service that add to the overall charm, even on
+  busier days, helping to create a welcoming feel for all types of diners. While
+  the atmosphere is praised as a cute, unassuming hideaway worth discovering,
+  some note that accessibility could use a bit more attention to ensure everyone
+  feels included. Overall, it's clear that the quality of the food and attentive
+  vibes make this place a solid choice for a memorable meal, with plenty of
+  positive experiences standing out in the mix.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -384,8 +417,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Maki, nigiri & specialty rolls in a snug spot with limited seating, plus
   takeout & delivery options.
 

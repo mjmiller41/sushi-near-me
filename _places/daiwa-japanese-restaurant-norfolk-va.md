@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Daiwa Japanese Restaurant"
+title: Daiwa Japanese Restaurant
 permalink: /virginia/norfolk/daiwa-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Norfolk
 seo:
-  name: "Daiwa Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.daiwasushihibachi.com/
-description: "Daiwa Japanese Restaurant serves delicious sushi in Norfolk, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJocpUnqObuokRiUa-HeIHxno
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.daiwasushihibachi.com/
+description: >-
+  Discover Daiwa Japanese Restaurant in Norfolk, VA$$$Daiwa Japanese Restaurant
+  in Norfolk, VA, offers a relaxed dining experience centered around authentic
+  Japanese flavors that appeal to sushi enthusiasts. This spot features an
+  all-you-can-eat menu with fresh sushi and hibachi options, making it a go-to
+  choice for those seeking Japanese places nearby with a casual vibe. The
+  restaurant emphasizes accessibility, including wheelchair-friendly features
+  and ample parking, ensuring a welcoming environment for all visitors.
+  Moderately priced meals highlight generous portions and a variety of dishes,
+  from flavorful rolls to hearty hibachi selections, perfect for a satisfying
+  meal. Whether you're exploring local dining options or craving top-rated
+  sushi, this spot delivers a blend of quality and convenience.
+generative_summary: >-
+  Discover Daiwa Japanese Restaurant in Norfolk, VA$$$Daiwa Japanese Restaurant
+  in Norfolk, VA, offers a relaxed dining experience centered around authentic
+  Japanese flavors that appeal to sushi enthusiasts. This spot features an
+  all-you-can-eat menu with fresh sushi and hibachi options, making it a go-to
+  choice for those seeking Japanese places nearby with a casual vibe. The
+  restaurant emphasizes accessibility, including wheelchair-friendly features
+  and ample parking, ensuring a welcoming environment for all visitors.
+  Moderately priced meals highlight generous portions and a variety of dishes,
+  from flavorful rolls to hearty hibachi selections, perfect for a satisfying
+  meal. Whether you're exploring local dining options or craving top-rated
+  sushi, this spot delivers a blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJocpUnqObuokRiUa-HeIHxno/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3cWNDNkJREAE
@@ -336,6 +359,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMNThIMG1RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMNThIMG1RRRAB!2m1!1s0x89ba9ba39e54caa1:0x7ac607e21dbe4689
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often praise the
+  fresh and flavorful sushi at this spot, noting that the all-you-can-eat deals
+  make it a fun and filling option for groups. While most folks enjoy the
+  generous portions and quick service, a few mention that the taste didn't quite
+  hit the mark for them, though this seems to be an outlier. The staff comes
+  across as friendly and efficient, adding to the overall welcoming atmosphere
+  that keeps people coming back. Overall, it's a solid pick for anyone looking
+  for tasty Japanese fare, with highlights like the milk tea and miso soup
+  standing out in feedback. If you're in the mood for reliable sushi options
+  nearby, this place tends to deliver a positive vibe that leaves most
+  satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,7 +404,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

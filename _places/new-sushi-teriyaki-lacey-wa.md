@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "New Sushi & Teriyaki"
+title: New Sushi & Teriyaki
 permalink: /washington/lacey/new-sushi-teriyaki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Lacey
 seo:
-  name: "New Sushi & Teriyaki"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiandteriyaki.com/
-description: "New Sushi & Teriyaki serves delicious sushi in Lacey, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7x9PfD9zkVQRR6zo2LAVx7E
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5491733f7c4f1fef:0xb1c715b0d8e8ac47!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,47 @@ phone: (360) 456-8500
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 491
 website: http://www.sushiandteriyaki.com/
+description: >-
+  Explore New Sushi & Teriyaki in Lacey, Washington$$$New Sushi & Teriyaki in
+  Lacey, Washington, stands out as a welcoming Japanese restaurant serving fresh
+  sushi rolls and hearty bento boxes in a relaxed, casual setting. This spot
+  emphasizes accessibility with features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to enjoy a meal. Diners can savor a
+  variety of Japanese-inspired dishes that highlight quality ingredients and
+  traditional flavors, ideal for those seeking tasty options close to home. With
+  convenient hours extending into the evening, it's a great choice for a quick
+  lunch or dinner outing. Whether you're looking for top-rated Japanese places
+  nearby, the menu here delivers a satisfying blend of authentic tastes and
+  modern convenience.
+generative_summary: >-
+  Explore New Sushi & Teriyaki in Lacey, Washington$$$New Sushi & Teriyaki in
+  Lacey, Washington, stands out as a welcoming Japanese restaurant serving fresh
+  sushi rolls and hearty bento boxes in a relaxed, casual setting. This spot
+  emphasizes accessibility with features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to enjoy a meal. Diners can savor a
+  variety of Japanese-inspired dishes that highlight quality ingredients and
+  traditional flavors, ideal for those seeking tasty options close to home. With
+  convenient hours extending into the evening, it's a great choice for a quick
+  lunch or dinner outing. Whether you're looking for top-rated Japanese places
+  nearby, the menu here delivers a satisfying blend of authentic tastes and
+  modern convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh flavors and generous portions that make every bite worthwhile,
+  based on its solid reputation among local diners. Many appreciate the friendly
+  service and efficient atmosphere, which keeps things light and enjoyable
+  without any fuss. While some mention minor waits during peak times, the
+  overall experience earns high marks for value and taste, reflecting a 4.1
+  rating from hundreds of feedback. It's clear that folks love the variety of
+  options for sushi lovers on the go, making it a reliable pick for casual
+  meals. If you're hunting for solid Japanese eats nearby, this place
+  consistently delivers a positive vibe that keeps customers coming back for
+  more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

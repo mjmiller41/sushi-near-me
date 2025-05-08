@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "U-gu"
+title: U-gu
 permalink: /new-york/brooklyn/u-gu.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "U-gu"
-  type: Restaurant
+  type: restaurant
   links: https://www.uguny.com/
-description: "U-gu serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJm3h0jMBbwokRvvwglVp_ukQ
 photos:
   - name: >-
@@ -183,6 +181,27 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: https://www.uguny.com/
+description: >-
+  Discover U-gu in Brooklyn, NY$$$U-gu in Brooklyn, NY, stands out as a
+  welcoming sushi restaurant offering authentic Japanese cuisine in a relaxed
+  setting. This spot delights with fresh sushi and flavorful ramen, making it a
+  go-to choice for those seeking quality Japanese dishes in a casual atmosphere.
+  Accessibility features like wheelchair-friendly entrances and seating enhance
+  the experience for all visitors, while options for dine-in, takeout, and
+  delivery add to its convenience. With a reputation for high-quality
+  ingredients and a variety of menu choices, it's an ideal destination for
+  anyone exploring top-rated sushi options in the area.
+generative_summary: >-
+  Discover U-gu in Brooklyn, NY$$$U-gu in Brooklyn, NY, stands out as a
+  welcoming sushi restaurant offering authentic Japanese cuisine in a relaxed
+  setting. This spot delights with fresh sushi and flavorful ramen, making it a
+  go-to choice for those seeking quality Japanese dishes in a casual atmosphere.
+  Accessibility features like wheelchair-friendly entrances and seating enhance
+  the experience for all visitors, while options for dine-in, takeout, and
+  delivery add to its convenience. With a reputation for high-quality
+  ingredients and a variety of menu choices, it's an ideal destination for
+  anyone exploring top-rated sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJm3h0jMBbwokRvvwglVp_ukQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dzlEWk1REAE
@@ -350,6 +369,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURLbDd5djNBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURLbDd5djNBRRAB!2m1!1s0x89c25bc08c74789b:0x44ba7f5a9520fcbe
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the outstanding
+  freshness and taste of the sushi and ramen, highlighting the rich flavors and
+  satisfying portions that make meals memorable. Many appreciate the overall
+  value, noting that the quality justifies the investment, even if prices lean
+  on the higher side for some. While most feedback praises the hearty broths and
+  buttery textures that deliver a comforting vibe, a few mention minor
+  inconsistencies like noodle preparation in certain dishes. Overall, the
+  welcoming ambiance and solid selections keep folks coming back, making it a
+  solid pick for anyone hunting for reliable sushi spots nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -380,7 +410,7 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

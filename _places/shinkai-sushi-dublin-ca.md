@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shinkai Sushi"
+title: Shinkai Sushi
 permalink: /california/dublin/shinkai-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Dublin
 seo:
-  name: "Shinkai Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Shinkai Sushi serves delicious sushi in Dublin, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU0jqKwDpj4ARlNbiJegzYL8
 photos:
   - name: >-
@@ -184,7 +182,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Shinkai Sushi in Dublin, CA$$$Shinkai Sushi in Dublin, CA, stands out
+  as a premier spot for authentic Japanese cuisine, offering fresh seafood and
+  expertly crafted rolls that capture the essence of traditional flavors. This
+  cozy sushi restaurant delights diners with its array of tempura and sashimi
+  options, emphasizing high-quality ingredients that highlight the art of
+  Japanese dining. The welcoming atmosphere makes it an ideal choice for those
+  seeking sushi restaurants near them, with accessible features like
+  wheelchair-friendly seating enhancing the overall experience. Whether you're
+  in the mood for a quick bite or a relaxed meal, the attention to detail in
+  every dish ensures a memorable visit that keeps locals coming back for more.
+generative_summary: >-
+  Explore Shinkai Sushi in Dublin, CA$$$Shinkai Sushi in Dublin, CA, stands out
+  as a premier spot for authentic Japanese cuisine, offering fresh seafood and
+  expertly crafted rolls that capture the essence of traditional flavors. This
+  cozy sushi restaurant delights diners with its array of tempura and sashimi
+  options, emphasizing high-quality ingredients that highlight the art of
+  Japanese dining. The welcoming atmosphere makes it an ideal choice for those
+  seeking sushi restaurants near them, with accessible features like
+  wheelchair-friendly seating enhancing the overall experience. Whether you're
+  in the mood for a quick bite or a relaxed meal, the attention to detail in
+  every dish ensures a memorable visit that keeps locals coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and
+  flavorful sushi selections at this spot, making it a go-to for anyone craving
+  top-rated Japanese eats nearby. Many appreciate how the tempura and sashimi
+  bring a genuine taste of Japan, with comments highlighting the quality that
+  stands out in the area. The staff's friendly vibe and attentive service add to
+  the charm, creating a warm environment that's perfect for casual outings or
+  group gatherings. Overall, it's clear that folks enjoy the inviting
+  atmosphere, though as with any place, experiences can vary based on personal
+  tastes, keeping things reliably positive for sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

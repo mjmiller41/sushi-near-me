@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "China King Buffet"
+title: China King Buffet
 permalink: /wyoming/gillette/china-king-buffet.html
 stateAbbr: WY
 stateName: Wyoming
 cityName: Gillette
 seo:
-  name: "China King Buffet"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "China King Buffet serves delicious sushi in Gillette, Wyoming. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDYAHZCmUNFMREuse6hAxPOQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x533494296407800d:0xe43c3110ea1eeb12!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,219 @@ phone: (307) 685-2222
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '3.9'
-rating_count: 0
+rating_count: 577
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover China King Buffet in Gillette, Wyoming$$$China King Buffet in
+  Gillette, WY, stands out as a casual Chinese eatery offering an
+  all-you-can-eat buffet that includes fresh sushi options and a lively
+  Mongolian grill, making it a go-to spot for diverse Asian flavors. This
+  welcoming restaurant features accessible entrances and seating, along with
+  ample parking, ensuring a comfortable visit for everyone. Visitors can enjoy a
+  variety of dishes prepared with everyday favorites in mind, all served in a
+  relaxed atmosphere perfect for family meals or quick lunches. Open most days
+  from 11 AM to 9 PM, it's an ideal choice for those seeking affordable dining
+  experiences with a mix of traditional and interactive cooking styles. Whether
+  you're exploring sushi places nearby or craving hearty buffet options, this
+  spot delivers satisfying meals that highlight its commitment to variety and
+  convenience.
+generative_summary: >-
+  Discover China King Buffet in Gillette, Wyoming$$$China King Buffet in
+  Gillette, WY, stands out as a casual Chinese eatery offering an
+  all-you-can-eat buffet that includes fresh sushi options and a lively
+  Mongolian grill, making it a go-to spot for diverse Asian flavors. This
+  welcoming restaurant features accessible entrances and seating, along with
+  ample parking, ensuring a comfortable visit for everyone. Visitors can enjoy a
+  variety of dishes prepared with everyday favorites in mind, all served in a
+  relaxed atmosphere perfect for family meals or quick lunches. Open most days
+  from 11 AM to 9 PM, it's an ideal choice for those seeking affordable dining
+  experiences with a mix of traditional and interactive cooking styles. Whether
+  you're exploring sushi places nearby or craving hearty buffet options, this
+  spot delivers satisfying meals that highlight its commitment to variety and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJDYAHZCmUNFMREuse6hAxPOQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3b1BxRXFnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My experience with China king has always been really good my girlfriend
+        and her family have lived here all their life and have always loved
+        coming here. The food is delicious and the service is always great.
+        Although the prices are definitely higher than they use to be the prices
+        make sense to the price of living now and are completely understandable
+        in my opinion. Highly recommend coming here and I will definitely be
+        coming back.
+      languageCode: en
+    originalText:
+      text: >-
+        My experience with China king has always been really good my girlfriend
+        and her family have lived here all their life and have always loved
+        coming here. The food is delicious and the service is always great.
+        Although the prices are definitely higher than they use to be the prices
+        make sense to the price of living now and are completely understandable
+        in my opinion. Highly recommend coming here and I will definitely be
+        coming back.
+      languageCode: en
+    authorAttribution:
+      displayName: Annabelle Meade
+      uri: https://www.google.com/maps/contrib/100331009465449520820/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIiBBF-1y4yGaPabfbFFhEzKOGKQsHGsVPTZhBmR8YMdhc4lw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-15T22:07:01.171867Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3b1BxRXFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3b1BxRXFnRRAB!2m1!1s0x533494296407800d:0xe43c3110ea1eeb12
+  - name: >-
+      places/ChIJDYAHZCmUNFMREuse6hAxPOQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRd096MmNREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        I lived in wright Wyoming from 2006 to 2019 this was, THE BEST in the
+        nation, I use to brag on this place, I went back November 2024, what a
+        disappointment, the cheapest frozen food you could’ve served, no reason
+        to go back, not only that no service,  food was cold, it’s sad they used
+        to care and try. Used to be 20- 22 dollars for two people not long ago
+        and was delicious and plenty of employees
+      languageCode: en
+    originalText:
+      text: >-
+        I lived in wright Wyoming from 2006 to 2019 this was, THE BEST in the
+        nation, I use to brag on this place, I went back November 2024, what a
+        disappointment, the cheapest frozen food you could’ve served, no reason
+        to go back, not only that no service,  food was cold, it’s sad they used
+        to care and try. Used to be 20- 22 dollars for two people not long ago
+        and was delicious and plenty of employees
+      languageCode: en
+    authorAttribution:
+      displayName: Bill McCoy
+      uri: https://www.google.com/maps/contrib/106365114175444293973/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJGaMC65DL5hZqeXMHbAP8P0OO0NFtZpKQQ4FBGPl8maw3MOg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-01T01:52:39.834381Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRd096MmNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRd096MmNREAE!2m1!1s0x533494296407800d:0xe43c3110ea1eeb12
+  - name: >-
+      places/ChIJDYAHZCmUNFMREuse6hAxPOQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvdUlERUdnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Carry out was delicious!!  Every item I tried was full of flavor, tender
+        and cooked perfectly.
+      languageCode: en
+    originalText:
+      text: >-
+        Carry out was delicious!!  Every item I tried was full of flavor, tender
+        and cooked perfectly.
+      languageCode: en
+    authorAttribution:
+      displayName: Peggy Roadifer
+      uri: https://www.google.com/maps/contrib/102856217988340616466/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL80mWI0oP6e2mANEVHp6dyZpmF7GQRWUrXpbVxzMU4efM-aw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-15T00:47:58.612589Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvdUlERUdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvdUlERUdnEAE!2m1!1s0x533494296407800d:0xe43c3110ea1eeb12
+  - name: >-
+      places/ChIJDYAHZCmUNFMREuse6hAxPOQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRd0kzWnNRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        Food was cold had no taste. Got bad stomach after eating there. Will not
+        go back
+      languageCode: en
+    originalText:
+      text: >-
+        Food was cold had no taste. Got bad stomach after eating there. Will not
+        go back
+      languageCode: en
+    authorAttribution:
+      displayName: Anita Evans
+      uri: https://www.google.com/maps/contrib/105805275921516753669/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXb2OySJRTAxbM6FDtwTC3Y_wVJClux3c4wADbaMGB_WX7UenEg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-01T02:27:06.227249Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRd0kzWnNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRd0kzWnNRRRAB!2m1!1s0x533494296407800d:0xe43c3110ea1eeb12
+  - name: >-
+      places/ChIJDYAHZCmUNFMREuse6hAxPOQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dDZET0pnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: My all time favorite buffet. Their dishes are amazing.
+      languageCode: en
+    originalText:
+      text: My all time favorite buffet. Their dishes are amazing.
+      languageCode: en
+    authorAttribution:
+      displayName: MOTARTED
+      uri: https://www.google.com/maps/contrib/117302730377323601244/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUvK43N-02HPm47dcHByilsClyi2LI0xlNaAqMKmpeDlNufiPI=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-28T22:31:01.093590Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3dDZET0pnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3dDZET0pnEAE!2m1!1s0x533494296407800d:0xe43c3110ea1eeb12
+review_summary: >-
+  What Customers Are Sharing About the Experience$$$Folks generally rave about
+  the tasty dishes and solid service at this buffet, with many highlighting the
+  flavorful entrees and overall value that make it a reliable pick for casual
+  meals. While some visitors mention occasional issues like food temperature not
+  being perfect, the majority appreciate the generous portions and variety that
+  keep them coming back for more. It's clear that the restaurant shines for
+  carry-out and family-friendly vibes, offering a mix of hits that satisfy
+  cravings without breaking the bank. Overall, the feedback leans positive, with
+  diners enjoying the authentic touches and quick service that add to the fun
+  atmosphere. If you're on the hunt for top-rated spots serving up fresh
+  options, this place often delivers a solid experience worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: false
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

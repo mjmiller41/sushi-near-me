@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wok and Roll Restaurant Karaoke"
+title: Wok and Roll Restaurant Karaoke
 permalink: /district-of-columbia/washington/wok-and-roll-restaurant-karaoke.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Wok and Roll Restaurant Karaoke"
-  type: Restaurant
+  type: restaurant
   links: https://www.wokandrolldc.com/
-description: "Casual spot featuring Chinese & Japanese fare, weekday happy hours & private karaoke rooms. Wok and Roll Restaurant Karaoke serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXyx03o23t4kR4yjB3SO7mC8
 photos:
   - name: >-
@@ -184,6 +182,35 @@ price_range: $10 &ndash; $20
 rating: '3.8'
 rating_count: 0
 website: https://www.wokandrolldc.com/
+description: >-
+  Discover Wok and Roll Restaurant Karaoke in Washington, DC$$$Nestled in the
+  heart of Washington, DC, Wok and Roll Restaurant Karaoke offers a vibrant
+  blend of Chinese and Japanese cuisine in a casual setting that's ideal for
+  groups seeking entertainment and flavorful meals. This spot stands out with
+  its private karaoke rooms, creating a lively atmosphere perfect for unwinding
+  after exploring the city's bustling streets, while featuring fresh dishes that
+  highlight authentic Asian flavors. Diners can enjoy a variety of options,
+  including satisfying rolls and fried rice that pair well with creative
+  cocktails, making it a go-to choice for those searching for Japanese places
+  near me. The restaurant's accessibility features, such as wheelchair-friendly
+  entrances, add to its appeal as an inclusive destination for everyone. With a
+  moderate price range, it's a welcoming spot for anyone looking to experience
+  top-rated sushi and more in a fun, relaxed environment.
+generative_summary: >-
+  Discover Wok and Roll Restaurant Karaoke in Washington, DC$$$Nestled in the
+  heart of Washington, DC, Wok and Roll Restaurant Karaoke offers a vibrant
+  blend of Chinese and Japanese cuisine in a casual setting that's ideal for
+  groups seeking entertainment and flavorful meals. This spot stands out with
+  its private karaoke rooms, creating a lively atmosphere perfect for unwinding
+  after exploring the city's bustling streets, while featuring fresh dishes that
+  highlight authentic Asian flavors. Diners can enjoy a variety of options,
+  including satisfying rolls and fried rice that pair well with creative
+  cocktails, making it a go-to choice for those searching for Japanese places
+  near me. The restaurant's accessibility features, such as wheelchair-friendly
+  entrances, add to its appeal as an inclusive destination for everyone. With a
+  moderate price range, it's a welcoming spot for anyone looking to experience
+  top-rated sushi and more in a fun, relaxed environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJXyx03o23t4kR4yjB3SO7mC8/reviews/ChZDSUhNMG9nS0VJQ0FnSURfLXZpVkJnEAE
@@ -357,6 +384,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnMXQ3UVl3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnMXQ3UVl3EAE!2m1!1s0x89b7b78dde742c5f:0x2f98bb23ddc128e3
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors to Wok and Roll often
+  rave about the energetic vibe and enjoyable karaoke sessions that make it a
+  hit for friend gatherings, with many highlighting the tasty food and drinks as
+  standout features. Feedback frequently praises the generous portions and
+  flavorful dishes like rolls and fried rice, though some note that service can
+  vary from attentive to occasionally slow, adding a bit of real-world charm to
+  the overall fun. People appreciate the spot's variety on the menu, including
+  vegetarian choices and cocktails, which keep things exciting without
+  overwhelming the casual feel. Despite a few mentions of higher prices or minor
+  wait times, the consensus leans positive, emphasizing how it delivers a
+  memorable night out that's worth trying for anyone exploring sushi restaurants
+  nearby. All in all, it's a solid pick for a lively meal and entertainment,
+  offering honest value that keeps folks coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -389,8 +431,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual spot featuring Chinese & Japanese fare, weekday happy hours & private
   karaoke rooms.
 

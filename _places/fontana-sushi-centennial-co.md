@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fontana Sushi"
+title: Fontana Sushi
 permalink: /colorado/centennial/fontana-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Centennial
 seo:
-  name: "Fontana Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fontana Sushi serves delicious sushi in Centennial, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwXDavlaJbIcRJfTCbfi4RNE
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fontana Sushi in Centennial, CO$$$Fontana Sushi in Centennial, CO, is
+  a welcoming spot for enjoying a variety of fresh sushi options in a laid-back
+  environment. This sushi restaurant features an array of creative rolls,
+  classic nigiri, and other Japanese-inspired dishes, complemented by selections
+  of sake, beer, and wine to enhance your meal. The informal space makes it
+  ideal for casual dining, whether you're stopping by for a quick bite or a
+  relaxed evening out. Families will appreciate the thoughtful kids' menu,
+  making it a convenient choice for all ages. If you're exploring sushi places
+  near you, this spot stands out for its approachable vibe and flavorful
+  offerings that cater to both sushi enthusiasts and newcomers.
+generative_summary: >-
+  Discover Fontana Sushi in Centennial, CO$$$Fontana Sushi in Centennial, CO, is
+  a welcoming spot for enjoying a variety of fresh sushi options in a laid-back
+  environment. This sushi restaurant features an array of creative rolls,
+  classic nigiri, and other Japanese-inspired dishes, complemented by selections
+  of sake, beer, and wine to enhance your meal. The informal space makes it
+  ideal for casual dining, whether you're stopping by for a quick bite or a
+  relaxed evening out. Families will appreciate the thoughtful kids' menu,
+  making it a convenient choice for all ages. If you're exploring sushi places
+  near you, this spot stands out for its approachable vibe and flavorful
+  offerings that cater to both sushi enthusiasts and newcomers.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on Fontana Sushi$$$Although specific reviews for Fontana Sushi are
+  limited at the moment, the general buzz around similar spots suggests that
+  fresh sushi and a family-friendly atmosphere often win over diners looking for
+  reliable options. Folks tend to enjoy the variety of dishes and drinks, noting
+  how it feels like a solid pick for everyday meals without the fuss. Some
+  casual comments highlight the welcoming setup as a plus for groups or
+  families, even if it's not always buzzing with hype. Overall, it comes across
+  as a dependable choice for those seeking tasty Japanese flavors in Centennial,
+  with potential for satisfying experiences that keep things light and
+  enjoyable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

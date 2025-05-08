@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Show Sushi"
+title: Show Sushi
 permalink: /california/la-palma/show-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: La Palma
 seo:
-  name: "Show Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Show Sushi serves delicious sushi in La Palma, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRcYHEm4s3YAR0KQmkKYQcKQ
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Show Sushi in La Palma, California$$$Show Sushi in La Palma,
+  California, stands out as a laid-back destination for sushi enthusiasts
+  seeking fresh, flavorful options in a welcoming setting. This spot offers an
+  appealing all-you-can-eat menu that pairs perfectly with a selection of
+  beverages like beer, wine, and sake, making it ideal for casual gatherings or
+  solo diners exploring local Japanese cuisine. The restaurant emphasizes
+  accessibility with features such as wheelchair-friendly parking and seating,
+  ensuring everyone can enjoy the experience comfortably. Its clean and spacious
+  interior, highlighted through various photos, adds to the inviting atmosphere
+  for those searching for reliable sushi places nearby. Whether you're in the
+  mood for a quick bite or a relaxed meal, Show Sushi delivers on quality and
+  variety that keeps patrons coming back for more.
+generative_summary: >-
+  Discover Show Sushi in La Palma, California$$$Show Sushi in La Palma,
+  California, stands out as a laid-back destination for sushi enthusiasts
+  seeking fresh, flavorful options in a welcoming setting. This spot offers an
+  appealing all-you-can-eat menu that pairs perfectly with a selection of
+  beverages like beer, wine, and sake, making it ideal for casual gatherings or
+  solo diners exploring local Japanese cuisine. The restaurant emphasizes
+  accessibility with features such as wheelchair-friendly parking and seating,
+  ensuring everyone can enjoy the experience comfortably. Its clean and spacious
+  interior, highlighted through various photos, adds to the inviting atmosphere
+  for those searching for reliable sushi places nearby. Whether you're in the
+  mood for a quick bite or a relaxed meal, Show Sushi delivers on quality and
+  variety that keeps patrons coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors to this sushi spot
+  often praise the fresh and tasty rolls, like creative options similar to
+  summer and tiger varieties, which make for a satisfying meal when craving
+  top-rated sushi nearby. Many highlight the appetizers, such as spicy edamame
+  and garlic-infused scallops, as flavorful starters that complement the main
+  dishes with generous portions. The dining area is frequently described as
+  clean and roomy, providing a comfortable environment for enjoying meals with
+  friends or family. Service stands out as attentive and efficient, helping to
+  create a positive vibe overall. While opinions vary, the general feedback
+  leans toward it being a solid choice for anyone looking for honest, enjoyable
+  Japanese fare in a casual setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

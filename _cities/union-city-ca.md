@@ -5,4 +5,5 @@ permalink: /california/union-city/
 stateAbbr: CA
 stateName: California
 cityName: Union City
+
 ---

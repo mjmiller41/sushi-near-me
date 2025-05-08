@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Mumi"
+title: Sushi Mumi
 permalink: /new-york/new-york/sushi-mumi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Mumi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushimumi.com/
-description: "Sushi Mumi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJsZMNGhNZwokR9oaUL32yktw
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 0
 website: http://www.sushimumi.com/
+description: >-
+  Discover Sushi Mumi in New York, NY$$$Sushi Mumi in New York, NY, is a
+  standout Japanese eatery renowned for its upscale omakase offerings that blend
+  traditional and creative twists on Edomae-style sushi, making it a go-to
+  choice for those seeking top-rated sushi experiences in the city. The
+  restaurant delivers a refined dining atmosphere with meticulously prepared
+  dishes that highlight fresh, high-quality ingredients, appealing to sushi
+  enthusiasts looking for authentic flavors close to home. Its intimate setting
+  enhances the overall enjoyment, providing a perfect spot for savoring
+  innovative presentations alongside classic techniques. Whether you're
+  exploring sushi places near me or hunting for the best sushi restaurants, this
+  location impresses with its attention to detail and flavorful selections that
+  elevate every meal.
+generative_summary: >-
+  Discover Sushi Mumi in New York, NY$$$Sushi Mumi in New York, NY, is a
+  standout Japanese eatery renowned for its upscale omakase offerings that blend
+  traditional and creative twists on Edomae-style sushi, making it a go-to
+  choice for those seeking top-rated sushi experiences in the city. The
+  restaurant delivers a refined dining atmosphere with meticulously prepared
+  dishes that highlight fresh, high-quality ingredients, appealing to sushi
+  enthusiasts looking for authentic flavors close to home. Its intimate setting
+  enhances the overall enjoyment, providing a perfect spot for savoring
+  innovative presentations alongside classic techniques. Whether you're
+  exploring sushi places near me or hunting for the best sushi restaurants, this
+  location impresses with its attention to detail and flavorful selections that
+  elevate every meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsZMNGhNZwokR9oaUL32yktw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfek1tTW9RRRAB
@@ -454,6 +479,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURiaUp2cUJREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURiaUp2cUJREAE!2m1!1s0x89c259131a0d93b1:0xdc92b27d2f9486f6
+review_summary: >-
+  What Visitors Love About This Sushi Spot$$$Folks who dine at this East Village
+  gem often rave about the exceptional quality and freshness of the sushi, with
+  many highlighting how the ingredients shine through in every bite, offering
+  great value for the price. Reviewers frequently appreciate the skillful
+  preparation and variety in the omakase menu, noting that it stands out as one
+  of the top choices for authentic Japanese cuisine without unnecessary extras.
+  While the atmosphere is relaxed and professional, people enjoy the overall
+  experience as a refreshing break from everyday options, making it a solid pick
+  for sushi lovers in NYC. Overall, it's clear that this spot earns its high
+  marks for delivering a memorable meal that's worth seeking out, especially if
+  you're on the hunt for reliable sushi restaurants near me that keep things
+  genuine and satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -483,7 +522,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

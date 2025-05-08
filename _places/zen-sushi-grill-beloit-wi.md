@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zen Sushi & Grill"
+title: Zen Sushi & Grill
 permalink: /wisconsin/beloit/zen-sushi-grill.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Beloit
 seo:
-  name: "Zen Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.zensushibeloit.com/
-description: "Creative rolls & Japanese grilled fare are highlighted at this chill spot with cocktails & a patio. Zen Sushi & Grill serves delicious sushi in Beloit, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ4RlAGyOhCIgRELHNXaaH6Io
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: https://www.zensushibeloit.com/
+description: >-
+  Discover Zen Sushi & Grill in Beloit, WI$$$Zen Sushi & Grill in Beloit, WI,
+  offers a relaxed dining experience with a focus on fresh seafood rolls,
+  creative bento boxes, and flavorful Japanese grilled dishes that highlight the
+  best of Asian cuisine. The spot features a welcoming atmosphere enhanced by
+  outdoor seating options, making it ideal for enjoying cocktails, beer, and
+  wine in a casual setting. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and restrooms ensuring everyone can
+  enjoy the meal comfortably. Patrons appreciate the generous portions and
+  variety of vegetarian options, adding to its appeal as a go-to destination for
+  sushi enthusiasts. Whether you're seeking a laid-back meal or a spot to unwind
+  with friends, this sushi restaurant delivers a blend of quality flavors and
+  thoughtful amenities.
+generative_summary: >-
+  Discover Zen Sushi & Grill in Beloit, WI$$$Zen Sushi & Grill in Beloit, WI,
+  offers a relaxed dining experience with a focus on fresh seafood rolls,
+  creative bento boxes, and flavorful Japanese grilled dishes that highlight the
+  best of Asian cuisine. The spot features a welcoming atmosphere enhanced by
+  outdoor seating options, making it ideal for enjoying cocktails, beer, and
+  wine in a casual setting. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and restrooms ensuring everyone can
+  enjoy the meal comfortably. Patrons appreciate the generous portions and
+  variety of vegetarian options, adding to its appeal as a go-to destination for
+  sushi enthusiasts. Whether you're seeking a laid-back meal or a spot to unwind
+  with friends, this sushi restaurant delivers a blend of quality flavors and
+  thoughtful amenities.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ4RlAGyOhCIgRELHNXaaH6Io/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcVBmQ1pnEAE
@@ -370,6 +395,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBbE5MSEhnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBbE5MSEhnEAE!2m1!1s0x8808a1231b4019e1:0x8ae887a65dcdb110
+review_summary: >-
+  What Visitors Are Sharing About the Experience$$$Folks checking out this sushi
+  spot often praise the fresh and flavorful rolls, like the Hawaiian and Surf
+  and Turf varieties, which stand out for their creative presentations and
+  satisfying portions. While some mention occasional inconsistencies in service
+  speed or atmosphere, the overall vibe remains upbeat with friendly staff and a
+  lively energy that keeps things enjoyable. Many appreciate the solid food
+  options, including tasty appetizers and grilled fare, making it a reliable
+  choice for a casual night out or group gathering. Despite a few notes on
+  pricing feeling a bit steep in this area, the general consensus leans
+  positive, with diners recommending it for its authentic tastes and welcoming
+  feel. If you're on the hunt for quality sushi nearby, this place generally
+  delivers a worthwhile experience with room for the occasional enhancement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -401,8 +440,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Creative rolls & Japanese grilled fare are highlighted at this chill spot with
   cocktails & a patio.
 

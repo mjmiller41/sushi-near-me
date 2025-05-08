@@ -5,4 +5,5 @@ permalink: /michigan/rockford/
 stateAbbr: MI
 stateName: Michigan
 cityName: Rockford
+
 ---

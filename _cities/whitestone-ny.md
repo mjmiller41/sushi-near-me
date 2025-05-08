@@ -5,4 +5,5 @@ permalink: /new-york/whitestone/
 stateAbbr: NY
 stateName: New York
 cityName: Whitestone
+
 ---

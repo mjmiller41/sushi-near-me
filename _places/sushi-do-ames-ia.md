@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Do"
+title: Sushi Do
 permalink: /iowa/ames/sushi-do.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Ames
 seo:
-  name: "Sushi Do"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Do serves delicious sushi in Ames, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJy_RqcwBx7ocRD5i1M36_pdA
 photos:
   - name: >-
@@ -67,6 +65,27 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Do in Ames, IA$$$Sushi Do in Ames, IA, stands out as a
+  welcoming Asian restaurant offering a variety of fresh sushi options that
+  appeal to those seeking authentic flavors in a casual setting. The spot
+  emphasizes accessibility with wheelchair-friendly parking, entrances, and
+  seating, making it easy for everyone to enjoy a meal. Diners can savor
+  well-prepared dishes perfect for lunch or dinner, along with convenient
+  takeout services for busy days. This sushi place near Ames provides a solid
+  selection that caters to different tastes, ideal for anyone exploring
+  top-rated Japanese-inspired eats close to home.
+generative_summary: >-
+  Discover Sushi Do in Ames, IA$$$Sushi Do in Ames, IA, stands out as a
+  welcoming Asian restaurant offering a variety of fresh sushi options that
+  appeal to those seeking authentic flavors in a casual setting. The spot
+  emphasizes accessibility with wheelchair-friendly parking, entrances, and
+  seating, making it easy for everyone to enjoy a meal. Diners can savor
+  well-prepared dishes perfect for lunch or dinner, along with convenient
+  takeout services for busy days. This sushi place near Ames provides a solid
+  selection that caters to different tastes, ideal for anyone exploring
+  top-rated Japanese-inspired eats close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJy_RqcwBx7ocRD5i1M36_pdA/reviews/ChdDSUhNMG9nS0VJQ0FnSURYb0tlZHZRRRAB
@@ -144,6 +163,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYb1BQSklnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYb1BQSklnEAE!2m1!1s0x87ee7100736af4cb:0xd0a5bf7e33b5980f
+review_summary: >-
+  Feedback from Diners$$$Folks checking out this sushi spot often highlight the
+  tasty food and friendly vibes that make for a pleasant experience overall.
+  Many appreciate the wide range of options and great value, with several
+  mentioning it's a go-to choice for satisfying meals without breaking the bank.
+  While some note that certain drinks might feel a bit pricey compared to local
+  alternatives, the focus remains on the appealing sushi that draws people back.
+  In general, visitors recommend giving it a try for a relaxed atmosphere and
+  solid service, keeping things upbeat for anyone hunting for reliable sushi
+  restaurants nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -173,7 +203,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

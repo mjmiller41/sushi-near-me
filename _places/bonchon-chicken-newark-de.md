@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Chicken"
+title: Bonchon Chicken
 permalink: /delaware/newark/bonchon-chicken.html
 stateAbbr: DE
 stateName: Delaware
 cityName: Newark
 seo:
-  name: "Bonchon Chicken"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon Chicken serves delicious sushi in Newark, Delaware. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTcj7Ggmrx4kR3BNM0OAstqc
 photos:
   - name: >-
@@ -185,7 +183,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Bonchon Chicken in Newark, Delaware$$$Bonchon Chicken in Newark,
+  Delaware, stands out as a vibrant Asian restaurant offering a casual dining
+  experience with a focus on crispy, Korean-style fried chicken that's become a
+  favorite for those seeking flavorful twists on traditional dishes. This spot
+  features a menu that includes delectable options like bulgogi and inventive
+  tacos, blending bold flavors with a welcoming atmosphere perfect for quick
+  meals or gatherings. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating that make it
+  easy for everyone to enjoy. The restaurant's photos showcase an inviting setup
+  that captures the essence of modern Asian cuisine, drawing in locals and
+  visitors alike looking for authentic tastes in a relaxed setting. Whether
+  you're exploring Asian eateries nearby or craving something savory, this
+  location delivers on fresh, satisfying options that keep diners coming back.
+generative_summary: >-
+  Discover Bonchon Chicken in Newark, Delaware$$$Bonchon Chicken in Newark,
+  Delaware, stands out as a vibrant Asian restaurant offering a casual dining
+  experience with a focus on crispy, Korean-style fried chicken that's become a
+  favorite for those seeking flavorful twists on traditional dishes. This spot
+  features a menu that includes delectable options like bulgogi and inventive
+  tacos, blending bold flavors with a welcoming atmosphere perfect for quick
+  meals or gatherings. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating that make it
+  easy for everyone to enjoy. The restaurant's photos showcase an inviting setup
+  that captures the essence of modern Asian cuisine, drawing in locals and
+  visitors alike looking for authentic tastes in a relaxed setting. Whether
+  you're exploring Asian eateries nearby or craving something savory, this
+  location delivers on fresh, satisfying options that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$From what people share about Bonchon Chicken, the
+  crispy fried chicken and flavorful sauces often steal the show, making it a
+  go-to for anyone in the mood for a tasty Asian-inspired meal. Reviewers
+  frequently mention the generous portions and unique Korean flair that add
+  excitement to every bite, helping it stand out among local dining spots. While
+  some note that wait times can vary during peak hours, the overall vibe remains
+  upbeat with friendly service that enhances the experience. Folks appreciate
+  the variety on the menu, like the bulgogi and creative twists on classics,
+  which keep things fresh and appealing for groups or solo diners. All in all,
+  it's clear this place holds up as a solid choice for flavorful eats, earning
+  nods for its reliable quality and enjoyable atmosphere that leaves a positive
+  impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +252,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

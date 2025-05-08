@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Amici Sushi"
+title: Amici Sushi
 permalink: /california/lathrop/amici-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Lathrop
 seo:
-  name: "Amici Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Amici Sushi serves delicious sushi in Lathrop, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5SAMmWYVkIARY6GgecA_u-g
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80901566990c20e5:0xe8bb3fc079a0a163!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 8:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 8:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 8:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 8:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,319 @@ phone: (209) 858-4400
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 524
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Amici Sushi in Lathrop, California$$$Nestled in Lathrop, California,
+  Amici Sushi stands out as a welcoming spot for enjoying fresh Japanese cuisine
+  in a casual setting. This modern eatery offers a variety of sushi rolls,
+  sashimi, and traditional Japanese dishes, complemented by options like beer
+  and sake for a complete dining experience. Visitors appreciate the thoughtful
+  details, such as accessible features that make it easy for everyone to enjoy a
+  meal, along with a clean and inviting atmosphere perfect for casual outings or
+  family gatherings. The menu highlights creative fusion elements that blend
+  classic flavors with innovative twists, making it a go-to choice for those
+  seeking quality Japanese fare nearby. With its convenient location in a
+  bustling area, it's an ideal stop for anyone exploring top sushi options in
+  the region.
+generative_summary: >-
+  Discover Amici Sushi in Lathrop, California$$$Nestled in Lathrop, California,
+  Amici Sushi stands out as a welcoming spot for enjoying fresh Japanese cuisine
+  in a casual setting. This modern eatery offers a variety of sushi rolls,
+  sashimi, and traditional Japanese dishes, complemented by options like beer
+  and sake for a complete dining experience. Visitors appreciate the thoughtful
+  details, such as accessible features that make it easy for everyone to enjoy a
+  meal, along with a clean and inviting atmosphere perfect for casual outings or
+  family gatherings. The menu highlights creative fusion elements that blend
+  classic flavors with innovative twists, making it a go-to choice for those
+  seeking quality Japanese fare nearby. With its convenient location in a
+  bustling area, it's an ideal stop for anyone exploring top sushi options in
+  the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ5SAMmWYVkIARY6GgecA_u-g/reviews/ChdDSUhNMG9nS0VJQ0FnTURJd191TWhRRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Was pleasantly surprised by this Japanese restaurant!
+
+        We stopped by during a long road trip and didn’t expect such
+        high-quality food and attentive service.
+
+
+        Most Japanese restaurants in Northern California—especially around the
+        Bay Area—tend to follow a predictable formula: bland miso soup, dry
+        overcooked salmon teriyaki, and neon green fake wasabi served with
+        sashimi. But this place exceeded expectations across the board. They
+        clearly pay close attention to details that most others overlook, which
+        really deserves appreciation.
+
+
+        The miso soup was probably the most flavorful I’ve ever had—even
+        compared to places I visited in Japan. That’s impressive, considering
+        miso soup is usually an afterthought, served almost like a freebie. The
+        care they put into it really stood out.
+
+
+        I always order salmon teriyaki (I know it’s not the most authentic
+        choice, but it’s my comfort food), and after trying it at dozens of
+        Japanese restaurants in Northern California, this was the first time the
+        salmon wasn’t dry. It was juicy, tender, and thoughtfully prepared.
+
+
+        The sashimi was another highlight—served on ice, with great flavor and
+        real wasabi, which elevated the entire experience.
+
+
+        If I lived in the area, I’d be here all the time. Honestly, most
+        Japanese restaurants in SF or San Jose don’t match the quality of this
+        one.
+      languageCode: en
+    originalText:
+      text: >-
+        Was pleasantly surprised by this Japanese restaurant!
+
+        We stopped by during a long road trip and didn’t expect such
+        high-quality food and attentive service.
+
+
+        Most Japanese restaurants in Northern California—especially around the
+        Bay Area—tend to follow a predictable formula: bland miso soup, dry
+        overcooked salmon teriyaki, and neon green fake wasabi served with
+        sashimi. But this place exceeded expectations across the board. They
+        clearly pay close attention to details that most others overlook, which
+        really deserves appreciation.
+
+
+        The miso soup was probably the most flavorful I’ve ever had—even
+        compared to places I visited in Japan. That’s impressive, considering
+        miso soup is usually an afterthought, served almost like a freebie. The
+        care they put into it really stood out.
+
+
+        I always order salmon teriyaki (I know it’s not the most authentic
+        choice, but it’s my comfort food), and after trying it at dozens of
+        Japanese restaurants in Northern California, this was the first time the
+        salmon wasn’t dry. It was juicy, tender, and thoughtfully prepared.
+
+
+        The sashimi was another highlight—served on ice, with great flavor and
+        real wasabi, which elevated the entire experience.
+
+
+        If I lived in the area, I’d be here all the time. Honestly, most
+        Japanese restaurants in SF or San Jose don’t match the quality of this
+        one.
+      languageCode: en
+    authorAttribution:
+      displayName: Rehaan Jahanghir
+      uri: https://www.google.com/maps/contrib/103130571841395088117/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIjGsg7DlYRICarTsgiFBpi0vSLG5jKr8xGuAD1pDI42lxROA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-12T15:59:02.654170Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJd191TWhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJd191TWhRRRAB!2m1!1s0x80901566990c20e5:0xe8bb3fc079a0a163
+  - name: >-
+      places/ChIJ5SAMmWYVkIARY6GgecA_u-g/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNU5fWTlnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I’ve had sushi hundreds if not thousands of times and let me tell you
+        this is the top 3 best I have ever had. I hold it up against any sushi
+        spot in the country. The freshness of the fish and uniqueness of the
+        dishes. It is one of a kind and if you are in the area a must try. Trust
+        Sean (the owner) and the rest will take care of itself.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve had sushi hundreds if not thousands of times and let me tell you
+        this is the top 3 best I have ever had. I hold it up against any sushi
+        spot in the country. The freshness of the fish and uniqueness of the
+        dishes. It is one of a kind and if you are in the area a must try. Trust
+        Sean (the owner) and the rest will take care of itself.
+      languageCode: en
+    authorAttribution:
+      displayName: B Mal
+      uri: https://www.google.com/maps/contrib/101164876437150931006/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ-DEBX8AB7XC90_PuH1bHsvkTjI9ugbQKGD1BN4QfJlWtJvw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-09T03:39:02.391561Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNU5fWTlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNU5fWTlnRRAB!2m1!1s0x80901566990c20e5:0xe8bb3fc079a0a163
+  - name: >-
+      places/ChIJ5SAMmWYVkIARY6GgecA_u-g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCeXR5SUdnEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Really quaint, but great quality Japanese cuisine restaurant nestled in
+        the Lathrop area. Fantastic food and great service! Would highly
+        recommend. Lovely modern atmosphere and seating arrangement. Large open
+        tables for couples and a bar for dining solo or with colleagues. Has
+        just the right touch of modern cues while being very professional.
+        Dishes are portioned modestly, just the right amount. Plating is
+        excellent with dishware that accentuates and provokes emphasis on the
+        food itself. The authentic wasabi option on some dishes is quite a
+        creative culinary experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Really quaint, but great quality Japanese cuisine restaurant nestled in
+        the Lathrop area. Fantastic food and great service! Would highly
+        recommend. Lovely modern atmosphere and seating arrangement. Large open
+        tables for couples and a bar for dining solo or with colleagues. Has
+        just the right touch of modern cues while being very professional.
+        Dishes are portioned modestly, just the right amount. Plating is
+        excellent with dishware that accentuates and provokes emphasis on the
+        food itself. The authentic wasabi option on some dishes is quite a
+        creative culinary experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Spalding Indigo
+      uri: https://www.google.com/maps/contrib/101413918357368762648/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW0N6-7mLM5n0GTHrv2ne7EpNNGrVHmM76O_xbVago1a-pOPmo=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-12-22T04:07:34.349680Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNCeXR5SUdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCeXR5SUdnEAE!2m1!1s0x80901566990c20e5:0xe8bb3fc079a0a163
+  - name: >-
+      places/ChIJ5SAMmWYVkIARY6GgecA_u-g/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2LWI3NkdREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        We had deluxe sashimi plate and teriyaki chicken plate. The dishes were
+        super delicious, and the sashimis were fresh. The restaurant was clean
+        and decent. Highly recommended for family gatherings and fine dining
+        experiences.
+      languageCode: en
+    originalText:
+      text: >-
+        We had deluxe sashimi plate and teriyaki chicken plate. The dishes were
+        super delicious, and the sashimis were fresh. The restaurant was clean
+        and decent. Highly recommended for family gatherings and fine dining
+        experiences.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Du
+      uri: https://www.google.com/maps/contrib/103040394283822621383/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLofbggX6jMm6Rte5Fv663bJPNcxR_5MYyfqz8zVgs35GxLuw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-22T03:56:09.066937Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2LWI3NkdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2LWI3NkdREAE!2m1!1s0x80901566990c20e5:0xe8bb3fc079a0a163
+  - name: >-
+      places/ChIJ5SAMmWYVkIARY6GgecA_u-g/reviews/ChdDSUhNMG9nS0VJQ0FnSUREdDVlczF3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        If you pass through Lathrop, California on Interstate 5, I recommend
+        stopping at this restaurant for sushi and sashimi and other Japanese
+        dishes. The Hamachi (yellowtail) and otoro (tuna belly) were excellent.
+        The sashimi was accompanied by fresh wasabi - loved it. Enjoyed the soft
+        shelled crab, flying fish roe, and uni (sea urchin), too. Fresh uni from
+        Santa Barbara. The shrimp and vegetable tempura were lightly breaded,
+        hot, and crisp. We had two orders of shrimp tempura. The waiter John was
+        fun to talk to. Lots of energy and lots of good recommendations.
+        Excellent selection of beer and Sake. John recommended the Funaguchi
+        Kikusui Sake which is un-pasteurized and undiluted. It was a perfect
+        pairing with the sashimi. There were a few issues. The ginger slices
+        were cut too big like the size of two of your fingers. Tables are close
+        together. The restaurant is on the corner of a strip mall, so seating is
+        a little tight. We wanted to chat with the owner, but he was
+        preoccupied. The restaurant closed 20 minutes early, and they started
+        putting chairs on top of the tables while we were still eating.
+      languageCode: en
+    originalText:
+      text: >-
+        If you pass through Lathrop, California on Interstate 5, I recommend
+        stopping at this restaurant for sushi and sashimi and other Japanese
+        dishes. The Hamachi (yellowtail) and otoro (tuna belly) were excellent.
+        The sashimi was accompanied by fresh wasabi - loved it. Enjoyed the soft
+        shelled crab, flying fish roe, and uni (sea urchin), too. Fresh uni from
+        Santa Barbara. The shrimp and vegetable tempura were lightly breaded,
+        hot, and crisp. We had two orders of shrimp tempura. The waiter John was
+        fun to talk to. Lots of energy and lots of good recommendations.
+        Excellent selection of beer and Sake. John recommended the Funaguchi
+        Kikusui Sake which is un-pasteurized and undiluted. It was a perfect
+        pairing with the sashimi. There were a few issues. The ginger slices
+        were cut too big like the size of two of your fingers. Tables are close
+        together. The restaurant is on the corner of a strip mall, so seating is
+        a little tight. We wanted to chat with the owner, but he was
+        preoccupied. The restaurant closed 20 minutes early, and they started
+        putting chairs on top of the tables while we were still eating.
+      languageCode: en
+    authorAttribution:
+      displayName: Matthew Astel
+      uri: https://www.google.com/maps/contrib/103150329621406521207/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU_m1hDbmSqTP-DnnFBvpdvXYU29Kssn_Br0Hnaq_l6C0bvDc_R=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-04-15T15:03:52.707498Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREdDVlczF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREdDVlczF3RRAB!2m1!1s0x80901566990c20e5:0xe8bb3fc079a0a163
+review_summary: >-
+  What People Love About This Local Sushi Spot$$$Folks rave about the incredibly
+  fresh ingredients and flavorful dishes that make every bite feel special,
+  turning meals into memorable experiences at this cozy spot. Many highlight the
+  attentive service and well-prepared classics like sashimi and teriyaki, which
+  stand out for their authentic taste and thoughtful presentation. While a few
+  mention minor hiccups with seating arrangements, the overall vibe remains
+  positive, with diners appreciating the welcoming environment for groups or
+  solo visits. It's clear that the focus on quality and variety keeps customers
+  coming back, offering a reliable option for anyone craving Japanese-inspired
+  meals without the fuss. All in all, this place delivers a solid experience
+  that balances tradition with a friendly, approachable feel, making it worth
+  checking out for your next sushi adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Traditional sushi, Japanese entrees & eclectic fusion plates are served at
+  this sleek, modern spot.
 
 ---

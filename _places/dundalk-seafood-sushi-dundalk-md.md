@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dundalk Seafood & Sushi"
+title: Dundalk Seafood & Sushi
 permalink: /maryland/dundalk/dundalk-seafood-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Dundalk
 seo:
-  name: "Dundalk Seafood & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.dundalksushi.com/
-description: "Dundalk Seafood & Sushi serves delicious sushi in Dundalk, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNXeWqSwByIkRDNugz1MXbmg
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.dundalksushi.com/
+description: >-
+  Discover Dundalk Seafood & Sushi in Dundalk, MD$$$Dundalk Seafood & Sushi in
+  Dundalk, MD, stands out as a welcoming spot for fresh Japanese cuisine,
+  blending flavorful sushi and hibachi options that draw in those seeking
+  top-rated dining experiences nearby. The restaurant boasts accessible features
+  like wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a relaxed meal in a cozy atmosphere. With moderate pricing and generous
+  portions, it's an ideal choice for anyone exploring sushi places near me,
+  offering a mix of classic rolls and hearty entrees that highlight quality
+  ingredients. Additionally, options for vegetarian dishes and family-friendly
+  vibes add to its appeal, ensuring a satisfying visit whether you're grabbing
+  takeout or dining in.
+generative_summary: >-
+  Discover Dundalk Seafood & Sushi in Dundalk, MD$$$Dundalk Seafood & Sushi in
+  Dundalk, MD, stands out as a welcoming spot for fresh Japanese cuisine,
+  blending flavorful sushi and hibachi options that draw in those seeking
+  top-rated dining experiences nearby. The restaurant boasts accessible features
+  like wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a relaxed meal in a cozy atmosphere. With moderate pricing and generous
+  portions, it's an ideal choice for anyone exploring sushi places near me,
+  offering a mix of classic rolls and hearty entrees that highlight quality
+  ingredients. Additionally, options for vegetarian dishes and family-friendly
+  vibes add to its appeal, ensuring a satisfying visit whether you're grabbing
+  takeout or dining in.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJNXeWqSwByIkRDNugz1MXbmg/reviews/ChZDSUhNMG9nS0VJQ0FnSURod1pMeU9REAE
@@ -350,6 +373,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6c1B1Znd3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6c1B1Znd3RRAB!2m1!1s0x89c8012ca9967735:0x686e1753cfa0db0c
+review_summary: >-
+  What Customers Are Saying$$$Visitors frequently praise the fantastic food and
+  great value at this spot, noting how the generous portions leave them with
+  tasty leftovers for later. Many highlight the welcoming environment and
+  variety of choices, from sushi rolls to hibachi dishes, making it a go-to for
+  those who appreciate flavorful Japanese options without breaking the bank.
+  Folks often mention the outstanding service and how it enhances the overall
+  experience, encouraging repeat visits for casual meals. Overall, the consensus
+  leans positive, with diners excited about the fresh tastes and affordability
+  that keep them coming back for more sushi close to me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -381,7 +415,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

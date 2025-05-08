@@ -5,4 +5,5 @@ permalink: /delaware/wilmington/
 stateAbbr: DE
 stateName: Delaware
 cityName: Wilmington
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "HoneyBee Asian Bistro & Sushi"
+title: HoneyBee Asian Bistro & Sushi
 permalink: /colorado/aurora/honeybee-asian-bistro-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Aurora
 seo:
-  name: "HoneyBee Asian Bistro & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.honeybeeasianbistro.com/
-description: "HoneyBee Asian Bistro & Sushi serves delicious sushi in Aurora, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKfO1pZmJbIcRqWu2X-yioXc
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,231 @@ phone: (303) 400-6117
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 787
 website: https://www.honeybeeasianbistro.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover HoneyBee Asian Bistro & Sushi in Aurora, Colorado$$$Nestled in
+  Aurora, Colorado, HoneyBee Asian Bistro & Sushi offers a delightful blend of
+  fresh Asian flavors and casual dining that appeals to sushi enthusiasts and
+  families alike. This spot features a variety of dishes like dumplings and
+  inventive rolls, creating an inviting atmosphere for those seeking sushi
+  restaurants nearby. With accessibility options such as wheelchair-friendly
+  entrances and seating, it's designed for everyone to enjoy a relaxed meal. The
+  menu includes kid-friendly choices, making it a go-to option for everyday
+  dining or special occasions, all while providing a welcoming space to savor
+  authentic Asian cuisine.
+generative_summary: >-
+  Discover HoneyBee Asian Bistro & Sushi in Aurora, Colorado$$$Nestled in
+  Aurora, Colorado, HoneyBee Asian Bistro & Sushi offers a delightful blend of
+  fresh Asian flavors and casual dining that appeals to sushi enthusiasts and
+  families alike. This spot features a variety of dishes like dumplings and
+  inventive rolls, creating an inviting atmosphere for those seeking sushi
+  restaurants nearby. With accessibility options such as wheelchair-friendly
+  entrances and seating, it's designed for everyone to enjoy a relaxed meal. The
+  menu includes kid-friendly choices, making it a go-to option for everyday
+  dining or special occasions, all while providing a welcoming space to savor
+  authentic Asian cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/reviews/ChdDSUhNMG9nS0VJQ0FnTURBNWJyNGt3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The staff and chef were part of the awesome experience. My new favorite
+        sushi spot. The Flaming Tiger Roll was absolutely perfection! The
+        Lobster Roll and Cowboy Roll were also great secondaries to the Flaming
+        perfection! The fresh Orange Chicken was light and crispy! You need to
+        eat it fresh! Do no do takeout as it will not do this place justice!
+      languageCode: en
+    originalText:
+      text: >-
+        The staff and chef were part of the awesome experience. My new favorite
+        sushi spot. The Flaming Tiger Roll was absolutely perfection! The
+        Lobster Roll and Cowboy Roll were also great secondaries to the Flaming
+        perfection! The fresh Orange Chicken was light and crispy! You need to
+        eat it fresh! Do no do takeout as it will not do this place justice!
+      languageCode: en
+    authorAttribution:
+      displayName: Don Seven
+      uri: https://www.google.com/maps/contrib/112056940334452805016/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWanHLUuA9TnVsaTOhU4s67MuGZ9MUn21t5IKhynmPs_5jdNBsnmw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-10T15:50:42.380370Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBNWJyNGt3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBNWJyNGt3RRAB!2m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
+  - name: >-
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3cXQtdDZRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Such amazing sushi! And a wonderful variety of rolls, flavors.  Came
+        here for restaurant week and will come back because it was that amazing.
+        Service was awesome. They even use robots for a host and food runner.
+        Super fun!
+      languageCode: en
+    originalText:
+      text: >-
+        Such amazing sushi! And a wonderful variety of rolls, flavors.  Came
+        here for restaurant week and will come back because it was that amazing.
+        Service was awesome. They even use robots for a host and food runner.
+        Super fun!
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Lee
+      uri: https://www.google.com/maps/contrib/116920352183467173468/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWXdGdSL3bgLkUzt9jfMedq6Syo0V5brgaH0TwoR3JJuxV2Lv0FRA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-18T04:22:51.855272Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3cXQtdDZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3cXQtdDZRRRAB!2m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
+  - name: >-
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/reviews/ChdDSUhNMG9nS0VJQ0FnTURJN0l2bWhRRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Honey Bee Bistro is a hidden gem, and the experience is made even better
+        thanks to Madison. From the moment we walked in, her kindness and
+        cheerful energy set the tone for an amazing visit. She’s not just a
+        server—she’s a phenomenal host who truly makes you feel welcome and
+        taken care of. Every interaction was warm, helpful, and genuine. The
+        service was top-tier, and Madison made sure everything was perfect from
+        start to finish. Can’t wait to come back!
+      languageCode: en
+    originalText:
+      text: >-
+        Honey Bee Bistro is a hidden gem, and the experience is made even better
+        thanks to Madison. From the moment we walked in, her kindness and
+        cheerful energy set the tone for an amazing visit. She’s not just a
+        server—she’s a phenomenal host who truly makes you feel welcome and
+        taken care of. Every interaction was warm, helpful, and genuine. The
+        service was top-tier, and Madison made sure everything was perfect from
+        start to finish. Can’t wait to come back!
+      languageCode: en
+    authorAttribution:
+      displayName: Santiago Flores
+      uri: https://www.google.com/maps/contrib/103799574905704350576/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIXf17RrPcWCxzUqcH-nJxJxnZxFNJz003yxNuNrK59PGwUmQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-08T01:55:57.446373Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJN0l2bWhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJN0l2bWhRRRAB!2m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
+  - name: >-
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3Z291YWpRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Wonderful! We came and got the Denver restaurant week special. Not only
+        was the deal generous and delicious, the service was fabulous. They
+        never once needed to be called over, always had our drinks full, and
+        were attentive and kind. We are excited to use there rewards program and
+        become loyal customers.
+      languageCode: en
+    originalText:
+      text: >-
+        Wonderful! We came and got the Denver restaurant week special. Not only
+        was the deal generous and delicious, the service was fabulous. They
+        never once needed to be called over, always had our drinks full, and
+        were attentive and kind. We are excited to use there rewards program and
+        become loyal customers.
+      languageCode: en
+    authorAttribution:
+      displayName: Ashley Hayes
+      uri: https://www.google.com/maps/contrib/116533344669879683632/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjULNp7pHqhSwOt9JaaUCCx3GfTCIkKc31MbYwFtXLlvHrZTss0=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-17T12:43:28.704310Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3Z291YWpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3Z291YWpRRRAB!2m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
+  - name: >-
+      places/ChIJKfO1pZmJbIcRqWu2X-yioXc/reviews/ChdDSUhNMG9nS0VJQ0FnSURidl9lQTBBRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        We have been coming to this place for a few years now and love it so
+        much. The sushi bar addition is great too. We will keep coming back.
+        Everyone is so nice and food is always delicious. My kids love your
+        kitty robot too.
+      languageCode: en
+    originalText:
+      text: >-
+        We have been coming to this place for a few years now and love it so
+        much. The sushi bar addition is great too. We will keep coming back.
+        Everyone is so nice and food is always delicious. My kids love your
+        kitty robot too.
+      languageCode: en
+    authorAttribution:
+      displayName: typhanie kulesz
+      uri: https://www.google.com/maps/contrib/102107438101877432318/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI5Jk4cS80tZCyOQ0qavlBzrnOA7ut4eMb_6NWbydXTIpIIvg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-11T04:03:23.467832Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURidl9lQTBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURidl9lQTBBRRAB!2m1!1s0x876c8999a5b5f329:0x77a1a2ec5fb66ba9
+review_summary: >-
+  What Visitors Love About This Local Sushi Spot$$$Folks rave about the
+  fantastic variety of sushi rolls and flavors that make every visit feel
+  exciting and satisfying, often highlighting the creative options that keep
+  things fresh and fun. Many appreciate the attentive service and efficient
+  atmosphere, including unique touches like automated helpers that add a playful
+  element to the experience. Diners frequently mention the generous deals and
+  family-friendly vibe, noting that it's a great spot for groups looking for
+  reliable Asian dining. Overall, the consensus leans positive, with people
+  enjoying the quality and value that encourage return trips for top-rated sushi
+  in the area. If you're searching for sushi places near you, this location
+  consistently delivers a welcoming and enjoyable meal that leaves a lasting
+  impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Informal option for a long, varied menu of Asian standards, with free WiFi for
+  diners.
 
 ---

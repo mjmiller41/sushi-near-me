@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "sushi bomb"
+title: sushi bomb
 permalink: /utah/draper/sushi-bomb.html
 stateAbbr: UT
 stateName: Utah
 cityName: Draper
 seo:
-  name: "sushi bomb"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushibombsushi.com/
-description: "sushi bomb serves delicious sushi in Draper, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJuwV00E6HUocRihEIBufOYFI
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752874ed07405bb:0x5260cee70608118a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,286 @@ phone: (385) 361-2102
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 195
 website: http://www.sushibombsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Bomb in Draper, UT$$$Sushi Bomb in Draper, UT, stands out as a
+  welcoming sushi restaurant that combines fresh flavors with convenient options
+  for locals seeking quality Japanese cuisine. This spot offers a variety of
+  popular dishes like inventive rolls, hearty miso soup, and satisfying bento
+  boxes, making it a go-to choice for those craving authentic tastes without the
+  fuss. With accessibility features such as wheelchair-friendly parking and
+  entrances, it's designed to accommodate everyone looking for a seamless dining
+  experience. The restaurant maintains extended hours, including weekends,
+  allowing patrons to enjoy delivery or dine-in at their leisure. Whether you're
+  exploring sushi places near me or in the mood for top-rated Japanese fare,
+  Sushi Bomb delivers a balanced blend of affordability and taste that keeps
+  diners coming back.
+generative_summary: >-
+  Discover Sushi Bomb in Draper, UT$$$Sushi Bomb in Draper, UT, stands out as a
+  welcoming sushi restaurant that combines fresh flavors with convenient options
+  for locals seeking quality Japanese cuisine. This spot offers a variety of
+  popular dishes like inventive rolls, hearty miso soup, and satisfying bento
+  boxes, making it a go-to choice for those craving authentic tastes without the
+  fuss. With accessibility features such as wheelchair-friendly parking and
+  entrances, it's designed to accommodate everyone looking for a seamless dining
+  experience. The restaurant maintains extended hours, including weekends,
+  allowing patrons to enjoy delivery or dine-in at their leisure. Whether you're
+  exploring sushi places near me or in the mood for top-rated Japanese fare,
+  Sushi Bomb delivers a balanced blend of affordability and taste that keeps
+  diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJuwV00E6HUocRihEIBufOYFI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvOE1QRVFnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We come here every other Friday, and every single time, it has been our
+        favorite sushi spot! The food tastes amazing, the presentation is cute
+        and the employees are so kind and you can tell they stay on it with
+        their customers.  This is our new sushi spot and we are so happy we
+        found it!
+      languageCode: en
+    originalText:
+      text: >-
+        We come here every other Friday, and every single time, it has been our
+        favorite sushi spot! The food tastes amazing, the presentation is cute
+        and the employees are so kind and you can tell they stay on it with
+        their customers.  This is our new sushi spot and we are so happy we
+        found it!
+      languageCode: en
+    authorAttribution:
+      displayName: S. Hale
+      uri: https://www.google.com/maps/contrib/100326276547630652590/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLsZ4-CfPIhpeYicJ5RvdZrUE6dHU5x7kv7TkBxE3xQJMICRg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-14T15:14:38.877410Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvOE1QRVFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvOE1QRVFnEAE!2m1!1s0x8752874ed07405bb:0x5260cee70608118a
+  - name: >-
+      places/ChIJuwV00E6HUocRihEIBufOYFI/reviews/ChdDSUhNMG9nS0VJQ0FnTURvM1pfNzZRRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        We started with seaweed salad and shrimp tempura, both excellent. The
+        sushi rolls are awesome! We tried Utah, Wasatch, Spicy Tuna and
+        something else I can't remember but they were all very tasty. The
+        service was quick and friendly. The place is nothing fancy, just a
+        smallish place in a strip mall but neat and clean.
+      languageCode: en
+    originalText:
+      text: >-
+        We started with seaweed salad and shrimp tempura, both excellent. The
+        sushi rolls are awesome! We tried Utah, Wasatch, Spicy Tuna and
+        something else I can't remember but they were all very tasty. The
+        service was quick and friendly. The place is nothing fancy, just a
+        smallish place in a strip mall but neat and clean.
+      languageCode: en
+    authorAttribution:
+      displayName: Jake Wakley
+      uri: https://www.google.com/maps/contrib/116394951169390975655/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVC-OVCzKWmwTYYY1R8FzpHEvtxWtzLMU_k1WNKh94Re-Lu3BhX7w=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-28T00:11:09.200357Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvM1pfNzZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvM1pfNzZRRRAB!2m1!1s0x8752874ed07405bb:0x5260cee70608118a
+  - name: >-
+      places/ChIJuwV00E6HUocRihEIBufOYFI/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3Z3N6WjdRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        I like this place a lot but my fiance doesn't anymore. After our last
+        visit, she got pretty sick, and it seems the noodles she got were to
+        blame.
+
+        The rolls here are really good and for a good price, and their
+        appetizers are good, too. Unfortunately, though, they don't light any of
+        their rolls on fire, which are my favorite ones. The service is usually
+        really good, but at our last visit, they were really slow at getting
+        stuff out that my fiance and I basically ate separately while together.
+
+        The atmosphere is nice, no complaints there.
+
+        Overall, I would recommend this place to anyone looking for good sushi
+        at a decent price, but I would recommend avoiding the noodles.
+      languageCode: en
+    originalText:
+      text: >-
+        I like this place a lot but my fiance doesn't anymore. After our last
+        visit, she got pretty sick, and it seems the noodles she got were to
+        blame.
+
+        The rolls here are really good and for a good price, and their
+        appetizers are good, too. Unfortunately, though, they don't light any of
+        their rolls on fire, which are my favorite ones. The service is usually
+        really good, but at our last visit, they were really slow at getting
+        stuff out that my fiance and I basically ate separately while together.
+
+        The atmosphere is nice, no complaints there.
+
+        Overall, I would recommend this place to anyone looking for good sushi
+        at a decent price, but I would recommend avoiding the noodles.
+      languageCode: en
+    authorAttribution:
+      displayName: Prof. MrSirDr
+      uri: https://www.google.com/maps/contrib/113600308858710504123/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUW5y-5JxYL4JGkIOJPw1gHGZ6hTW70dNhOYWMHDW6fJ1i7JDc=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-24T17:22:08.725101Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3Z3N6WjdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3Z3N6WjdRRRAB!2m1!1s0x8752874ed07405bb:0x5260cee70608118a
+  - name: >-
+      places/ChIJuwV00E6HUocRihEIBufOYFI/reviews/ChdDSUhNMG9nS0VJQ0FnSUREbmNILXVRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Really great food with awesome service. When this new place gets found
+        out it is going to be packed. There are so many sushi rolls to meet any
+        flavor preference as well as other dishes. My wife had the yellow
+        chicken curry and it was honestly insanely good! You got to check this
+        place out and it has a beautiful view of the Wasatch out the window. We
+        will be back!
+      languageCode: en
+    originalText:
+      text: >-
+        Really great food with awesome service. When this new place gets found
+        out it is going to be packed. There are so many sushi rolls to meet any
+        flavor preference as well as other dishes. My wife had the yellow
+        chicken curry and it was honestly insanely good! You got to check this
+        place out and it has a beautiful view of the Wasatch out the window. We
+        will be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Andrew R
+      uri: https://www.google.com/maps/contrib/106199677709568071853/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK1H1zkfq66fWvODZKH8VUfTHupZgpfGjBhts5foBMoDb2iNQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-04-13T03:19:58.448294Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREbmNILXVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREbmNILXVRRRAB!2m1!1s0x8752874ed07405bb:0x5260cee70608118a
+  - name: >-
+      places/ChIJuwV00E6HUocRihEIBufOYFI/reviews/ChdDSUhNMG9nS0VJQ0FnSURYeVpEMnB3RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 3
+    text:
+      text: >-
+        I ordered a bento with some changes because I don't eat meat and I'm
+        allergic to avocado. They kindly gave me a replacement.
+
+
+        I can't say I enjoyed the taste of the food. The rice was like porridge
+        in places. It felt like they mixed new and old rice. For some reason,
+        the miso was brought first, although it should be served with the bento.
+
+
+        Initially the staff seemed polite, but during lunch they came up to me
+        and put the bill down, as if hinting that it was time for me to leave,
+        although I spent about 30 minutes there in total. And after that the
+        girl kept walking past me looking to see if I had finished eating or
+        not.
+
+
+        I don't recommend this place, but the choice is yours. Personally, I
+        won't go there again.
+
+
+        The takoyaki were topped with some kind of overly sour mayonnaise, so I
+        still have this unpleasant taste in my mouth (2 hours later).
+      languageCode: en
+    originalText:
+      text: >-
+        I ordered a bento with some changes because I don't eat meat and I'm
+        allergic to avocado. They kindly gave me a replacement.
+
+
+        I can't say I enjoyed the taste of the food. The rice was like porridge
+        in places. It felt like they mixed new and old rice. For some reason,
+        the miso was brought first, although it should be served with the bento.
+
+
+        Initially the staff seemed polite, but during lunch they came up to me
+        and put the bill down, as if hinting that it was time for me to leave,
+        although I spent about 30 minutes there in total. And after that the
+        girl kept walking past me looking to see if I had finished eating or
+        not.
+
+
+        I don't recommend this place, but the choice is yours. Personally, I
+        won't go there again.
+
+
+        The takoyaki were topped with some kind of overly sour mayonnaise, so I
+        still have this unpleasant taste in my mouth (2 hours later).
+      languageCode: en
+    authorAttribution:
+      displayName: Icy_ Owl
+      uri: https://www.google.com/maps/contrib/106180798440940207072/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUnKwauzRRT7AhMdnEq6oxeyACW1-whAfL80p38HslhLCYosKQmHw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-28T22:27:57.020992Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYeVpEMnB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYeVpEMnB3RRAB!2m1!1s0x8752874ed07405bb:0x5260cee70608118a
+review_summary: >-
+  What Customers Are Saying$$$Folks generally rave about the tasty sushi rolls
+  and appetizers at this spot, highlighting how the fresh flavors and creative
+  presentations make every meal feel special. Many appreciate the quick,
+  friendly service and reasonable prices that make it a solid pick for casual
+  outings or groups. While most experiences are positive, a few mentions of
+  occasional service slowdowns or specific menu items not hitting the mark add a
+  note of realism, but overall, the vibe remains upbeat. Diners often note that
+  the clean atmosphere and variety of options, like seaweed salad and tempura,
+  contribute to a relaxed and enjoyable visit. If you're hunting for the best
+  sushi near me, this place earns high marks for its reliable quality and
+  welcoming feel, making it worth trying for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
+outdoor_seating: false
+reservable: true
+restroom: true
 serves_beer: null
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

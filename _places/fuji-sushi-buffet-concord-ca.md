@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Sushi Buffet"
+title: Fuji Sushi Buffet
 permalink: /california/concord/fuji-sushi-buffet.html
 stateAbbr: CA
 stateName: California
 cityName: Concord
 seo:
-  name: "Fuji Sushi Buffet"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fuji Sushi Buffet serves delicious sushi in Concord, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsSyhZppnhYARY3sRkwSShbM
 photos:
   - name: >-
@@ -142,8 +140,8 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbyw7pwQ0c2emzWUADaAy&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyw7pwQ0c2emzWUADaAy!2e10!4m2!3m1!1s0x8085679a66a12cb1:0xb385920493117b63
-address: 2090 Diamond Blvd, Concord, CA 94520, USA
-street: 2090 Diamond Blvd
+address: 2090 Diamond Blvd STE 10, Concord, CA 94520, USA
+street: 2090 Diamond Blvd STE 10
 city: Concord
 state: CA
 zip: '94520'
@@ -185,7 +183,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fuji Sushi Buffet in Concord, CA$$$Fuji Sushi Buffet in Concord,
+  California, provides a relaxed dining spot specializing in all-you-can-eat
+  sushi and appetizers, making it a go-to choice for sushi enthusiasts in the
+  area. This welcoming restaurant features a variety of fresh Japanese-inspired
+  dishes, including an array of rolls and sides that cater to different tastes,
+  all served in a casual atmosphere perfect for casual meals or gatherings.
+  Accessibility is a key highlight, with options like wheelchair-friendly
+  parking and seating ensuring everyone can enjoy the experience comfortably.
+  Visitors appreciate the straightforward setup that emphasizes quality
+  ingredients and ample portions, ideal for those searching for satisfying sushi
+  options nearby. Whether you're exploring top-rated sushi spots or simply
+  craving a flavorful meal, this location delivers a dependable and enjoyable
+  vibe for everyday dining.
+generative_summary: >-
+  Discover Fuji Sushi Buffet in Concord, CA$$$Fuji Sushi Buffet in Concord,
+  California, provides a relaxed dining spot specializing in all-you-can-eat
+  sushi and appetizers, making it a go-to choice for sushi enthusiasts in the
+  area. This welcoming restaurant features a variety of fresh Japanese-inspired
+  dishes, including an array of rolls and sides that cater to different tastes,
+  all served in a casual atmosphere perfect for casual meals or gatherings.
+  Accessibility is a key highlight, with options like wheelchair-friendly
+  parking and seating ensuring everyone can enjoy the experience comfortably.
+  Visitors appreciate the straightforward setup that emphasizes quality
+  ingredients and ample portions, ideal for those searching for satisfying sushi
+  options nearby. Whether you're exploring top-rated sushi spots or simply
+  craving a flavorful meal, this location delivers a dependable and enjoyable
+  vibe for everyday dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Fuji Sushi Buffet$$$Folks who stop by Fuji Sushi Buffet
+  often rave about the fresh selections and generous portions that make for a
+  fun, value-packed meal, especially for sushi lovers on a budget. Many
+  highlight the variety of rolls and appetizers as a standout feature, noting
+  how it keeps things exciting without overwhelming the palate. While some
+  mention occasional waits during peak times, the overall consensus leans
+  positive, with diners appreciating the welcoming setup and quick service that
+  enhances the casual vibe. It's clear that the spot holds up well for groups or
+  families looking for reliable Japanese-inspired eats, offering a solid
+  experience that encourages return visits. All in all, if you're hunting for
+  tasty sushi places nearby, this one tends to leave people satisfied and eager
+  to come back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +252,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

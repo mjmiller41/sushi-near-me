@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hatsuhana Japanese Restaurant"
+title: Hatsuhana Japanese Restaurant
 permalink: /hawaii/honolulu/hatsuhana-japanese-restaurant.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Hatsuhana Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.hatsuhanausa.com/
-description: "Hatsuhana Japanese Restaurant serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJE2-ZnPVtAHwR6P2bJEKeAoY
 photos:
   - name: >-
@@ -169,7 +167,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006df59c996f13:0x86029e42249bfde8!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 7
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 7
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 7
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 7
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 7
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 7
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 7:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 7:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 10:30 AM – 2:30 PM, 5:00 – 9:30 PM'
@@ -177,54 +289,471 @@ opening_hours:
     - 'Friday: 7:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Saturday: 7:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Sunday: 7:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-  current:
-    - 'Monday: 7:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 7:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 10:30 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 7:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Friday: 7:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 7:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Sunday: 7:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 7
+          minute: 0
+        close:
+          day: 0
+          hour: 10
+          minute: 30
+      - open:
+          day: 1
+          hour: 7
+          minute: 0
+        close:
+          day: 1
+          hour: 10
+          minute: 30
+      - open:
+          day: 2
+          hour: 7
+          minute: 0
+        close:
+          day: 2
+          hour: 10
+          minute: 30
+      - open:
+          day: 4
+          hour: 7
+          minute: 0
+        close:
+          day: 4
+          hour: 10
+          minute: 30
+      - open:
+          day: 5
+          hour: 7
+          minute: 0
+        close:
+          day: 5
+          hour: 10
+          minute: 30
+      - open:
+          day: 6
+          hour: 7
+          minute: 0
+        close:
+          day: 6
+          hour: 10
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 7:00 – 10:30 AM'
+      - 'Tuesday: 7:00 – 10:30 AM'
+      - 'Wednesday: Closed'
+      - 'Thursday: 7:00 – 10:30 AM'
+      - 'Friday: 7:00 – 10:30 AM'
+      - 'Saturday: 7:00 – 10:30 AM'
+      - 'Sunday: 7:00 – 10:30 AM'
+    secondaryHoursType: BREAKFAST
+    nextOpenTime: '2025-05-04T17:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 10
+          minute: 30
+        close:
+          day: 0
+          hour: 14
+          minute: 30
+      - open:
+          day: 1
+          hour: 10
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 10
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 10
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 10
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 10
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+      - open:
+          day: 6
+          hour: 10
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 10:30 AM – 2:30 PM'
+      - 'Tuesday: 10:30 AM – 2:30 PM'
+      - 'Wednesday: 10:30 AM – 2:30 PM'
+      - 'Thursday: 10:30 AM – 2:30 PM'
+      - 'Friday: 10:30 AM – 2:30 PM'
+      - 'Saturday: 10:30 AM – 2:30 PM'
+      - 'Sunday: 10:30 AM – 2:30 PM'
+    secondaryHoursType: LUNCH
+    nextCloseTime: '2025-05-04T00:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:30 PM'
+      - 'Tuesday: 5:00 – 9:30 PM'
+      - 'Wednesday: 5:00 – 9:30 PM'
+      - 'Thursday: 5:00 – 9:30 PM'
+      - 'Friday: 5:00 – 9:30 PM'
+      - 'Saturday: 5:00 – 9:30 PM'
+      - 'Sunday: 5:00 – 9:30 PM'
+    secondaryHoursType: DINNER
+    nextOpenTime: '2025-05-04T03:00:00Z'
 phone: (808) 946-8287
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 778
 website: https://www.hatsuhanausa.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Hatsuhana in Honolulu, HI$$$Hatsuhana Japanese Restaurant in
+  Honolulu, HI, brings authentic Japanese flavors to life with a focus on fresh
+  sushi and traditional entrees in a relaxed, welcoming environment. This spot
+  stands out for its casual yet vibrant atmosphere, making it an ideal choice
+  for those seeking quality sushi options close to popular attractions. Guests
+  can enjoy a variety of expertly prepared rolls and dishes that highlight the
+  essence of Japanese cuisine, complemented by thoughtful accessibility features
+  like wheelchair-friendly seating and parking. The restaurant's flexible hours
+  cater to both breakfast and dinner cravings, ensuring it's a convenient stop
+  for anyone exploring sushi restaurants in the area. Overall, it's a go-to
+  destination for savoring flavorful meals that blend simplicity and taste in a
+  laid-back setting.
+generative_summary: >-
+  Discover Hatsuhana in Honolulu, HI$$$Hatsuhana Japanese Restaurant in
+  Honolulu, HI, brings authentic Japanese flavors to life with a focus on fresh
+  sushi and traditional entrees in a relaxed, welcoming environment. This spot
+  stands out for its casual yet vibrant atmosphere, making it an ideal choice
+  for those seeking quality sushi options close to popular attractions. Guests
+  can enjoy a variety of expertly prepared rolls and dishes that highlight the
+  essence of Japanese cuisine, complemented by thoughtful accessibility features
+  like wheelchair-friendly seating and parking. The restaurant's flexible hours
+  cater to both breakfast and dinner cravings, ensuring it's a convenient stop
+  for anyone exploring sushi restaurants in the area. Overall, it's a go-to
+  destination for savoring flavorful meals that blend simplicity and taste in a
+  laid-back setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJE2-ZnPVtAHwR6P2bJEKeAoY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvZ2ZfUXhnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Very good Japanese restaurant in the heart of Hilton Hawaiian village
+        shopping district. They feel authentically Japanese, including ambiance,
+        flavor, and service. Also, that name. So _____. 🤭🤭🤭
+
+
+        Nom nom nom! 🤪🤪🤪
+      languageCode: en
+    originalText:
+      text: >-
+        Very good Japanese restaurant in the heart of Hilton Hawaiian village
+        shopping district. They feel authentically Japanese, including ambiance,
+        flavor, and service. Also, that name. So _____. 🤭🤭🤭
+
+
+        Nom nom nom! 🤪🤪🤪
+      languageCode: en
+    authorAttribution:
+      displayName: Liyang “Leon” Sun
+      uri: https://www.google.com/maps/contrib/102822346073013996077/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUSYL13cOa9-626UgM8pGceb8YIbRDaleKIPnnNDRjgmgfms2e2tw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-17T13:22:41.934352Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvZ2ZfUXhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvZ2ZfUXhnRRAB!2m1!1s0x7c006df59c996f13:0x86029e42249bfde8
+  - name: >-
+      places/ChIJE2-ZnPVtAHwR6P2bJEKeAoY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdk55aXdRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        All you can eat breakfast buffet. $36 per person; $26.99 for Kaamaina.
+
+
+        Good deal, decent variety of food, comfortable seating area. Good place
+        to eat japanese / western style breakfast. Nothing fancy, simple
+        breakfast items that are easy and delicious. The coffee station is
+        fantastic, you can make a variety of coffee blends from espressos to
+        macchiatos.
+
+
+        Down side - service is constantly busy, you might feel neglected cause
+        they cannot remove the use plates from the table in time.
+
+
+        Parking is in the structure, guest parking is level 3 through 5...get
+        your ticket validated and you will have 4 hours free of charge.
+
+
+        Other than that, worth it for the price.
+      languageCode: en
+    originalText:
+      text: >-
+        All you can eat breakfast buffet. $36 per person; $26.99 for Kaamaina.
+
+
+        Good deal, decent variety of food, comfortable seating area. Good place
+        to eat japanese / western style breakfast. Nothing fancy, simple
+        breakfast items that are easy and delicious. The coffee station is
+        fantastic, you can make a variety of coffee blends from espressos to
+        macchiatos.
+
+
+        Down side - service is constantly busy, you might feel neglected cause
+        they cannot remove the use plates from the table in time.
+
+
+        Parking is in the structure, guest parking is level 3 through 5...get
+        your ticket validated and you will have 4 hours free of charge.
+
+
+        Other than that, worth it for the price.
+      languageCode: en
+    authorAttribution:
+      displayName: Ryan Y
+      uri: https://www.google.com/maps/contrib/103064015528879969198/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUi22IO76ostIh3Fq3mWTw9Cf-Z9F6UPZwalZAe0hZWEBquC-09=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-03T00:46:59.303105Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRdk55aXdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRdk55aXdRRRAB!2m1!1s0x7c006df59c996f13:0x86029e42249bfde8
+  - name: >-
+      places/ChIJE2-ZnPVtAHwR6P2bJEKeAoY/reviews/ChdDSUhNMG9nS0VJQ0FnTURvbmFubGdBRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 4
+    text:
+      text: >-
+        I had the sushi teishoku plate which looked and tasted great. Fast
+        service and a nice restaurant. Only 4* as I asked for extra ginger
+        (there was not a lot served on the plate to start with) which came with
+        an up charge of $1. For a ~$40 plate I expect a little extra ginger to
+        be free.
+      languageCode: en
+    originalText:
+      text: >-
+        I had the sushi teishoku plate which looked and tasted great. Fast
+        service and a nice restaurant. Only 4* as I asked for extra ginger
+        (there was not a lot served on the plate to start with) which came with
+        an up charge of $1. For a ~$40 plate I expect a little extra ginger to
+        be free.
+      languageCode: en
+    authorAttribution:
+      displayName: Tom P
+      uri: https://www.google.com/maps/contrib/113214729238028603960/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIm_SD4799s2437o4U68Ii-d4wVDEAY20MpTo3kpgtQt_1bcg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-27T20:37:34.911798Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvbmFubGdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvbmFubGdBRRAB!2m1!1s0x7c006df59c996f13:0x86029e42249bfde8
+  - name: >-
+      places/ChIJE2-ZnPVtAHwR6P2bJEKeAoY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYc2MtNHRBRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        This is a hidden surprise in the Hilton village that even locals won’t
+        know about. I lived in Waikiki for 3 years before moving to Japan and I
+        still come back here to enjoy the food. I can’t even find similar places
+        like this in Japan. This is a great alternative to unhealthy tourist
+        restaurant food. The trick is that you need to be Asian enough to know
+        how to eat some dishes.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a hidden surprise in the Hilton village that even locals won’t
+        know about. I lived in Waikiki for 3 years before moving to Japan and I
+        still come back here to enjoy the food. I can’t even find similar places
+        like this in Japan. This is a great alternative to unhealthy tourist
+        restaurant food. The trick is that you need to be Asian enough to know
+        how to eat some dishes.
+      languageCode: en
+    authorAttribution:
+      displayName: World Explorer
+      uri: https://www.google.com/maps/contrib/105774174444787308383/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWQ4-JpWmrGoU5GZutXoKGRLNUT6h4bbX2x3Nf3xyWTVwLIEx8_XQ=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-10-17T19:39:28.211309Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYc2MtNHRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYc2MtNHRBRRAB!2m1!1s0x7c006df59c996f13:0x86029e42249bfde8
+  - name: >-
+      places/ChIJE2-ZnPVtAHwR6P2bJEKeAoY/reviews/ChdDSUhNMG9nS0VJQ0FnTURvMnM2cjhRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Not sure why there are any reviews lower than five stars, but my wife
+        and I had a great dinner that became our favorite restaurant so far
+        during our stay! (That includes other places requiring reservations,
+        which weren't needed on a Tuesday evening here). This is definitely a
+        place you want to go if you like hidden places, and want to try some
+        traditional Japanese food.
+      languageCode: en
+    originalText:
+      text: >-
+        Not sure why there are any reviews lower than five stars, but my wife
+        and I had a great dinner that became our favorite restaurant so far
+        during our stay! (That includes other places requiring reservations,
+        which weren't needed on a Tuesday evening here). This is definitely a
+        place you want to go if you like hidden places, and want to try some
+        traditional Japanese food.
+      languageCode: en
+    authorAttribution:
+      displayName: Logan Camp
+      uri: https://www.google.com/maps/contrib/108361642067229743434/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKrcE3MfjadN9NSWpPjNJT2X-I1hhV6TvKmYDTI8vhHgugZEw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-24T01:05:50.211233Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvMnM2cjhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvMnM2cjhRRRAB!2m1!1s0x7c006df59c996f13:0x86029e42249bfde8
+review_summary: >-
+  What Visitors Are Sharing About the Experience$$$Folks often rave about the
+  tasty Japanese dishes and authentic vibes at this spot, highlighting the fresh
+  sushi and well-priced options that make it a solid pick for a casual meal.
+  Many appreciate the variety in the breakfast buffet and dinner selections,
+  noting that the food feels genuine and satisfying without being overly fancy.
+  While some mention occasional waits due to busy service, the overall
+  atmosphere and quick delivery of orders keep things enjoyable for groups or
+  solo diners. It's frequently praised as a hidden gem for traditional eats,
+  with reviewers enjoying the balance of flavors that leave them coming back for
+  more. All in all, this place delivers a positive dining vibe that's worth
+  checking out if you're in the mood for reliable sushi near the beachfront
+  neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidParkingLot: true
+  freeGarageParking: true
+  paidGarageParking: true
+payment_options:
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
+good_for_groups: true
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Bustling, casual venue at the Hilton Hawaiian Village for sushi, sashimi &
+  classic Japanese entrees.
 
 ---

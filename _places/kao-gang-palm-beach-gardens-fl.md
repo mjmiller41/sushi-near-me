@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KAO GANG"
+title: KAO GANG
 permalink: /florida/palm-beach-gardens/kao-gang.html
 stateAbbr: FL
 stateName: Florida
 cityName: Palm Beach Gardens
 seo:
-  name: "KAO GANG"
-  type: Restaurant
+  type: restaurant
   links: http://www.kaogangpga.com/
-description: "Mellow venue with old-world decor specializing in Thai cooking, noodle bowls & sushi rolls. KAO GANG serves delicious sushi in Palm Beach Gardens, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ_4qsnMAq34gRxlNKgWvluJA
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.kaogangpga.com/
+description: >-
+  Discover KAO GANG in Palm Beach Gardens, FL$$$KAO GANG in Palm Beach Gardens,
+  FL, offers a relaxing dining experience with a mix of authentic Thai flavors
+  and fresh sushi options that appeal to those seeking variety in their meals.
+  The spot features a cozy atmosphere with thoughtful decor that evokes a sense
+  of tradition, complemented by a menu of well-balanced dishes like flavorful
+  curries and noodle bowls that highlight fresh ingredients. Visitors appreciate
+  the range of choices, including vegetarian-friendly picks, making it easy to
+  find something satisfying for everyone. The efficient service and attractive
+  presentation of meals add to the overall enjoyment, positioning it as a go-to
+  choice for casual outings. This sushi restaurant near you provides a welcoming
+  vibe at moderate prices, ideal for anyone exploring top-rated Thai and
+  Japanese-inspired cuisine in the area.
+generative_summary: >-
+  Discover KAO GANG in Palm Beach Gardens, FL$$$KAO GANG in Palm Beach Gardens,
+  FL, offers a relaxing dining experience with a mix of authentic Thai flavors
+  and fresh sushi options that appeal to those seeking variety in their meals.
+  The spot features a cozy atmosphere with thoughtful decor that evokes a sense
+  of tradition, complemented by a menu of well-balanced dishes like flavorful
+  curries and noodle bowls that highlight fresh ingredients. Visitors appreciate
+  the range of choices, including vegetarian-friendly picks, making it easy to
+  find something satisfying for everyone. The efficient service and attractive
+  presentation of meals add to the overall enjoyment, positioning it as a go-to
+  choice for casual outings. This sushi restaurant near you provides a welcoming
+  vibe at moderate prices, ideal for anyone exploring top-rated Thai and
+  Japanese-inspired cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ_4qsnMAq34gRxlNKgWvluJA/reviews/ChZDSUhNMG9nS0VJQ0FnSURmOV9ESU93EAE
@@ -376,6 +401,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIanRteHZBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIanRteHZBRRAB!2m1!1s0x88df2ac09cac8aff:0x90b8e56b814a53c6
+review_summary: >-
+  What Customers Are Saying$$$Folks generally enjoy the tasty appetizers and
+  entrees at this spot, often highlighting the fresh flavors and reliable
+  quality that make for a satisfying meal. Many share that it's a solid pick for
+  casual dinners, with well-balanced dishes and a pleasant atmosphere that keeps
+  things light and enjoyable without any major letdowns. Reviewers appreciate
+  the accommodating service and variety of options, including sushi rolls and
+  Thai specialties that cater to different tastes, making it a handy choice for
+  groups or quick bites. While some mention minor inconsistencies with certain
+  items, the overall feedback leans positive, praising the value and authentic
+  vibes that encourage return visits. If you're hunting for great sushi places
+  near me, this location stands out as a trustworthy option for flavorful,
+  everyday dining that doesn't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -407,8 +446,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Mellow venue with old-world decor specializing in Thai cooking, noodle bowls &
   sushi rolls.
 

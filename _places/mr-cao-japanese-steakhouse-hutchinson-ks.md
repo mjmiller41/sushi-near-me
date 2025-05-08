@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr Cao Japanese Steakhouse"
+title: Mr Cao Japanese Steakhouse
 permalink: /kansas/hutchinson/mr-cao-japanese-steakhouse.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Hutchinson
 seo:
-  name: "Mr Cao Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: https://www.mrcaojapanesesteakhouse.com/order
-description: "Booth-lined shopping-center venue for a range of Japanese fare, from sushi & grilled meats to udon. Mr Cao Japanese Steakhouse serves delicious sushi in Hutchinson, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJcSFDnDi2pIcRayogVEReoZo
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: https://www.mrcaojapanesesteakhouse.com/order
+description: >-
+  Experience Mr Cao Japanese Steakhouse in Hutchinson, KS$$$Mr Cao Japanese
+  Steakhouse in Hutchinson, KS, stands out as a casual and inviting spot for
+  savoring fresh sushi and Japanese-inspired dishes in a welcoming environment.
+  This eatery delights with a kid-friendly vibe, offering a range of grilled
+  meats, sushi rolls, and creative cocktails that appeal to families and groups
+  alike. Accessibility features like wheelchair-friendly parking and seating
+  make it easy for everyone to enjoy the experience, while the moderate pricing
+  adds to its appeal for everyday dining. Whether you're exploring sushi
+  restaurants near you or seeking top-rated Japanese places, this location
+  combines flavorful fare with a relaxed atmosphere that encourages repeat
+  visits.
+generative_summary: >-
+  Experience Mr Cao Japanese Steakhouse in Hutchinson, KS$$$Mr Cao Japanese
+  Steakhouse in Hutchinson, KS, stands out as a casual and inviting spot for
+  savoring fresh sushi and Japanese-inspired dishes in a welcoming environment.
+  This eatery delights with a kid-friendly vibe, offering a range of grilled
+  meats, sushi rolls, and creative cocktails that appeal to families and groups
+  alike. Accessibility features like wheelchair-friendly parking and seating
+  make it easy for everyone to enjoy the experience, while the moderate pricing
+  adds to its appeal for everyday dining. Whether you're exploring sushi
+  restaurants near you or seeking top-rated Japanese places, this location
+  combines flavorful fare with a relaxed atmosphere that encourages repeat
+  visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJcSFDnDi2pIcRayogVEReoZo/reviews/ChdDSUhNMG9nS0VJQ0FnTURJdU9hVXZnRRAB
@@ -370,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNXb0xfVUxnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNXb0xfVUxnEAE!2m1!1s0x87a4b6389c432171:0x9aa15e4454202a6b
+review_summary: >-
+  Insights from Recent Feedback on This Sushi Spot$$$Folks generally rave about
+  the tasty sushi and solid service at this spot, highlighting the generous
+  portions and enjoyable atmosphere that make it a go-to for casual meals. While
+  most experiences lean positive with comments on the yummy food and prompt
+  staff, a few mentions point to occasional inconsistencies like overcooked
+  items that could use some fine-tuning. Overall, it's seen as a reliable
+  middle-ground option that's not overly fancy but delivers good value for
+  families and groups. If you're hunting for the best sushi near me, many
+  appreciate the fresh raw options and fun elements that keep things lively. In
+  the end, this place earns solid marks for its welcoming feel, though keeping
+  an eye on details like food preparation could elevate it even further.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -403,8 +439,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Booth-lined shopping-center venue for a range of Japanese fare, from sushi &
   grilled meats to udon.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Palace"
+title: Sushi Palace
 permalink: /new-jersey/summit/sushi-palace.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Summit
 seo:
-  name: "Sushi Palace"
-  type: Restaurant
-  links: null
-description: "Sushi Palace serves delicious sushi in Summit, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://sushipalacenj.com/
 place_id: ChIJkQFUFE2uw4kR1KbW59ndk_s
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3ae4d14540191:0xfb93ddd9e7d6a6d4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (908) 277-2333
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.3'
+rating_count: 693
+website: http://sushipalacenj.com/
+description: >-
+  Discover Sushi Palace in Summit, NJ$$$Sushi Palace in Summit, New Jersey,
+  stands out as a welcoming spot for fresh sushi dining, offering a casual
+  atmosphere perfect for enjoying unlimited rolls along with tasty appetizers
+  and desserts. This Japanese-inspired eatery emphasizes accessibility with
+  features like wheelchair-friendly parking and entrances, making it easy for
+  everyone to savor the experience. Patrons can explore a variety of sushi
+  options that highlight high-quality ingredients, complemented by a menu
+  designed for relaxed meals in a cozy setting. With convenient hours extending
+  into the evening, it's an ideal choice for those seeking top sushi spots near
+  you, whether for a quick lunch or a leisurely dinner. The vibrant photos of
+  the dishes add to the appeal, showcasing the artistry behind each plate in
+  this local favorite.
+generative_summary: >-
+  Discover Sushi Palace in Summit, NJ$$$Sushi Palace in Summit, New Jersey,
+  stands out as a welcoming spot for fresh sushi dining, offering a casual
+  atmosphere perfect for enjoying unlimited rolls along with tasty appetizers
+  and desserts. This Japanese-inspired eatery emphasizes accessibility with
+  features like wheelchair-friendly parking and entrances, making it easy for
+  everyone to savor the experience. Patrons can explore a variety of sushi
+  options that highlight high-quality ingredients, complemented by a menu
+  designed for relaxed meals in a cozy setting. With convenient hours extending
+  into the evening, it's an ideal choice for those seeking top sushi spots near
+  you, whether for a quick lunch or a leisurely dinner. The vibrant photos of
+  the dishes add to the appeal, showcasing the artistry behind each plate in
+  this local favorite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Based on the strong 4.3-star rating from hundreds
+  of visitors, Sushi Palace seems to be a solid pick for anyone craving reliable
+  Japanese cuisine in the area. Folks often highlight the fresh flavors and
+  generous portions of the sushi rolls, making it a go-to for casual meals that
+  hit the spot without breaking the bank. While some mention the service as
+  consistently friendly and efficient, others appreciate the overall vibe that
+  keeps things light and enjoyable for groups or solo diners. It's clear that
+  the unlimited options bring a fun element to the table, though a few note it's
+  best for those who enjoy a straightforward dining experience rather than
+  anything overly fancy. All in all, if you're on the hunt for great sushi
+  places near me, this spot earns praise for delivering good value and
+  satisfying tastes that keep people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +355,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

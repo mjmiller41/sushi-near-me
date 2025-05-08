@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momoya Sushi"
+title: Momoya Sushi
 permalink: /california/mountain-view/momoya-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Mountain View
 seo:
-  name: "Momoya Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Momoya Sushi serves delicious sushi in Mountain View, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJQZADky3j4ARmCVRWUYxALw
 photos:
   - name: >-
@@ -148,9 +146,9 @@ city: Mountain View
 state: CA
 zip: '94043'
 country: USA
-neighborhood: Rex Manor
-latitude: '37.402780'
-longitude: '-122.079379'
+neighborhood: Jackson Park
+latitude: '37.398195'
+longitude: '-122.078634'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fb74c0e400625:0xbc00314659512598!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 13
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 13
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 13
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 13
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 13
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 1:30 PM, 5:00 – 8:00 PM'
     - 'Tuesday: 11:00 AM – 1:30 PM, 5:00 – 8:00 PM'
     - 'Wednesday: 11:00 AM – 1:30 PM, 5:00 – 8:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 1:30 PM, 5:00 – 8:00 PM'
     - 'Saturday: 5:00 – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 1:30 PM, 5:00 – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 1:30 PM, 5:00 – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 1:30 PM, 5:00 – 8:00 PM'
-    - 'Thursday: 11:00 AM – 1:30 PM, 5:00 – 8:00 PM'
-    - 'Friday: 11:00 AM – 1:30 PM, 5:00 – 8:00 PM'
-    - 'Saturday: 5:00 – 8:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +278,44 @@ phone: (650) 967-6166
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 254
 website: null
+description: >-
+  Discover Momoya Sushi in Mountain View, CA$$$Momoya Sushi in Mountain View,
+  CA, stands out as a welcoming spot for fresh Japanese flavors, nestled in a
+  cozy setting perfect for casual dining or quick meals. This sushi restaurant
+  highlights a variety of options like expertly prepared rolls, bento boxes,
+  teriyaki dishes, and tempura, making it a go-to choice for those seeking
+  authentic tastes in a relaxed environment. With thoughtful accessibility
+  features ensuring everyone can enjoy the experience, it's ideal for anyone
+  exploring top-rated Japanese places nearby. The menu caters to a range of
+  preferences, from light bites to satisfying entrees, all crafted with quality
+  ingredients that elevate everyday dining.
+generative_summary: >-
+  Discover Momoya Sushi in Mountain View, CA$$$Momoya Sushi in Mountain View,
+  CA, stands out as a welcoming spot for fresh Japanese flavors, nestled in a
+  cozy setting perfect for casual dining or quick meals. This sushi restaurant
+  highlights a variety of options like expertly prepared rolls, bento boxes,
+  teriyaki dishes, and tempura, making it a go-to choice for those seeking
+  authentic tastes in a relaxed environment. With thoughtful accessibility
+  features ensuring everyone can enjoy the experience, it's ideal for anyone
+  exploring top-rated Japanese places nearby. The menu caters to a range of
+  preferences, from light bites to satisfying entrees, all crafted with quality
+  ingredients that elevate everyday dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Momoya Sushi$$$Visitors often praise the fresh
+  and flavorful sushi options that make this spot a favorite for anyone craving
+  quality Japanese cuisine. Many highlight the efficient service and welcoming
+  vibe, noting that meals here feel consistently satisfying and well-prepared.
+  While some mention portions could vary, the overall consensus leans positive
+  with the high rating reflecting great value for the price. Folks appreciate
+  the attention to detail in the dishes, making it a solid pick for groups or
+  solo diners looking for reliable eats. If you're on the hunt for sushi
+  restaurants nearby, the feedback suggests this place delivers a solid
+  experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +341,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

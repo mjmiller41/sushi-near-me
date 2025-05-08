@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Yah"
+title: Sushi Yah
 permalink: /utah/salt-lake-city/sushi-yah.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "Sushi Yah"
-  type: Restaurant
+  type: restaurant
   links: https://mysushiyah.com/?utm_source=gmb&utm_medium=website
-description: "Sushi Yah serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn_R9XvBiUocRw9KZg-oj800
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x875262f05e7df49f:0x4df323ea8399d2c3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:30 PM'
     - 'Saturday: 11:30 AM – 9:30 PM'
     - 'Sunday: 4:00 – 8:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:30 PM'
-    - 'Saturday: 11:30 AM – 9:30 PM'
-    - 'Sunday: 4:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,299 @@ phone: (801) 944-3933
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.0'
-rating_count: 0
+rating_count: 581
 website: https://mysushiyah.com/?utm_source=gmb&utm_medium=website
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Yah in Salt Lake City, UT$$$Nestled in Salt Lake City, UT,
+  Sushi Yah stands out as a welcoming spot for enjoying fresh Japanese cuisine,
+  featuring an array of sushi rolls and traditional dishes in a relaxed
+  environment. This sushi restaurant offers an extensive menu with options that
+  cater to various tastes, including hearty rolls and classic staples, all at
+  moderate prices that make it a great value for diners. Accessibility features
+  like wheelchair-friendly entrances and parking add to the convenience,
+  ensuring everyone can savor the experience. The casual setting invites patrons
+  to unwind while exploring flavorful selections, making it a solid choice for
+  those seeking quality sushi options nearby. With its approachable vibe and
+  focus on authentic flavors, Sushi Yah appeals to anyone looking for a
+  satisfying meal in a neighborhood atmosphere.
+generative_summary: >-
+  Discover Sushi Yah in Salt Lake City, UT$$$Nestled in Salt Lake City, UT,
+  Sushi Yah stands out as a welcoming spot for enjoying fresh Japanese cuisine,
+  featuring an array of sushi rolls and traditional dishes in a relaxed
+  environment. This sushi restaurant offers an extensive menu with options that
+  cater to various tastes, including hearty rolls and classic staples, all at
+  moderate prices that make it a great value for diners. Accessibility features
+  like wheelchair-friendly entrances and parking add to the convenience,
+  ensuring everyone can savor the experience. The casual setting invites patrons
+  to unwind while exploring flavorful selections, making it a solid choice for
+  those seeking quality sushi options nearby. With its approachable vibe and
+  focus on authentic flavors, Sushi Yah appeals to anyone looking for a
+  satisfying meal in a neighborhood atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJn_R9XvBiUocRw9KZg-oj800/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQd2J5YThnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        What a hidden gem. Cheapest all you can eat sushi I’ve come across
+        globally - with an extensive menu to choose from.
+
+        Visiting from Aus and was fortunate enough to stumble across this place
+        and it fulfilled my sushi needs. I just went with nigiri and all the
+        seafood was fresh and tasted great with good serving of wasabi and
+        ginger. Nice family owners - worth the visit esp after a full day of
+        skiing.
+      languageCode: en
+    originalText:
+      text: >-
+        What a hidden gem. Cheapest all you can eat sushi I’ve come across
+        globally - with an extensive menu to choose from.
+
+        Visiting from Aus and was fortunate enough to stumble across this place
+        and it fulfilled my sushi needs. I just went with nigiri and all the
+        seafood was fresh and tasted great with good serving of wasabi and
+        ginger. Nice family owners - worth the visit esp after a full day of
+        skiing.
+      languageCode: en
+    authorAttribution:
+      displayName: Danny Do
+      uri: https://www.google.com/maps/contrib/107995795556629120068/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVPkQGs3LaFqpDuS7nSGLLEGrubXBdTStMVYBYq-vD-Ofu2r0s=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-11-25T03:34:32.551685Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQd2J5YThnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQd2J5YThnRRAB!2m1!1s0x875262f05e7df49f:0x4df323ea8399d2c3
+  - name: >-
+      places/ChIJn_R9XvBiUocRw9KZg-oj800/reviews/ChZDSUhNMG9nS0VJQ0FnSURUdE4zNUlREAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        The Girl asked for all you can eat sushi for her graduation dinner and
+        Sushi Yah made her dreams come true! The sushi rolls were so good! Some
+        tempura some not but everything was excellent! And the price was
+        awesome!!! My youngest LOVED the Gyoza and egg rolls. The rest of us
+        tried just about EVERYTHING! Our favorites were the sunset, spicy
+        crunch, Vegas, Eddy (the girl was really the only one who loved this but
+        we all had fun trying it), Godzilla, Hurricane, and Utah Mountain. This
+        made sitting through graduation worth it. Our waiter kept our glasses
+        full and was great to explain or offer suggestions. This was really a
+        great place!
+      languageCode: en
+    originalText:
+      text: >-
+        The Girl asked for all you can eat sushi for her graduation dinner and
+        Sushi Yah made her dreams come true! The sushi rolls were so good! Some
+        tempura some not but everything was excellent! And the price was
+        awesome!!! My youngest LOVED the Gyoza and egg rolls. The rest of us
+        tried just about EVERYTHING! Our favorites were the sunset, spicy
+        crunch, Vegas, Eddy (the girl was really the only one who loved this but
+        we all had fun trying it), Godzilla, Hurricane, and Utah Mountain. This
+        made sitting through graduation worth it. Our waiter kept our glasses
+        full and was great to explain or offer suggestions. This was really a
+        great place!
+      languageCode: en
+    authorAttribution:
+      displayName: Gretchen Hawkins
+      uri: https://www.google.com/maps/contrib/113019665211346788095/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXBQ4K5PRKBifPl2oFdaKR0vfvrK0bOx-doZVWwttl9ZH1exVE=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-05-23T00:49:19.512631Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUdE4zNUlREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUdE4zNUlREAE!2m1!1s0x875262f05e7df49f:0x4df323ea8399d2c3
+  - name: >-
+      places/ChIJn_R9XvBiUocRw9KZg-oj800/reviews/ChZDSUhNMG9nS0VJQ0FnTURJdGVPaFpREAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        All you can eat sushi for an amazing price and the selection is vast!
+        Most places exclude special rolls or you have to pay extra for them. Not
+        this place! Every roll is amazing and we keep coming back for more. The
+        bad reviews are from stingy Utah County folks who don't know good sushi
+        at a great price.
+      languageCode: en
+    originalText:
+      text: >-
+        All you can eat sushi for an amazing price and the selection is vast!
+        Most places exclude special rolls or you have to pay extra for them. Not
+        this place! Every roll is amazing and we keep coming back for more. The
+        bad reviews are from stingy Utah County folks who don't know good sushi
+        at a great price.
+      languageCode: en
+    authorAttribution:
+      displayName: Justin Jenkins
+      uri: https://www.google.com/maps/contrib/114241780610215030737/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWsPmFRUPC1AsDKLIdeQhqKvYZl-96810LtzVlH5MK1S27oHsGk=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-12T00:01:29.356116Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJdGVPaFpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJdGVPaFpREAE!2m1!1s0x875262f05e7df49f:0x4df323ea8399d2c3
+  - name: >-
+      places/ChIJn_R9XvBiUocRw9KZg-oj800/reviews/ChZDSUhNMG9nS0VJQ0FnSUNybWVHUkl3EAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        We went a little after 5 tonight. We were the only table the entire
+        time. There was a carry out order. The gentlemen was a regular as he
+        knew the staff and stopped by our table to recommend the miso soup to
+        us. (And we’re glad he did!)
+
+
+        We had several rolls and all of them were very good. Our least favorite
+        was the Alaska roll, it was kinda bland to us. We love the Vegas roll!
+        Other rolls we enjoyed were the Utah Mountain, Sunset, Hurricane and
+        Crystal Crunch.
+
+
+        The restaurant is a little antiquated as far as decor goes and someone
+        needs to take a swiffer duster around. The sushi bar and tables were
+        clean. The bathrooms need a bit of cleaning, but they weren’t the worst
+        I’ve been in.
+
+
+        The service was impeccable! The staff were very friendly, knowledgeable
+        and accommodating. We really enjoyed the server.
+
+
+        We will definitely be back to this little gem tucked in a strip mall off
+        Ft Union.
+      languageCode: en
+    originalText:
+      text: >-
+        We went a little after 5 tonight. We were the only table the entire
+        time. There was a carry out order. The gentlemen was a regular as he
+        knew the staff and stopped by our table to recommend the miso soup to
+        us. (And we’re glad he did!)
+
+
+        We had several rolls and all of them were very good. Our least favorite
+        was the Alaska roll, it was kinda bland to us. We love the Vegas roll!
+        Other rolls we enjoyed were the Utah Mountain, Sunset, Hurricane and
+        Crystal Crunch.
+
+
+        The restaurant is a little antiquated as far as decor goes and someone
+        needs to take a swiffer duster around. The sushi bar and tables were
+        clean. The bathrooms need a bit of cleaning, but they weren’t the worst
+        I’ve been in.
+
+
+        The service was impeccable! The staff were very friendly, knowledgeable
+        and accommodating. We really enjoyed the server.
+
+
+        We will definitely be back to this little gem tucked in a strip mall off
+        Ft Union.
+      languageCode: en
+    authorAttribution:
+      displayName: Peter Bell
+      uri: https://www.google.com/maps/contrib/114645956400391613269/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJjsMluPD7916mXUhvqJprrt27aplWsVmVvSsZAE15mdqX0Xjw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-09T00:54:41.479905Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNybWVHUkl3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNybWVHUkl3EAE!2m1!1s0x875262f05e7df49f:0x4df323ea8399d2c3
+  - name: >-
+      places/ChIJn_R9XvBiUocRw9KZg-oj800/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4aHFDTmJnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Prices are great, staff is very efficient and friendly. All the sushi
+        rolls we ordered were awesome. I used to go to simply sushi, and a
+        favorite of mine was the spicy upside down shrimp and was very sad to
+        see they only had upside down shrimp. So, just a shrimp with rice on
+        top. Still ordered the upside down shrimp and was surprised. It's
+        amazing and I would recommend anyone coming here to try them, they are
+        topped with some ingredients and it does have a bit of spice to it!
+        Super delicious! First time I went with my family, the waiter made some
+        kid friendly chop sticks for our son. Great atmosphere, very clean and
+        maintained with phenomenal staff.
+      languageCode: en
+    originalText:
+      text: >-
+        Prices are great, staff is very efficient and friendly. All the sushi
+        rolls we ordered were awesome. I used to go to simply sushi, and a
+        favorite of mine was the spicy upside down shrimp and was very sad to
+        see they only had upside down shrimp. So, just a shrimp with rice on
+        top. Still ordered the upside down shrimp and was surprised. It's
+        amazing and I would recommend anyone coming here to try them, they are
+        topped with some ingredients and it does have a bit of spice to it!
+        Super delicious! First time I went with my family, the waiter made some
+        kid friendly chop sticks for our son. Great atmosphere, very clean and
+        maintained with phenomenal staff.
+      languageCode: en
+    authorAttribution:
+      displayName: Teo Sorensen
+      uri: https://www.google.com/maps/contrib/100602354540588139407/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU7AFJ9Cu0jYwXph1OB0thOj3mfVa3Gw4Z-1fGj47BfLcasG8Y=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-06-06T21:27:30.470696Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4aHFDTmJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4aHFDTmJnEAE!2m1!1s0x875262f05e7df49f:0x4df323ea8399d2c3
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Folks rave about the
+  all-you-can-eat deals at this spot, highlighting the fantastic variety of
+  rolls that keep things exciting and affordable without skimping on freshness.
+  Many appreciate how the menu goes beyond basics, with creative options that
+  deliver bold flavors and satisfying portions, making it a go-to for sushi
+  lovers in the area. Service stands out as friendly and attentive, with staff
+  often helping guide choices for a more enjoyable visit, though some note the
+  decor feels a bit dated but doesn't detract from the overall fun. Diners
+  frequently mention it as a hidden gem for groups or families, praising the
+  great value that makes it worth returning for more tasty adventures. Overall,
+  it's clear this place hits the mark for those hunting for reliable, delicious
+  sushi experiences close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
 serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Neighborhood restaurant dispensing sushi & other Japanese staples plus booze
+  in a modest setting.
 
 ---

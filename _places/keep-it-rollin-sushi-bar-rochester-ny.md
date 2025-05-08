@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Keep it Rollin' Sushi Bar"
+title: Keep it Rollin' Sushi Bar
 permalink: /new-york/rochester/keep-it-rollin-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
 seo:
-  name: "Keep it Rollin' Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.keepitrollinsushibar.com/
-description: "Keep it Rollin' Sushi Bar serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ14ibI0O11okRjTFWH9XLUDw
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.7'
 rating_count: 0
 website: http://www.keepitrollinsushibar.com/
+description: >-
+  Discover Keep it Rollin' Sushi Bar in Rochester, New York$$$Keep it Rollin'
+  Sushi Bar in Rochester, New York, stands out as a laid-back destination for
+  fresh sushi enthusiasts, nestled in a vibrant neighborhood that adds to its
+  appeal. This spot offers a welcoming atmosphere with a focus on quality rolls
+  and creative dishes, complemented by selections of beer and wine for a relaxed
+  dining experience. Accessibility features like wheelchair-friendly entrances
+  and seating make it easy for everyone to enjoy, enhancing its reputation as a
+  go-to sushi restaurant in the area. Whether you're seeking a quick meal or a
+  casual outing, the menu highlights innovative flavors and options that cater
+  to various tastes, making it a solid choice for those exploring top-rated
+  sushi places nearby.
+generative_summary: >-
+  Discover Keep it Rollin' Sushi Bar in Rochester, New York$$$Keep it Rollin'
+  Sushi Bar in Rochester, New York, stands out as a laid-back destination for
+  fresh sushi enthusiasts, nestled in a vibrant neighborhood that adds to its
+  appeal. This spot offers a welcoming atmosphere with a focus on quality rolls
+  and creative dishes, complemented by selections of beer and wine for a relaxed
+  dining experience. Accessibility features like wheelchair-friendly entrances
+  and seating make it easy for everyone to enjoy, enhancing its reputation as a
+  go-to sushi restaurant in the area. Whether you're seeking a quick meal or a
+  casual outing, the menu highlights innovative flavors and options that cater
+  to various tastes, making it a solid choice for those exploring top-rated
+  sushi places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ14ibI0O11okRjTFWH9XLUDw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbFlPU2Z3EAE
@@ -428,6 +451,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3X3FuVE9BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3X3FuVE9BEAE!2m1!1s0x89d6b543239b88d7:0x3c50cbd51f56318d
+review_summary: >-
+  What Visitors Love About This Sushi Spot$$$Visitors often rave about the wide
+  array of delicious rolls and creative dishes at this sushi restaurant, with
+  many highlighting the fresh ingredients and standout options like flavorful
+  bowls that keep things exciting. Folks appreciate the friendly and efficient
+  service that makes every visit feel welcoming and hassle-free, turning it into
+  a favorite for both lunch and dinner crowds. The cozy atmosphere gets plenty
+  of nods for being inviting and comfortable, perfect for groups or solo diners
+  looking for a relaxed vibe. Overall, it's praised as a reliable pick for
+  anyone hunting for great sushi experiences, including those with different
+  dietary preferences, making it a go-to option that delivers on taste and
+  variety without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -457,7 +493,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

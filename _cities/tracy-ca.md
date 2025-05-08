@@ -5,4 +5,5 @@ permalink: /california/tracy/
 stateAbbr: CA
 stateName: California
 cityName: Tracy
+
 ---

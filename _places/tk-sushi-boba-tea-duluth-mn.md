@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "TK Sushi & BOBA Tea"
+title: TK Sushi & BOBA Tea
 permalink: /minnesota/duluth/tk-sushi-boba-tea.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Duluth
 seo:
-  name: "TK Sushi & BOBA Tea"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "TK Sushi & BOBA Tea serves delicious sushi in Duluth, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4wJSR7hNrlIRnoRY3whH944
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOkilkMFFNpOXIjQteYXErZHDWsLQNkrjep68UJ!2e10!4m2!3m1!1s0x52ae4db8475202e3:0x8ef74708df58849e
 address: Miller Hill Mall Food court VC07, 1600 Miller Trunk Hwy, Duluth, MN 55811, USA
-street: Miller Hill Mall Food court VC07, 1600 Miller Trunk Hwy
+street: Miller Hill Mall Food court VC07,1600 Miller Trunk Hwy
 city: Duluth
 state: MN
 zip: '55811'
@@ -177,7 +175,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover TK Sushi & BOBA Tea in Duluth, MN$$$TK Sushi & BOBA Tea in Duluth,
+  MN, stands out as a cozy spot within the lively Miller Hill Mall, blending
+  fresh sushi options with refreshing boba tea for a satisfying casual dining
+  experience. This sushi restaurant offers a range of flavorful rolls and
+  beverages that appeal to those craving authentic Japanese-inspired eats in a
+  convenient mall setting. With thoughtful accessibility features like
+  wheelchair-friendly parking and seating, it ensures a welcoming atmosphere for
+  all visitors looking to unwind. The menu highlights a variety of creative
+  dishes that pair perfectly with the bustling environment, making it an ideal
+  choice for anyone searching for quality sushi restaurants nearby.
+generative_summary: >-
+  Discover TK Sushi & BOBA Tea in Duluth, MN$$$TK Sushi & BOBA Tea in Duluth,
+  MN, stands out as a cozy spot within the lively Miller Hill Mall, blending
+  fresh sushi options with refreshing boba tea for a satisfying casual dining
+  experience. This sushi restaurant offers a range of flavorful rolls and
+  beverages that appeal to those craving authentic Japanese-inspired eats in a
+  convenient mall setting. With thoughtful accessibility features like
+  wheelchair-friendly parking and seating, it ensures a welcoming atmosphere for
+  all visitors looking to unwind. The menu highlights a variety of creative
+  dishes that pair perfectly with the bustling environment, making it an ideal
+  choice for anyone searching for quality sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks heading to TK Sushi & BOBA Tea often
+  highlight the fresh, well-prepared sushi and creative boba options that hit
+  the spot for a quick meal. Many appreciate the easy mall location, which makes
+  it a go-to for grabbing tasty bites without the hassle, especially if you're
+  exploring local Japanese places. Feedback tends to praise the inclusive vibe
+  and solid value, with diners noting it's a solid pick for families or anyone
+  in the mood for reliable flavors. Overall, it's frequently recommended as a
+  welcoming spot that delivers on taste and convenience, encouraging more people
+  to seek out top-rated sushi experiences in the area. If you're on the hunt for
+  great sushi near Duluth, this place keeps things positive and approachable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +237,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

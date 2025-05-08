@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asian Vibes"
+title: Asian Vibes
 permalink: /california/kings-beach/asian-vibes.html
 stateAbbr: CA
 stateName: California
 cityName: Kings Beach
 seo:
-  name: "Asian Vibes"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Asian Vibes serves delicious sushi in Kings Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwayOXQB7mYARovi8rWNBClQ
 photos:
   - name: >-
@@ -184,7 +182,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Asian Vibes in Kings Beach, CA$$$Asian Vibes in Kings Beach, CA,
+  stands out as a welcoming spot for those seeking flavorful Asian cuisine in a
+  relaxed setting. This casual eatery specializes in a variety of dishes that
+  highlight fresh ingredients and authentic flavors, including delectable sushi
+  rolls, vibrant poke bowls, and savory teriyaki options. The restaurant's
+  accessible features, such as wheelchair-friendly parking and entrances, make
+  it an inclusive choice for diners looking to enjoy a laid-back meal. With its
+  focus on quality Asian eats, it's an ideal stop for anyone exploring local
+  dining options near the lake, offering a blend of simplicity and taste that
+  appeals to sushi enthusiasts.
+generative_summary: >-
+  Discover Asian Vibes in Kings Beach, CA$$$Asian Vibes in Kings Beach, CA,
+  stands out as a welcoming spot for those seeking flavorful Asian cuisine in a
+  relaxed setting. This casual eatery specializes in a variety of dishes that
+  highlight fresh ingredients and authentic flavors, including delectable sushi
+  rolls, vibrant poke bowls, and savory teriyaki options. The restaurant's
+  accessible features, such as wheelchair-friendly parking and entrances, make
+  it an inclusive choice for diners looking to enjoy a laid-back meal. With its
+  focus on quality Asian eats, it's an ideal stop for anyone exploring local
+  dining options near the lake, offering a blend of simplicity and taste that
+  appeals to sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about spots like this casual
+  Asian eatery, the food hits the mark with fresh, well-prepared sushi and other
+  favorites that keep things satisfying and fun. Many appreciate the
+  straightforward vibe and how it caters to a range of tastes, making it a solid
+  pick for groups or solo diners wanting something reliable. While experiences
+  can vary, folks often highlight the welcoming atmosphere and tasty bites as
+  reasons to return, painting it as a go-to for enjoyable meals without any
+  fuss. Overall, it seems like a hidden gem for those hunting for quality local
+  options, with positive vibes around the freshness and variety that make it
+  worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

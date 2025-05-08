@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Thai House II"
+title: Thai House II
 permalink: /florida/north-miami-beach/thai-house-ii.html
 stateAbbr: FL
 stateName: Florida
 cityName: North Miami Beach
 seo:
-  name: "Thai House II"
-  type: Restaurant
+  type: restaurant
   links: https://www.thaihouse2.com/
-description: "Enduring option for Thai cuisine & sushi served in a dining room filled with curios from Asia. Thai House II serves delicious sushi in North Miami Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJf9xDR7ut2YgRPI88Qt35yXU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.thaihouse2.com/
+description: >-
+  Experience Thai House II in North Miami Beach, FL$$$Thai House II in North
+  Miami Beach, FL, is a welcoming spot known for its blend of authentic Thai
+  flavors and fresh sushi options, set in a cozy atmosphere filled with
+  Asian-inspired decor. The menu highlights flavorful dishes that capture the
+  essence of traditional cuisine, including satisfying noodle options and
+  expertly prepared seafood, making it a great choice for those seeking diverse
+  Asian tastes. Visitors appreciate the inviting vibe that feels like a cultural
+  escape, enhanced by thoughtful accessibility features like wheelchair-friendly
+  entrances and seating. This local favorite also offers moderate pricing and a
+  variety of beverages, ideal for casual meals or group outings, positioning it
+  as a go-to destination for sushi restaurants near me looking for quality and
+  variety.
+generative_summary: >-
+  Experience Thai House II in North Miami Beach, FL$$$Thai House II in North
+  Miami Beach, FL, is a welcoming spot known for its blend of authentic Thai
+  flavors and fresh sushi options, set in a cozy atmosphere filled with
+  Asian-inspired decor. The menu highlights flavorful dishes that capture the
+  essence of traditional cuisine, including satisfying noodle options and
+  expertly prepared seafood, making it a great choice for those seeking diverse
+  Asian tastes. Visitors appreciate the inviting vibe that feels like a cultural
+  escape, enhanced by thoughtful accessibility features like wheelchair-friendly
+  entrances and seating. This local favorite also offers moderate pricing and a
+  variety of beverages, ideal for casual meals or group outings, positioning it
+  as a go-to destination for sushi restaurants near me looking for quality and
+  variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJf9xDR7ut2YgRPI88Qt35yXU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmOXYtbnBnRRAB
@@ -360,6 +385,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRM016dVdnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRM016dVdnEAE!2m1!1s0x88d9adbb4743dc7f:0x75c9f9dd423c8f3c
+review_summary: >-
+  Insights from Visitor Feedback$$$Folks generally rave about the tasty Thai
+  dishes and sushi at this spot, with many highlighting the bold flavors and
+  welcoming atmosphere that make dining out feel special. While most enjoy the
+  reliable service and inviting setup that encourages repeat visits, a few
+  mentions of occasional inconsistencies remind us that even great places can
+  have off days. Overall, the positive vibes shine through, as people appreciate
+  the accessibility and family-friendly vibe that keeps the energy upbeat. If
+  you're hunting for top-rated sushi close to you, this location comes highly
+  recommended for its solid offerings and enjoyable experience, though it's
+  smart to choose based on your preferences for a smooth visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -392,8 +429,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Enduring option for Thai cuisine & sushi served in a dining room filled with
   curios from Asia.
 

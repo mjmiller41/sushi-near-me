@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "RED"
+title: RED
 permalink: /wisconsin/madison/red.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Madison
 seo:
-  name: "RED"
-  type: Restaurant
-  links: null
-description: "RED serves delicious sushi in Madison, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.red-madison.com/
 place_id: ChIJF7BcvT9TBogRGZBK76Eida0
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8806533fbd5cb017:0xad7522a1ef4a9019!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:30 – 9:00 PM'
+    - 'Tuesday: 4:30 – 9:00 PM'
+    - 'Wednesday: 4:30 – 9:00 PM'
+    - 'Thursday: 4:30 – 9:00 PM'
+    - 'Friday: 4:30 – 10:00 PM'
+    - 'Saturday: 4:30 – 10:00 PM'
+    - 'Sunday: 4:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (608) 294-1234
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $50 &ndash; $100
+rating: '4.7'
+rating_count: 1976
+website: http://www.red-madison.com/
+description: >-
+  Discover RED in Madison, WI$$$RED in Madison, WI, is a contemporary Japanese
+  eatery that delights with fresh sushi and innovative dishes, making it a
+  standout option for those seeking quality dining experiences. The menu
+  features a creative mix of traditional rolls and modern cuisine, complemented
+  by an impressive selection of craft cocktails that elevate every meal. With
+  its focus on accessibility and welcoming vibe, this spot caters to a variety
+  of preferences, ideal for anyone exploring sushi restaurants in the area.
+  Whether you're in the mood for something light and flavorful or a more
+  adventurous bite, the emphasis on high-quality ingredients ensures a memorable
+  visit. It's a go-to choice for locals and visitors alike looking for top sushi
+  options nearby.
+generative_summary: >-
+  Discover RED in Madison, WI$$$RED in Madison, WI, is a contemporary Japanese
+  eatery that delights with fresh sushi and innovative dishes, making it a
+  standout option for those seeking quality dining experiences. The menu
+  features a creative mix of traditional rolls and modern cuisine, complemented
+  by an impressive selection of craft cocktails that elevate every meal. With
+  its focus on accessibility and welcoming vibe, this spot caters to a variety
+  of preferences, ideal for anyone exploring sushi restaurants in the area.
+  Whether you're in the mood for something light and flavorful or a more
+  adventurous bite, the emphasis on high-quality ingredients ensures a memorable
+  visit. It's a go-to choice for locals and visitors alike looking for top sushi
+  options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$If you're hunting for the best sushi near you,
+  folks often highlight the tasty and inventive rolls at this Madison eatery,
+  paired with a solid lineup of drinks that keep things fun and fresh. Many
+  appreciate the helpful service that makes dining out feel effortless and
+  enjoyable, adding to the overall charm of the place. The laid-back yet
+  welcoming setting gets plenty of nods for creating a comfortable environment,
+  perfect for casual meetups or special evenings. Overall, it's praised as a
+  reliable spot for satisfying meals that balance creativity with classic
+  flavors, making it worth a try for sushi lovers. While opinions vary, the
+  general buzz leans positive, encouraging an honest exploration of what this
+  local favorite has to offer.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

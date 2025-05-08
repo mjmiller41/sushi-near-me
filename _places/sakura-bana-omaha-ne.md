@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Bana"
+title: Sakura Bana
 permalink: /nebraska/omaha/sakura-bana.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
 seo:
-  name: "Sakura Bana"
-  type: Restaurant
+  type: restaurant
   links: https://sushiomaha.com/
-description: "Local haunt since 1986 serving sushi & classic Japanese dishes in a serene, blond-wood space. Sakura Bana serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJR2O7MwqNk4cR6kD2puCB1xQ
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://sushiomaha.com/
+description: >-
+  Discover Sakura Bana in Omaha, NE$$$Sakura Bana in Omaha, NE, stands as a
+  cherished spot for Japanese dining, blending tradition with a welcoming
+  atmosphere that has drawn locals since the 1980s. This eatery boasts a
+  comprehensive menu featuring fresh sushi, udon, and other classic Japanese
+  dishes, all served in a serene, casual setting with blond-wood accents that
+  evoke a sense of tranquility. Accessibility features like wheelchair-friendly
+  parking and seating make it an inclusive choice for everyone seeking Japanese
+  places near me. Patrons can enjoy moderately priced options ranging from $10
+  to $20, with highlights including flavorful entrees and a cozy environment
+  perfect for a relaxed meal. Whether you're exploring top-rated sushi
+  restaurants or simply craving authentic Japanese fare, Sakura Bana offers a
+  reliable spot for satisfying your culinary curiosities.
+generative_summary: >-
+  Discover Sakura Bana in Omaha, NE$$$Sakura Bana in Omaha, NE, stands as a
+  cherished spot for Japanese dining, blending tradition with a welcoming
+  atmosphere that has drawn locals since the 1980s. This eatery boasts a
+  comprehensive menu featuring fresh sushi, udon, and other classic Japanese
+  dishes, all served in a serene, casual setting with blond-wood accents that
+  evoke a sense of tranquility. Accessibility features like wheelchair-friendly
+  parking and seating make it an inclusive choice for everyone seeking Japanese
+  places near me. Patrons can enjoy moderately priced options ranging from $10
+  to $20, with highlights including flavorful entrees and a cozy environment
+  perfect for a relaxed meal. Whether you're exploring top-rated sushi
+  restaurants or simply craving authentic Japanese fare, Sakura Bana offers a
+  reliable spot for satisfying your culinary curiosities.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJR2O7MwqNk4cR6kD2puCB1xQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURQeGNmMEp3EAE
@@ -370,6 +395,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEeVAySlRnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEeVAySlRnEAE!2m1!1s0x87938d0a33bb6347:0x14d781e0a6f640ea
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to Sakura Bana often rave about
+  the wide array of delicious Japanese dishes, with many highlighting the tasty
+  sushi and comforting starters like agedashi tofu that make it a go-to for
+  sushi lovers in the area. While some folks mention occasional inconsistencies
+  in quality, like drier options on certain visits, the overall experience
+  shines through with friendly service and a clean, inviting space that
+  encourages repeat trips. Folks appreciate the generous portions in lunch
+  combos and the quiet traditional vibe, making it a solid pick for casual
+  get-togethers or solo sushi near me adventures. Despite a few notes on changes
+  in the menu, the general consensus leans positive, praising the value and
+  variety that keep it among the best sushi restaurants around. If you're on the
+  hunt for Japanese places near me with a mix of hits and the occasional miss,
+  this spot delivers an honest, enjoyable dining experience worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -402,8 +442,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Local haunt since 1986 serving sushi & classic Japanese dishes in a serene,
   blond-wood space.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "FUSIAN"
+title: FUSIAN
 permalink: /ohio/cincinnati/fusian.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "FUSIAN"
-  type: Restaurant
-  links: null
-description: "FUSIAN serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.fusian.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ
 place_id: ChIJ8-OUekFTQIgRw3bt98wNS9c
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x884053417a94e3f3:0xd74b0dccf7ed76c3!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 45
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 45
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 45
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 45
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 45
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 45
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 45
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:45 AM – 10:00 PM'
+    - 'Tuesday: 10:45 AM – 10:00 PM'
+    - 'Wednesday: 10:45 AM – 10:00 PM'
+    - 'Thursday: 10:45 AM – 10:00 PM'
+    - 'Friday: 10:45 AM – 10:00 PM'
+    - 'Saturday: 10:45 AM – 10:00 PM'
+    - 'Sunday: 10:45 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (513) 745-9398
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 660
+website: https://www.fusian.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ
+description: >-
+  Discover FUSIAN in Cincinnati, OH$$$FUSIAN in Cincinnati, OH, stands out as a
+  vibrant counter-serve spot where diners can craft their own fresh sushi rolls
+  and poke bowls using an array of high-quality ingredients. This Asian-inspired
+  eatery emphasizes customization, allowing patrons to mix and match flavors for
+  a personalized dining experience that highlights healthy, build-your-own
+  options. With its accessible entrance and seating, it's a welcoming choice for
+  everyone seeking convenient Japanese-style cuisine in a casual setting. The
+  restaurant's extended hours make it easy to drop in for a quick meal, whether
+  you're grabbing lunch or dinner, adding to its appeal for those exploring top
+  sushi options nearby.
+generative_summary: >-
+  Discover FUSIAN in Cincinnati, OH$$$FUSIAN in Cincinnati, OH, stands out as a
+  vibrant counter-serve spot where diners can craft their own fresh sushi rolls
+  and poke bowls using an array of high-quality ingredients. This Asian-inspired
+  eatery emphasizes customization, allowing patrons to mix and match flavors for
+  a personalized dining experience that highlights healthy, build-your-own
+  options. With its accessible entrance and seating, it's a welcoming choice for
+  everyone seeking convenient Japanese-style cuisine in a casual setting. The
+  restaurant's extended hours make it easy to drop in for a quick meal, whether
+  you're grabbing lunch or dinner, adding to its appeal for those exploring top
+  sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the fresh
+  ingredients and fun customization process, making it a go-to for anyone
+  craving a satisfying meal. Many appreciate the generous portions and variety
+  of choices that keep things exciting without overwhelming the palate. Feedback
+  highlights the overall value for the price, with folks noting it's a solid
+  pick for casual outings or quick bites. While some mention minor waits during
+  peak times, the positive vibes around the taste and service keep the energy
+  upbeat, encouraging repeat visits for those hunting for reliable sushi
+  experiences. Overall, it's clear this place delivers on flavor and fun,
+  earning its spot among favored local eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Duck Sushi"
+title: Duck Sushi
 permalink: /oregon/eugene/duck-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Eugene
 seo:
-  name: "Duck Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.ducksushieugeneor.com/
-description: "Duck Sushi serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzUUawT4ewVQRZQ1-lzqQ1EU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54c11e3ec11a45cd:0x45d4903a977e0d65!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 11:00 PM'
     - 'Tuesday: 11:30 AM – 11:00 PM'
     - 'Wednesday: 11:30 AM – 11:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 11:30 AM – 11:00 PM'
     - 'Sunday: 11:30 AM – 11:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 11:00 PM'
-    - 'Tuesday: 11:30 AM – 11:00 PM'
-    - 'Wednesday: 11:30 AM – 11:00 PM'
-    - 'Thursday: 11:30 AM – 11:00 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 11:30 AM – 11:00 PM'
-    - 'Sunday: 11:30 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,244 @@ phone: (541) 654-4122
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.0'
-rating_count: 0
+rating_count: 327
 website: https://www.ducksushieugeneor.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Duck Sushi in Eugene, OR$$$Duck Sushi in Eugene, OR, stands out as a
+  welcoming spot for those craving fresh sushi and Asian-inspired flavors in a
+  relaxed setting. This eatery delights with its array of handcrafted rolls,
+  poke bowls, and boba drinks, making it a go-to choice for casual dining that
+  blends Korean influences with Japanese classics. The menu highlights
+  affordable options like bento boxes and hearty ramen, paired with thoughtful
+  touches such as wheelchair-accessible features and outdoor seating for added
+  convenience. Open late into the evening, it's an ideal stop for anyone
+  exploring sushi restaurants in the area, offering a cozy atmosphere that
+  encourages savoring every bite. With its focus on flavorful, budget-friendly
+  meals, this spot captures the essence of easygoing Eugene dining that keeps
+  locals and visitors coming back.
+generative_summary: >-
+  Discover Duck Sushi in Eugene, OR$$$Duck Sushi in Eugene, OR, stands out as a
+  welcoming spot for those craving fresh sushi and Asian-inspired flavors in a
+  relaxed setting. This eatery delights with its array of handcrafted rolls,
+  poke bowls, and boba drinks, making it a go-to choice for casual dining that
+  blends Korean influences with Japanese classics. The menu highlights
+  affordable options like bento boxes and hearty ramen, paired with thoughtful
+  touches such as wheelchair-accessible features and outdoor seating for added
+  convenience. Open late into the evening, it's an ideal stop for anyone
+  exploring sushi restaurants in the area, offering a cozy atmosphere that
+  encourages savoring every bite. With its focus on flavorful, budget-friendly
+  meals, this spot captures the essence of easygoing Eugene dining that keeps
+  locals and visitors coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJzUUawT4ewVQRZQ1-lzqQ1EU/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3eVlUTzFRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We were thoroughly impressed by everything we got! We got a spicy salmon
+        roll, I swear it was the best I’ve ever had. The katsu was crisped to
+        perfection and had the sauce drizzled over top. I don’t normally like
+        miso, but again, Duck Sushi got it right. We will definitely be back!! I
+        want to try their yakisoba and quite a few other dishes, and it’s the
+        only place I’ve found so far that has watermelon flavor for boba!! My
+        favorite!! 🤤 We were so happy they were open late. My only issue was it
+        was a little bright inside for my liking, but we still sat and ate our
+        dinner and enjoyed it! They gained 2 new customers!
+      languageCode: en
+    originalText:
+      text: >-
+        We were thoroughly impressed by everything we got! We got a spicy salmon
+        roll, I swear it was the best I’ve ever had. The katsu was crisped to
+        perfection and had the sauce drizzled over top. I don’t normally like
+        miso, but again, Duck Sushi got it right. We will definitely be back!! I
+        want to try their yakisoba and quite a few other dishes, and it’s the
+        only place I’ve found so far that has watermelon flavor for boba!! My
+        favorite!! 🤤 We were so happy they were open late. My only issue was it
+        was a little bright inside for my liking, but we still sat and ate our
+        dinner and enjoyed it! They gained 2 new customers!
+      languageCode: en
+    authorAttribution:
+      displayName: Sandra
+      uri: https://www.google.com/maps/contrib/101762368304647153418/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXUKd60-SFo-uBD7IBojrZxJLnR8zUwRkvrIndcIfk4iY-aj_ZuHg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-19T16:47:43.692238Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3eVlUTzFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3eVlUTzFRRRAB!2m1!1s0x54c11e3ec11a45cd:0x45d4903a977e0d65
+  - name: >-
+      places/ChIJzUUawT4ewVQRZQ1-lzqQ1EU/reviews/ChZDSUhNMG9nS0VJQ0FnSURuM01UWERREAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Great teriyaki tofu and sushi. I live for the boba tea, Taro flavor in
+        particular. Highly recommend the teriyaki tofu bento box. Reasonable
+        prices 👍
+      languageCode: en
+    originalText:
+      text: >-
+        Great teriyaki tofu and sushi. I live for the boba tea, Taro flavor in
+        particular. Highly recommend the teriyaki tofu bento box. Reasonable
+        prices 👍
+      languageCode: en
+    authorAttribution:
+      displayName: Audrey H
+      uri: https://www.google.com/maps/contrib/104621053617698353445/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLgjNd4C99bbLEaJKdWkCTGg3B5hYiKhHvxqGnlXiNYSlDRPA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-04T04:27:49.392808Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuM01UWERREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuM01UWERREAE!2m1!1s0x54c11e3ec11a45cd:0x45d4903a977e0d65
+  - name: >-
+      places/ChIJzUUawT4ewVQRZQ1-lzqQ1EU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNadS11VTRBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Always a nice person at the register. Good food and really cheap for
+        what you get. All extra things/modifications have been granted for me so
+        far.
+
+
+        Also a cozy little space that's at a very good temperature.
+      languageCode: en
+    originalText:
+      text: >-
+        Always a nice person at the register. Good food and really cheap for
+        what you get. All extra things/modifications have been granted for me so
+        far.
+
+
+        Also a cozy little space that's at a very good temperature.
+      languageCode: en
+    authorAttribution:
+      displayName: Ewan Crain
+      uri: https://www.google.com/maps/contrib/102498509701681173793/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUmix6PSjuXNQS3GzsxJL_CDG1tN58Es9vuI3OWRmMbxVzWykip=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-09-19T03:43:25.714402Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNadS11VTRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNadS11VTRBRRAB!2m1!1s0x54c11e3ec11a45cd:0x45d4903a977e0d65
+  - name: >-
+      places/ChIJzUUawT4ewVQRZQ1-lzqQ1EU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzcjg3VXRnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 2
+    text:
+      text: >-
+        Decent sushi and edamame when you can get it. I find their hours
+        mind-boggling, especially for the place they occupy in a university
+        town, but they’re convenient to my workplace. I went there for lunch
+        today and the place is dead at 1pm. No one behind the counter but I hear
+        some music in the back. Called out “hello, anyone here?” FOUR TIMES and
+        still no one came out. Had to go elsewhere for lunch, and since I only
+        had 30 minutes, this was very aggravating. I’m done with them.
+      languageCode: en
+    originalText:
+      text: >-
+        Decent sushi and edamame when you can get it. I find their hours
+        mind-boggling, especially for the place they occupy in a university
+        town, but they’re convenient to my workplace. I went there for lunch
+        today and the place is dead at 1pm. No one behind the counter but I hear
+        some music in the back. Called out “hello, anyone here?” FOUR TIMES and
+        still no one came out. Had to go elsewhere for lunch, and since I only
+        had 30 minutes, this was very aggravating. I’m done with them.
+      languageCode: en
+    authorAttribution:
+      displayName: Morgan Garvin
+      uri: https://www.google.com/maps/contrib/108639392556096241590/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJLx1TE20lLbHzdeBMq5amfq3gsliib-wff_DRZCMK3su6_qg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-20T07:05:25.861082Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzcjg3VXRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzcjg3VXRnRRAB!2m1!1s0x54c11e3ec11a45cd:0x45d4903a977e0d65
+  - name: >-
+      places/ChIJzUUawT4ewVQRZQ1-lzqQ1EU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtdHNEaDFnRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 4
+    text:
+      text: >-
+        Shrimp Fried Rice Is Pretty Good, Shrimp Yakisoba, In My Personal
+        Opinion, Pairs Very Well With The Fried Rice, As Soon As You Walk In, It
+        Smells Amazing, I Love That They Show What The Dish Looks Like, Great
+        Prices, Even With A Few Orders Ahead Of Me, My Order Got Done Fairly
+        Quick, Flavorful Bites, Full Boxes, Fast & Friendly Service, Will Be
+        Coming Back.
+      languageCode: en
+    originalText:
+      text: >-
+        Shrimp Fried Rice Is Pretty Good, Shrimp Yakisoba, In My Personal
+        Opinion, Pairs Very Well With The Fried Rice, As Soon As You Walk In, It
+        Smells Amazing, I Love That They Show What The Dish Looks Like, Great
+        Prices, Even With A Few Orders Ahead Of Me, My Order Got Done Fairly
+        Quick, Flavorful Bites, Full Boxes, Fast & Friendly Service, Will Be
+        Coming Back.
+      languageCode: en
+    authorAttribution:
+      displayName: Jena Caballero
+      uri: https://www.google.com/maps/contrib/113236838028700819023/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVTIz2O7flPGNGGuOQikLHUR-WrGy2A6yAC9YjHyBAVqEw_2uqDsg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2021-12-28T03:10:40.783914Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNtdHNEaDFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNtdHNEaDFnRRAB!2m1!1s0x54c11e3ec11a45cd:0x45d4903a977e0d65
+review_summary: >-
+  Insights from Customer Feedback$$$From what folks are sharing online, Duck
+  Sushi seems to hit the mark with its tasty sushi rolls and creative boba
+  options, often praised for their fresh flavors and solid value that make it a
+  favorite for quick meals. Many highlight the generous portions and welcoming
+  vibe, with comments appreciating the cozy space and reliable service that
+  keeps things feeling approachable. While most experiences lean positive, a few
+  mentions point to occasional wait times or service slip-ups during busy hours,
+  but these haven't overshadowed the overall enjoyment. If you're hunting for
+  reliable sushi spots nearby, this place generally delivers on flavorful dishes
+  like teriyaki and poke that satisfy without breaking the bank. All in all,
+  it's a solid pick for anyone in the mood for laid-back eats, with the buzz
+  around it suggesting it's worth a try for its consistently enjoyable vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: Restaurant serving sushi plus ramen, poke & bento boxes.
 
 ---

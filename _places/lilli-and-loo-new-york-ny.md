@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Lilli and Loo"
+title: Lilli and Loo
 permalink: /new-york/new-york/lilli-and-loo.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Lilli and Loo"
-  type: Restaurant
+  type: restaurant
   links: https://lilliandloonyc.com/
-description: "An array of Pan-Asian eats (plus gluten-free options) served in a bi-level setting. Lilli and Loo serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ7bhwa-9YwokRcWqrsCk632M
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://lilliandloonyc.com/
+description: >-
+  Explore Lilli and Loo$$$Lilli and Loo in New York, NY, offers a delightful mix
+  of Pan-Asian flavors, blending Chinese and Japanese influences in a welcoming,
+  relaxed atmosphere. This spot stands out for its diverse menu featuring fresh
+  sushi and other Asian-inspired dishes, all prepared with attention to detail
+  and including gluten-free options for various dietary needs. The bi-level
+  setting provides a comfortable space for enjoying generous portions of
+  flavorful meals, making it a great choice for anyone seeking authentic Asian
+  cuisine in the city. With its moderate pricing and accessibility features like
+  wheelchair-friendly entrances, it's an inviting destination for a casual
+  dining experience. Whether you're looking for top-rated sushi or other
+  Japanese-inspired eats nearby, this restaurant delivers a satisfying blend of
+  taste and convenience.
+generative_summary: >-
+  Explore Lilli and Loo$$$Lilli and Loo in New York, NY, offers a delightful mix
+  of Pan-Asian flavors, blending Chinese and Japanese influences in a welcoming,
+  relaxed atmosphere. This spot stands out for its diverse menu featuring fresh
+  sushi and other Asian-inspired dishes, all prepared with attention to detail
+  and including gluten-free options for various dietary needs. The bi-level
+  setting provides a comfortable space for enjoying generous portions of
+  flavorful meals, making it a great choice for anyone seeking authentic Asian
+  cuisine in the city. With its moderate pricing and accessibility features like
+  wheelchair-friendly entrances, it's an inviting destination for a casual
+  dining experience. Whether you're looking for top-rated sushi or other
+  Japanese-inspired eats nearby, this restaurant delivers a satisfying blend of
+  taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ7bhwa-9YwokRcWqrsCk632M/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3OUtTWVBBEAE
@@ -342,6 +367,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQa0xUMkhBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQa0xUMkhBEAE!2m1!1s0x89c258ef6b70b8ed:0x63df3a29b0ab6a71
+review_summary: >-
+  Customer Feedback Highlights$$$Folks enjoying meals at this Pan-Asian spot
+  often rave about the wide range of gluten-free choices that make dining out
+  feel inclusive and hassle-free. Many appreciate the flavorful dishes like
+  sushi and Chinese favorites, noting the generous portions and solid variety
+  that cater to different tastes without breaking the bank in NYC. While service
+  is generally quick and friendly, a few mentions of occasional waits add a
+  realistic touch, but overall, the experience leaves people coming back for
+  more. It's easy to see why this place gets high marks for its welcoming vibe
+  and tasty options, making it a reliable pick for groups or anyone craving
+  quality Asian food. If you're hunting for the best sushi near you, this spot
+  consistently delivers a positive and enjoyable meal that keeps diners
+  satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -372,8 +411,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   An array of Pan-Asian eats (plus gluten-free options) served in a bi-level
   setting.
 

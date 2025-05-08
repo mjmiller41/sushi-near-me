@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oya Sushi"
+title: Oya Sushi
 permalink: /maryland/marriottsville/oya-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Marriottsville
 seo:
-  name: "Oya Sushi"
-  type: Restaurant
-  links: null
-description: "Oya Sushi serves delicious sushi in Marriottsville, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.instagram.com/oyasushiinc/?igsh=MTYwYzZzbzJubzYxag%3D%3D
 place_id: ChIJjYA1JgAhyIkRQpa_RGgryVQ
 photos:
   - name: >-
@@ -168,8 +166,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c821002635808d:0x54c92b6844bf9642!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +264,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (443) 430-0192
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.9'
+rating_count: 119
+website: https://www.instagram.com/oyasushiinc/?igsh=MTYwYzZzbzJubzYxag%3D%3D
+description: >-
+  Discover Oya Sushi in Marriottsville, MD$$$Oya Sushi in Marriottsville, MD,
+  stands out as a cozy spot in the Waverly Woods Village Center, specializing in
+  fresh seafood options and a relaxing vibe for casual dining. This sushi
+  restaurant offers a welcoming atmosphere with a focus on authentic
+  Japanese-inspired dishes, including a variety of rolls and beverages like beer
+  to enhance your meal. Accessibility features make it convenient for all
+  visitors, while its flexible hours accommodate both quick lunches and evening
+  outings. For those exploring sushi restaurants nearby, the emphasis on quality
+  ingredients and thoughtful ambiance creates an enjoyable experience that's
+  worth seeking out.
+generative_summary: >-
+  Discover Oya Sushi in Marriottsville, MD$$$Oya Sushi in Marriottsville, MD,
+  stands out as a cozy spot in the Waverly Woods Village Center, specializing in
+  fresh seafood options and a relaxing vibe for casual dining. This sushi
+  restaurant offers a welcoming atmosphere with a focus on authentic
+  Japanese-inspired dishes, including a variety of rolls and beverages like beer
+  to enhance your meal. Accessibility features make it convenient for all
+  visitors, while its flexible hours accommodate both quick lunches and evening
+  outings. For those exploring sushi restaurants nearby, the emphasis on quality
+  ingredients and thoughtful ambiance creates an enjoyable experience that's
+  worth seeking out.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Raving About$$$People often highlight the fresh and flavorful
+  sushi selections at this spot, with favorites like creative rolls that bring a
+  burst of taste to every bite. The service comes across as warm and attentive,
+  helping to make meals feel more personal and enjoyable overall. Many
+  appreciate the fair pricing and thoughtful extras, such as complimentary sides
+  that add extra value to the experience. It's frequently praised as a go-to
+  choice for satisfying meals in a laid-back setting, making it a solid option
+  if you're in the mood for reliable Japanese-inspired eats. Overall, the
+  feedback paints a picture of a welcoming place that delivers on both taste and
+  affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +331,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

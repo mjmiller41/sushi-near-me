@@ -5,4 +5,5 @@ permalink: /tennessee/powell/
 stateAbbr: TN
 stateName: Tennessee
 cityName: Powell
+
 ---

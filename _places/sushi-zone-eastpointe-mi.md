@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sushi Zone"
+title: Sushi Zone
 permalink: /michigan/eastpointe/sushi-zone.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Eastpointe
 seo:
-  name: "Sushi Zone"
-  type: Restaurant
-  links: https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=2c526e43-f377-4024-b272-3ad424c9a91e&dine_in=true
-description: "Sushi Zone serves delicious sushi in Eastpointe, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=2c526e43-f377-4024-b272-3ad424c9a91e&dine_in=true
 place_id: ChIJtSTkaqfXJIgR9TdI0qP96NA
 photos:
   - name: >-
@@ -186,6 +185,33 @@ rating: '4.7'
 rating_count: 0
 website: >-
   https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=2c526e43-f377-4024-b272-3ad424c9a91e&dine_in=true
+description: >-
+  Explore Sushi Zone in Eastpointe, MI$$$Sushi Zone in Eastpointe, MI, stands
+  out as a welcoming Japanese restaurant offering a variety of fresh sushi and
+  comforting dishes perfect for casual meals. This spot emphasizes quality
+  ingredients and a relaxed vibe, making it an ideal choice for those seeking
+  sushi restaurants near me with options for dine-in or take-out convenience.
+  Patrons can enjoy a range of creative rolls and traditional favorites, all
+  prepared with attention to flavor and presentation in a moderately priced
+  setting. The restaurant's accessibility features, like wheelchair-friendly
+  entrances and parking, add to its appeal for a broad audience. Whether you're
+  in the mood for top-rated sushi or exploring Japanese places near me, Sushi
+  Zone delivers a satisfying experience that combines simplicity with authentic
+  tastes.
+generative_summary: >-
+  Explore Sushi Zone in Eastpointe, MI$$$Sushi Zone in Eastpointe, MI, stands
+  out as a welcoming Japanese restaurant offering a variety of fresh sushi and
+  comforting dishes perfect for casual meals. This spot emphasizes quality
+  ingredients and a relaxed vibe, making it an ideal choice for those seeking
+  sushi restaurants near me with options for dine-in or take-out convenience.
+  Patrons can enjoy a range of creative rolls and traditional favorites, all
+  prepared with attention to flavor and presentation in a moderately priced
+  setting. The restaurant's accessibility features, like wheelchair-friendly
+  entrances and parking, add to its appeal for a broad audience. Whether you're
+  in the mood for top-rated sushi or exploring Japanese places near me, Sushi
+  Zone delivers a satisfying experience that combines simplicity with authentic
+  tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJtSTkaqfXJIgR9TdI0qP96NA/reviews/ChZDSUhNMG9nS0VJQ0FnSURuNy16Z0VnEAE
@@ -343,6 +369,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMteVAyMWl3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMteVAyMWl3RRAB!2m1!1s0x8824d7a76ae424b5:0xd0e8fda3d24837f5
+review_summary: >-
+  Customer Feedback on Sushi Zone$$$Folks chatting about Sushi Zone often
+  highlight the tasty sushi rolls and appetizers that make it a go-to for anyone
+  craving fresh options in the area. Many appreciate the quick service and
+  friendly atmosphere, noting that popular items like creative rolls and crab
+  dishes really hit the spot without breaking the bank. While there have been
+  occasional mix-ups with orders, the overall consensus leans positive, with
+  diners praising the flavorful variety that keeps them coming back for more.
+  It's clear that this spot earns its high marks for being a reliable choice
+  among sushi places near me, where the emphasis on quality ingredients and
+  welcoming vibes creates a solid dining experience. If you're on the hunt for
+  best sushi near me, this place offers honest value that balances fun flavors
+  with everyday accessibility.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -375,7 +415,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

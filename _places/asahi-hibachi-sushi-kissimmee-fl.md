@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asahi Hibachi & Sushi"
+title: Asahi Hibachi & Sushi
 permalink: /florida/kissimmee/asahi-hibachi-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Kissimmee
 seo:
-  name: "Asahi Hibachi & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.asahi-hibachisushi.com/
-description: "Asahi Hibachi & Sushi serves delicious sushi in Kissimmee, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhX9Pr2qD3YgRl_zDp1MGocU
 photos:
   - name: >-
@@ -199,7 +197,44 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://www.asahi-hibachisushi.com/
+description: >-
+  Discover Asahi Hibachi & Sushi in Kissimmee$$$Asahi Hibachi & Sushi in
+  Kissimmee, Florida, delivers a cozy and inviting atmosphere perfect for
+  enjoying fresh Japanese-inspired dishes that blend traditional flavors with
+  modern appeal. This spot stands out for its thoughtful accessibility features,
+  including wheelchair-friendly parking and entrances, ensuring a comfortable
+  experience for all visitors. With convenient hours from 11 AM to 10 PM on most
+  days, it's an ideal choice for quick lunches or relaxed dinners, catering to
+  those exploring quality sushi options nearby. The menu highlights a variety of
+  well-prepared dishes using fresh ingredients, making it a go-to destination
+  for anyone seeking top-rated sushi restaurants in the area that offer great
+  value and satisfying meals.
+generative_summary: >-
+  Discover Asahi Hibachi & Sushi in Kissimmee$$$Asahi Hibachi & Sushi in
+  Kissimmee, Florida, delivers a cozy and inviting atmosphere perfect for
+  enjoying fresh Japanese-inspired dishes that blend traditional flavors with
+  modern appeal. This spot stands out for its thoughtful accessibility features,
+  including wheelchair-friendly parking and entrances, ensuring a comfortable
+  experience for all visitors. With convenient hours from 11 AM to 10 PM on most
+  days, it's an ideal choice for quick lunches or relaxed dinners, catering to
+  those exploring quality sushi options nearby. The menu highlights a variety of
+  well-prepared dishes using fresh ingredients, making it a go-to destination
+  for anyone seeking top-rated sushi restaurants in the area that offer great
+  value and satisfying meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks often highlight the fresh
+  and tasty sushi and hibachi dishes at this place, noting how they make for a
+  reliably enjoyable meal that keeps people returning. Many appreciate the
+  friendly service and laid-back vibe, which add to the overall fun of dining
+  here, especially when searching for approachable sushi spots near Kissimmee.
+  Based on its strong reputation, visitors frequently mention the good value and
+  flavor, even if there might be a short wait during busy times. All in all,
+  it's a solid pick for anyone hunting for reliable Japanese places close by,
+  delivering a positive experience that's perfect for casual get-togethers or
+  family outings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +260,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

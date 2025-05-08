@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi San Willis Tower"
+title: Sushi San Willis Tower
 permalink: /illinois/chicago/sushi-san-willis-tower.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sushi San Willis Tower"
-  type: Restaurant
-  links: null
-description: "Sushi San Willis Tower serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushisanrestaurant.com/willis-tower/
 place_id: ChIJvRqa-GstDogR6k9hkxI0tKQ
 photos:
   - name: >-
@@ -169,8 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2d6bf89a1abd:0xa4b4341293614fea!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 16
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 16
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 16
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 16
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 16
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 17
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 4:00 PM'
+    - 'Tuesday: 11:00 AM – 4:00 PM'
+    - 'Wednesday: 11:00 AM – 4:00 PM'
+    - 'Thursday: 11:00 AM – 4:00 PM'
+    - 'Friday: 11:00 AM – 4:00 PM'
+    - 'Saturday: 11:00 AM – 5:00 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T16:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +233,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (312) 428-7694
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 36
+website: https://www.sushisanrestaurant.com/willis-tower/
+description: >-
+  Explore Sushi San in Chicago, IL$$$Sushi San Willis Tower in Chicago, IL,
+  stands out as a premier Japanese restaurant nestled in the heart of the city's
+  bustling Loop neighborhood, offering fresh and flavorful sushi options that
+  attract locals and visitors alike. This spot boasts an accessible environment
+  with wheelchair-friendly entrances, restrooms, and seating, making it a
+  welcoming choice for everyone seeking authentic Japanese cuisine. Diners can
+  enjoy a variety of expertly prepared rolls and dishes in a modern setting,
+  perfect for a quick lunch or a relaxed meal, with moderate pricing that fits
+  various budgets. The restaurant's location near iconic landmarks adds to its
+  appeal for those searching for top-rated sushi experiences in the area,
+  blending convenience with high-quality flavors that keep patrons coming back.
+generative_summary: >-
+  Explore Sushi San in Chicago, IL$$$Sushi San Willis Tower in Chicago, IL,
+  stands out as a premier Japanese restaurant nestled in the heart of the city's
+  bustling Loop neighborhood, offering fresh and flavorful sushi options that
+  attract locals and visitors alike. This spot boasts an accessible environment
+  with wheelchair-friendly entrances, restrooms, and seating, making it a
+  welcoming choice for everyone seeking authentic Japanese cuisine. Diners can
+  enjoy a variety of expertly prepared rolls and dishes in a modern setting,
+  perfect for a quick lunch or a relaxed meal, with moderate pricing that fits
+  various budgets. The restaurant's location near iconic landmarks adds to its
+  appeal for those searching for top-rated sushi experiences in the area,
+  blending convenience with high-quality flavors that keep patrons coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on This Chicago Sushi Favorite$$$Folks heading to sushi
+  places near me often rave about the fresh ingredients and creative rolls at
+  this spot, making it a go-to for satisfying cravings in a laid-back vibe. Many
+  appreciate the consistent quality and attentive service that elevate the
+  overall dining experience, even if some mention wait times during peak hours.
+  Reviewers frequently highlight the value for the price, noting that the
+  portions are generous and the flavors hit the mark for anyone exploring
+  Japanese places near me. Overall, the positive buzz around the atmosphere and
+  variety keeps the feedback upbeat, with most agreeing it's a solid pick for
+  anyone hunting for best sushi near me. While not every visit is flawless, the
+  general consensus leans toward recommending it for its reliable taste and
+  welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

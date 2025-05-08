@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "South Bay Rice Things"
+title: South Bay Rice Things
 permalink: /california/redondo-beach/south-bay-rice-things.html
 stateAbbr: CA
 stateName: California
 cityName: Redondo Beach
 seo:
-  name: "South Bay Rice Things"
-  type: Restaurant
+  type: restaurant
   links: http://southbayricethings.com/
-description: "South Bay Rice Things serves delicious sushi in Redondo Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqV2g9F-0woARdwO3JVfLfwo
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b45ff4a05da9:0xa7fcb5725b70377!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 19
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 19
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 19
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 19
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 19
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 19
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 7:45 PM'
     - 'Wednesday: 11:30 AM – 7:45 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 7:45 PM'
     - 'Saturday: 11:30 AM – 7:45 PM'
     - 'Sunday: 11:30 AM – 7:45 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 7:45 PM'
-    - 'Wednesday: 11:30 AM – 7:45 PM'
-    - 'Thursday: 11:30 AM – 7:45 PM'
-    - 'Friday: 11:30 AM – 7:45 PM'
-    - 'Saturday: 11:30 AM – 7:45 PM'
-    - 'Sunday: 11:30 AM – 7:45 PM'
+  nextCloseTime: '2025-05-04T02:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,279 @@ phone: (310) 214-9033
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 693
 website: http://southbayricethings.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About South Bay Rice Things in Redondo Beach, CA$$$South Bay Rice Things in
+  Redondo Beach, CA, stands out as a casual Japanese eatery offering fresh sushi
+  and flavorful entrees in a relaxed atmosphere. With its unassuming
+  counter-service setup and inviting patio, it's an ideal spot for those seeking
+  affordable Japanese dishes like teriyaki and curry without the fuss. The menu
+  highlights generous portions and accessible features, making it easy for
+  everyone to enjoy a satisfying meal. Whether you're looking for top sushi
+  options nearby, this place delivers on quality and value, perfect for a quick
+  lunch or casual dinner outing.
+generative_summary: >-
+  About South Bay Rice Things in Redondo Beach, CA$$$South Bay Rice Things in
+  Redondo Beach, CA, stands out as a casual Japanese eatery offering fresh sushi
+  and flavorful entrees in a relaxed atmosphere. With its unassuming
+  counter-service setup and inviting patio, it's an ideal spot for those seeking
+  affordable Japanese dishes like teriyaki and curry without the fuss. The menu
+  highlights generous portions and accessible features, making it easy for
+  everyone to enjoy a satisfying meal. Whether you're looking for top sushi
+  options nearby, this place delivers on quality and value, perfect for a quick
+  lunch or casual dinner outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJqV2g9F-0woARdwO3JVfLfwo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNab3N6UlFBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Great value for great food! We ordered a 2 and 3 combo meal with 2
+        karaage, 2 rolls, and vegetable tempura and we had plenty of leftovers
+        with just 2 ppl eating! I recommend their karaage, sesame chicken, and
+        the Philly roll! The owners are very friendly and we thought the food
+        was delicious! I used to go here as a kid, 20 years ago, so I’m glad to
+        see Rice Things is still around 
+      languageCode: en
+    originalText:
+      text: >-
+        Great value for great food! We ordered a 2 and 3 combo meal with 2
+        karaage, 2 rolls, and vegetable tempura and we had plenty of leftovers
+        with just 2 ppl eating! I recommend their karaage, sesame chicken, and
+        the Philly roll! The owners are very friendly and we thought the food
+        was delicious! I used to go here as a kid, 20 years ago, so I’m glad to
+        see Rice Things is still around 
+      languageCode: en
+    authorAttribution:
+      displayName: Qi Lin
+      uri: https://www.google.com/maps/contrib/114896927293760015688/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXsPN8jNpY61DxhtkCvtejAZ4-yG9As2bF3gapIzuUuRjL1ImKU=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-09-07T02:04:28.191168Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNab3N6UlFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNab3N6UlFBEAE!2m1!1s0x80c2b45ff4a05da9:0xa7fcb5725b70377
+  - name: >-
+      places/ChIJqV2g9F-0woARdwO3JVfLfwo/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2bzl1d2t3RRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 3
+    text:
+      text: >-
+        Our family has eaten here since the early 2000s and this was one of our
+        go-to locations for cheap and delicious food. We haven’t been here since
+        2019 but it seems like the taste/texture has dropped :(
+
+
+        Food/Taste/Flavor: 3/5 - we ordered 2 combo plate and a sushi roll. The
+        pork and chicken katsu were pretty dry and the sauce was fairly salty.
+        The vegetable tempura surprised me since it’s much more American
+        ingredients than Japanese and included items such as carrots and green
+        bean (imagine my shock and disappointment when I bit what I thought was
+        a sweet potato…. but it was a carrot?!?! T_T). Recommendation to ask if
+        you can get the sauce on the side for chicken teriyaki since it’s a bit
+        sweet. The chicken karaage (fried chicken) was delicious and juicy when
+        we first opened the box but became hard fairly quick as the food cooled.
+        The salmon avocado roll was really good with lots of salmon! The South
+        Bay Firecracker Roll had a nice kick but we probably wouldn’t get again
+        since it really is just spicy tuna on a California roll with some
+        spiciness on top. There's not much alvocado in the either of the rolls
+        and they were a bit wonky. Wasabi doesn't have any kick.
+
+
+        Ambience: 3/5 - took the food to go. The restaurant only has 3-4 tables
+        to eat at and one of the walls was just stacked with boxes. Looks like
+        some remodel or design has changed in the past few years
+
+
+        Service: 5/5 - cashier was extremely friendly and let us take our time
+        to make our order. Her quoted time of about 15 min was on point!
+
+
+        Value for price: 4/5 - this place has increased in prices but it’s still
+        very reasonable and one of the cheaper locations. Unfortunately, the
+        quality/taste/texture has dropped
+      languageCode: en
+    originalText:
+      text: >-
+        Our family has eaten here since the early 2000s and this was one of our
+        go-to locations for cheap and delicious food. We haven’t been here since
+        2019 but it seems like the taste/texture has dropped :(
+
+
+        Food/Taste/Flavor: 3/5 - we ordered 2 combo plate and a sushi roll. The
+        pork and chicken katsu were pretty dry and the sauce was fairly salty.
+        The vegetable tempura surprised me since it’s much more American
+        ingredients than Japanese and included items such as carrots and green
+        bean (imagine my shock and disappointment when I bit what I thought was
+        a sweet potato…. but it was a carrot?!?! T_T). Recommendation to ask if
+        you can get the sauce on the side for chicken teriyaki since it’s a bit
+        sweet. The chicken karaage (fried chicken) was delicious and juicy when
+        we first opened the box but became hard fairly quick as the food cooled.
+        The salmon avocado roll was really good with lots of salmon! The South
+        Bay Firecracker Roll had a nice kick but we probably wouldn’t get again
+        since it really is just spicy tuna on a California roll with some
+        spiciness on top. There's not much alvocado in the either of the rolls
+        and they were a bit wonky. Wasabi doesn't have any kick.
+
+
+        Ambience: 3/5 - took the food to go. The restaurant only has 3-4 tables
+        to eat at and one of the walls was just stacked with boxes. Looks like
+        some remodel or design has changed in the past few years
+
+
+        Service: 5/5 - cashier was extremely friendly and let us take our time
+        to make our order. Her quoted time of about 15 min was on point!
+
+
+        Value for price: 4/5 - this place has increased in prices but it’s still
+        very reasonable and one of the cheaper locations. Unfortunately, the
+        quality/taste/texture has dropped
+      languageCode: en
+    authorAttribution:
+      displayName: sbbcampervan
+      uri: https://www.google.com/maps/contrib/117282853459880207491/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJlyyaQVkZxm8QY0CoU4gsHPE1es373ShIyqp5wnk6nZYb3GA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2021-10-09T20:30:14.268197Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ2bzl1d2t3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ2bzl1d2t3RRAB!2m1!1s0x80c2b45ff4a05da9:0xa7fcb5725b70377
+  - name: >-
+      places/ChIJqV2g9F-0woARdwO3JVfLfwo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWaklMeXpnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        absolutely the best ramen and boba eats in flagstaff!! such an amazing
+        atmosphere and prices!! best thai tea. and the ramen is absolutely
+        delicious!!! please go check them out they are super helpful and sweet
+        and it’s such a cute place!! 🖤🖤
+      languageCode: en
+    originalText:
+      text: >-
+        absolutely the best ramen and boba eats in flagstaff!! such an amazing
+        atmosphere and prices!! best thai tea. and the ramen is absolutely
+        delicious!!! please go check them out they are super helpful and sweet
+        and it’s such a cute place!! 🖤🖤
+      languageCode: en
+    authorAttribution:
+      displayName: Emmy Anne
+      uri: https://www.google.com/maps/contrib/104833106654717011380/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVh08ywAlVcMI8D_kEYJykjs0xHqCuAW-PV7-Z5ifNLxsEp0tE=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2023-12-05T21:04:16.184523Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNWaklMeXpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNWaklMeXpnRRAB!2m1!1s0x80c2b45ff4a05da9:0xa7fcb5725b70377
+  - name: >-
+      places/ChIJqV2g9F-0woARdwO3JVfLfwo/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4amM2c3hRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Great little place, guys there are friendly and welcoming, wings were
+        delicious, rolls also were good just wish portions were a tad bit bigger
+        my only suggestion the rolls with the jalapeno is if the jalapeno were
+        slightly roasted just to soften then up then put on top of the roll that
+        would be a game changer🤤🤤🤤🤤 but over all place is a "repeat 👍" for
+        us.
+      languageCode: en
+    originalText:
+      text: >-
+        Great little place, guys there are friendly and welcoming, wings were
+        delicious, rolls also were good just wish portions were a tad bit bigger
+        my only suggestion the rolls with the jalapeno is if the jalapeno were
+        slightly roasted just to soften then up then put on top of the roll that
+        would be a game changer🤤🤤🤤🤤 but over all place is a "repeat 👍" for
+        us.
+      languageCode: en
+    authorAttribution:
+      displayName: Rob & Raiden
+      uri: https://www.google.com/maps/contrib/106416693526651368099/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWsv4c488W1dIoHYf1gIvpweplRZv4vYNZXhhCjFoRLuL04QpnOzQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-05-23T08:54:58.968211Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4amM2c3hRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4amM2c3hRRRAB!2m1!1s0x80c2b45ff4a05da9:0xa7fcb5725b70377
+  - name: >-
+      places/ChIJqV2g9F-0woARdwO3JVfLfwo/reviews/ChdDSUhNMG9nS0VJQ0FnSURLOXZDVHZ3RRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Amazing Japanese food for fair prices. The quality and portions are
+        worth every penny. And it's so good I'd carry bags of pennies to pay
+        every time if I had to.
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing Japanese food for fair prices. The quality and portions are
+        worth every penny. And it's so good I'd carry bags of pennies to pay
+        every time if I had to.
+      languageCode: en
+    authorAttribution:
+      displayName: James Nguyen
+      uri: https://www.google.com/maps/contrib/113663914627970147252/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVqLFcdl5Vf3LCixJBjXgPEmV-t01QxkqRUd7IaPAQAnkgoYNZ5AA=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2021-05-11T06:56:59.417370Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURLOXZDVHZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURLOXZDVHZ3RRAB!2m1!1s0x80c2b45ff4a05da9:0xa7fcb5725b70377
+review_summary: >-
+  Review Highlights$$$Visitors often rave about the great value and tasty
+  flavors at this spot, with many highlighting the generous portions of dishes
+  like karaage and sushi rolls that leave you with leftovers. While some note
+  that certain items, such as katsu, can feel a bit dry compared to past
+  experiences, the overall consensus leans toward delicious, budget-friendly
+  meals that hit the spot. Service stands out as friendly and efficient, adding
+  to the welcoming vibe that keeps people coming back for more. If you're on the
+  hunt for solid Japanese eats in the area, this place generally delivers a
+  satisfying experience with its mix of bold tastes and reasonable prices.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: false
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unadorned counter-service spot offering a menu of Japanese dishes such as
+  sushi, curry & teriyaki.
 
 ---

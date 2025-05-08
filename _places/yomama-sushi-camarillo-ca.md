@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yomama Sushi"
+title: Yomama Sushi
 permalink: /california/camarillo/yomama-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Camarillo
 seo:
-  name: "Yomama Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://yomamasushitogo.com/
-description: "Yomama Sushi serves delicious sushi in Camarillo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaS78X1k26IARCo1UZlW6aVs
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e836595ffc2e69:0x5b69ba5566548d0a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: 4:00 – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: 4:00 – 8:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,267 @@ phone: (805) 384-0677
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 276
 website: https://yomamasushitogo.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Yomama Sushi in Camarillo, CA$$$Yomama Sushi in Camarillo, CA,
+  delivers a welcoming taste of Japanese cuisine with fresh sushi and teriyaki
+  dishes in a laid-back atmosphere. This spot stands out for its accessible
+  features, including wheelchair-friendly parking and seating, making it easy
+  for everyone to enjoy a meal. Diners can savor a variety of flavorful rolls
+  and traditional fare, ideal for casual lunches or dinners with options for
+  takeout and delivery. The moderate pricing adds to its appeal for those
+  seeking quality sushi restaurants nearby, while the convenient hours cater to
+  both weekday breaks and weekend outings. Overall, it's a reliable choice for
+  anyone exploring top Japanese places in the area, blending simplicity with
+  satisfying flavors.
+generative_summary: >-
+  Discover Yomama Sushi in Camarillo, CA$$$Yomama Sushi in Camarillo, CA,
+  delivers a welcoming taste of Japanese cuisine with fresh sushi and teriyaki
+  dishes in a laid-back atmosphere. This spot stands out for its accessible
+  features, including wheelchair-friendly parking and seating, making it easy
+  for everyone to enjoy a meal. Diners can savor a variety of flavorful rolls
+  and traditional fare, ideal for casual lunches or dinners with options for
+  takeout and delivery. The moderate pricing adds to its appeal for those
+  seeking quality sushi restaurants nearby, while the convenient hours cater to
+  both weekday breaks and weekend outings. Overall, it's a reliable choice for
+  anyone exploring top Japanese places in the area, blending simplicity with
+  satisfying flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJaS78X1k26IARCo1UZlW6aVs/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3d3BINGtBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        We recently dined at Yomama Sushi in Camarillo and were disappointed
+        with our experience. While our server was excellent—prompt, friendly,
+        and professional—the rest of the visit fell short.
+
+
+        A 20% gratuity was automatically added to our bill for our party of six,
+        but this was not disclosed to us or listed on the menu or any signage.
+        It wend unnoticed until after they charged our card, resulting in an
+        unintended 40% tip. Additionally, a special roll we ordered was
+        incorrect due to a discrepancy between the menu and sushi list. When we
+        pointed this out, the management was unhelpful and dismissive, making
+        the situation uncomfortable.
+
+
+        Overall, the sushi was average, and the service beyond our server’s
+        efforts was lacking. We won’t be returning and wouldn’t recommend it
+        over other local options.
+      languageCode: en
+    originalText:
+      text: >-
+        We recently dined at Yomama Sushi in Camarillo and were disappointed
+        with our experience. While our server was excellent—prompt, friendly,
+        and professional—the rest of the visit fell short.
+
+
+        A 20% gratuity was automatically added to our bill for our party of six,
+        but this was not disclosed to us or listed on the menu or any signage.
+        It wend unnoticed until after they charged our card, resulting in an
+        unintended 40% tip. Additionally, a special roll we ordered was
+        incorrect due to a discrepancy between the menu and sushi list. When we
+        pointed this out, the management was unhelpful and dismissive, making
+        the situation uncomfortable.
+
+
+        Overall, the sushi was average, and the service beyond our server’s
+        efforts was lacking. We won’t be returning and wouldn’t recommend it
+        over other local options.
+      languageCode: en
+    authorAttribution:
+      displayName: Marissa Tapia
+      uri: https://www.google.com/maps/contrib/104158254265861483089/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXDenvhGQvpkcnG0IaKsWrN3l4P0AmUkXpSVMpwJUryRdR3Z1jIJg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-24T19:38:47.541193Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3d3BINGtBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3d3BINGtBRRAB!2m1!1s0x80e836595ffc2e69:0x5b69ba5566548d0a
+  - name: >-
+      places/ChIJaS78X1k26IARCo1UZlW6aVs/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3ejRiUjVnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        First and last time we visit.  The female owner is very rude.  They
+        don't accurately post their charges and then try to charge more, which
+        is false advertising.  After arguing she took our order and failed to
+        put my husband's order in.  After waiting for 40 min and watching
+        everyone who arrived after us get their food we asked if my husband's
+        food was being held because she was mad.  After arguing with her
+        husband, the chef, the wife came and asked who took our order,  which
+        she knew she did.  She said that my husband never ordered and there was
+        no order put on for him. We left.
+      languageCode: en
+    originalText:
+      text: >-
+        First and last time we visit.  The female owner is very rude.  They
+        don't accurately post their charges and then try to charge more, which
+        is false advertising.  After arguing she took our order and failed to
+        put my husband's order in.  After waiting for 40 min and watching
+        everyone who arrived after us get their food we asked if my husband's
+        food was being held because she was mad.  After arguing with her
+        husband, the chef, the wife came and asked who took our order,  which
+        she knew she did.  She said that my husband never ordered and there was
+        no order put on for him. We left.
+      languageCode: en
+    authorAttribution:
+      displayName: Dawn Johnson
+      uri: https://www.google.com/maps/contrib/102644645625270343495/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVs9nF6vOsO4sQqMXcOaL-oX8_PWVxUZxvir_b_CjHkNlq5JkRg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-22T02:52:18.539137Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3ejRiUjVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3ejRiUjVnRRAB!2m1!1s0x80e836595ffc2e69:0x5b69ba5566548d0a
+  - name: >-
+      places/ChIJaS78X1k26IARCo1UZlW6aVs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxci1UTGlnRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Coworker and I came here for our lunch break. Indoor and outdoor seating
+        available. Clean and prompt friendly service!
+
+        I ordered the omega roll and the why not roll: Delicious!! Plus, got an
+        order of the streamed gyoza: Amazing!! My coworker ordered the lunch box
+        and it was nicely plated with large serving sizes. Everything was so
+        good. My feet were just tapping away so happy from the food we  were
+        eating. Plus, we were in and out in time for our 45 min lunch break. My
+        new favorite sushi spot!!!
+      languageCode: en
+    originalText:
+      text: >-
+        Coworker and I came here for our lunch break. Indoor and outdoor seating
+        available. Clean and prompt friendly service!
+
+        I ordered the omega roll and the why not roll: Delicious!! Plus, got an
+        order of the streamed gyoza: Amazing!! My coworker ordered the lunch box
+        and it was nicely plated with large serving sizes. Everything was so
+        good. My feet were just tapping away so happy from the food we  were
+        eating. Plus, we were in and out in time for our 45 min lunch break. My
+        new favorite sushi spot!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Suzy Ruiz
+      uri: https://www.google.com/maps/contrib/112685709529695708517/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKZJTJlulQcMsPdGDOuyv94Ho6aEm5mzM2IVViMseWaAhtKB9s=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2021-06-23T06:35:46.039077Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNxci1UTGlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNxci1UTGlnRRAB!2m1!1s0x80e836595ffc2e69:0x5b69ba5566548d0a
+  - name: >-
+      places/ChIJaS78X1k26IARCo1UZlW6aVs/reviews/ChZDSUhNMG9nS0VJQ0FnTURBOHBDOFZREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This has to be the best sushi place in Camarillo. Every time I go there,
+        the service and food are amazing. They welcome you there like you're
+        family too. It's a great place for all your sushi needs.
+      languageCode: en
+    originalText:
+      text: >-
+        This has to be the best sushi place in Camarillo. Every time I go there,
+        the service and food are amazing. They welcome you there like you're
+        family too. It's a great place for all your sushi needs.
+      languageCode: en
+    authorAttribution:
+      displayName: Armando Magana III
+      uri: https://www.google.com/maps/contrib/100150031658422179469/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUhjWSfuszPXvgsXOeiA5Nuzg68BYx8UQHoSzWIw9m-F2LPJtPy=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-08T01:16:04.611262Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBOHBDOFZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBOHBDOFZREAE!2m1!1s0x80e836595ffc2e69:0x5b69ba5566548d0a
+  - name: >-
+      places/ChIJaS78X1k26IARCo1UZlW6aVs/reviews/ChZDSUhNMG9nS0VJQ0FnSURaNmQzRGJnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        I had the chicken teriyaki lunch special for around $14. It included
+        miso soup, a small of amount of rather lackless teriyaki chicken,
+        iceberg lettuce salad with dressing, sticky rice and tempura vegetables
+        some of which I don’t usually see in tempura like green pepper and
+        onion.
+      languageCode: en
+    originalText:
+      text: >-
+        I had the chicken teriyaki lunch special for around $14. It included
+        miso soup, a small of amount of rather lackless teriyaki chicken,
+        iceberg lettuce salad with dressing, sticky rice and tempura vegetables
+        some of which I don’t usually see in tempura like green pepper and
+        onion.
+      languageCode: en
+    authorAttribution:
+      displayName: Nancy Reinhart Buenrostro
+      uri: https://www.google.com/maps/contrib/106046191171195617674/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXK3y9TpCJFZXjHLv9TYYBUSJJZpTaciOKw1SSHkUnAfAFEbkqSWQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-10-04T02:29:17.543962Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURaNmQzRGJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURaNmQzRGJnEAE!2m1!1s0x80e836595ffc2e69:0x5b69ba5566548d0a
+review_summary: >-
+  What Visitors Are Buzzing About$$$Feedback from recent visits to this sushi
+  spot highlights a mix of praise for the tasty rolls and friendly service that
+  keep customers coming back for more. While some folks appreciate the generous
+  portions and welcoming vibe, perfect for a quick lunch or group gathering,
+  others note occasional hiccups like order mix-ups or billing surprises that
+  could use some smoothing out. On the upside, the overall experience often
+  leaves sushi enthusiasts feeling satisfied, especially with the fresh flavors
+  and solid value that make it a go-to for local diners. Despite a few
+  less-than-ideal moments, many agree it's worth trying for anyone hunting for
+  the best sushi near me, as the positives generally outweigh the minor
+  drawbacks. In essence, this place maintains a strong reputation among Japanese
+  dining options, offering a generally enjoyable stop for food lovers in the
+  community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

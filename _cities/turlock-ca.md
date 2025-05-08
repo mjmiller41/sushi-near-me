@@ -5,4 +5,5 @@ permalink: /california/turlock/
 stateAbbr: CA
 stateName: California
 cityName: Turlock
+
 ---

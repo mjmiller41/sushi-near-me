@@ -5,4 +5,5 @@ permalink: /washington/olympia/
 stateAbbr: WA
 stateName: Washington
 cityName: Olympia
+
 ---

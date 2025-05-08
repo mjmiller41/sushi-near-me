@@ -5,4 +5,5 @@ permalink: /illinois/naperville/
 stateAbbr: IL
 stateName: Illinois
 cityName: Naperville
+
 ---

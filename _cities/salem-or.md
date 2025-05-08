@@ -5,4 +5,5 @@ permalink: /oregon/salem/
 stateAbbr: OR
 stateName: Oregon
 cityName: Salem
+
 ---

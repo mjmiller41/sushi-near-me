@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Memories of Japan"
+title: Memories of Japan
 permalink: /oklahoma/broken-arrow/memories-of-japan.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Broken Arrow
 seo:
-  name: "Memories of Japan"
-  type: Restaurant
+  type: restaurant
   links: http://www.mojsushibar.com/
-description: "Memories of Japan serves delicious sushi in Broken Arrow, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdYxGgXSMtocRkzsL5JS6H4g
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b68c7481468c75:0x881fba94e40b3b93!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 1
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
     - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
     - 'Sunday: 12:01 – 3:00 PM, 4:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Sunday: 12:01 – 3:00 PM, 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,47 @@ phone: (918) 259-8686
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 610
 website: http://www.mojsushibar.com/
+description: >-
+  Discover Memories of Japan in Broken Arrow, OK$$$Memories of Japan in Broken
+  Arrow, OK, stands out as a cozy Japanese eatery offering fresh sushi and
+  traditional dishes that capture the essence of authentic Asian flavors. This
+  welcoming spot features a variety of sushi rolls, bento boxes, and teriyaki
+  options, making it a go-to choice for those seeking quality Japanese cuisine
+  close to home. With its informal vibe and accessible features like
+  wheelchair-friendly seating and parking, it's designed for comfortable dining
+  experiences that feel both intimate and inclusive. The restaurant's convenient
+  hours, including evenings and weekends, make it easy to enjoy a satisfying
+  meal after a long day, appealing to anyone exploring top-rated sushi
+  restaurants in the area.
+generative_summary: >-
+  Discover Memories of Japan in Broken Arrow, OK$$$Memories of Japan in Broken
+  Arrow, OK, stands out as a cozy Japanese eatery offering fresh sushi and
+  traditional dishes that capture the essence of authentic Asian flavors. This
+  welcoming spot features a variety of sushi rolls, bento boxes, and teriyaki
+  options, making it a go-to choice for those seeking quality Japanese cuisine
+  close to home. With its informal vibe and accessible features like
+  wheelchair-friendly seating and parking, it's designed for comfortable dining
+  experiences that feel both intimate and inclusive. The restaurant's convenient
+  hours, including evenings and weekends, make it easy to enjoy a satisfying
+  meal after a long day, appealing to anyone exploring top-rated sushi
+  restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Local Sushi Spot$$$Folks rave about the tasty
+  salmon sashimi and creative rolls that bring a fresh twist to classic
+  favorites, making every bite a highlight of their visit. Many appreciate the
+  warm, authentic atmosphere with subtle lighting and soothing tunes that create
+  a relaxed setting for enjoying Japanese-inspired meals. Service stands out as
+  friendly and attentive, helping diners feel right at home while navigating the
+  menu. Overall, it's clear that this spot delivers solid value for the price,
+  with generous portions that satisfy cravings without breaking the bank. If
+  you're hunting for reliable sushi places nearby, the consistent praise for
+  flavorful dishes and welcoming vibe makes it a solid pick for a casual night
+  out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +336,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

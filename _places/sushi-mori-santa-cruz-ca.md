@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUSHI MORI"
+title: SUSHI MORI
 permalink: /california/santa-cruz/sushi-mori.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Cruz
 seo:
-  name: "SUSHI MORI"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushimorisantacruz.com/
-description: "SUSHI MORI serves delicious sushi in Santa Cruz, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBQEsGsNBjoARyz07FQkOgFw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e41c31a2c0105:0x5c800e09153b3dcb!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 15
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 15
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 15
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 15
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 15
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 15
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 3:00 – 11:00 PM'
     - 'Tuesday: 3:00 – 11:00 PM'
     - 'Wednesday: 3:00 – 11:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 3:00 – 11:00 PM'
     - 'Saturday: 3:00 – 11:00 PM'
     - 'Sunday: 3:00 – 11:00 PM'
-  current:
-    - 'Monday: 3:00 – 11:00 PM'
-    - 'Tuesday: 3:00 – 11:00 PM'
-    - 'Wednesday: 3:00 – 11:00 PM'
-    - 'Thursday: 3:00 – 11:00 PM'
-    - 'Friday: 3:00 – 11:00 PM'
-    - 'Saturday: 3:00 – 11:00 PM'
-    - 'Sunday: 3:00 – 11:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,279 @@ phone: (831) 515-7075
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '3.7'
-rating_count: 0
+rating_count: 87
 website: https://www.sushimorisantacruz.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover SUSHI MORI in Santa Cruz, CA$$$SUSHI MORI in Santa Cruz, CA, stands
+  out as a laid-back spot for enjoying fresh Japanese cuisine, particularly its
+  all-you-can-eat sushi options that draw in locals and visitors alike. This
+  restaurant boasts a wide array of rolls and dishes, complemented by a
+  selection of beer and wine, making it a go-to choice for casual dining
+  experiences. With accessibility features like wheelchair-friendly entrances
+  and parking, it's designed to welcome everyone seeking quality sushi
+  restaurants nearby. The evening hours provide a relaxed atmosphere perfect for
+  groups or individuals exploring top-rated Japanese places in the area,
+  ensuring a satisfying meal without the fuss.
+generative_summary: >-
+  Discover SUSHI MORI in Santa Cruz, CA$$$SUSHI MORI in Santa Cruz, CA, stands
+  out as a laid-back spot for enjoying fresh Japanese cuisine, particularly its
+  all-you-can-eat sushi options that draw in locals and visitors alike. This
+  restaurant boasts a wide array of rolls and dishes, complemented by a
+  selection of beer and wine, making it a go-to choice for casual dining
+  experiences. With accessibility features like wheelchair-friendly entrances
+  and parking, it's designed to welcome everyone seeking quality sushi
+  restaurants nearby. The evening hours provide a relaxed atmosphere perfect for
+  groups or individuals exploring top-rated Japanese places in the area,
+  ensuring a satisfying meal without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJBQEsGsNBjoARyz07FQkOgFw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJekxEVHNnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        The restaurant is in a busy street, with a few parking spots, but
+        there’s public parking close by. The menu has the all you can eat
+        option, and it was the one I’ve chosen. The first rolls were very good
+        (crab, avocado, and tuna) but other one called “heart attack” had a huge
+        pepper that was not eatable for me. The guioza and sushi’s were ok.
+        Overall it’s a different style of Japanese, and I wouldn’t go  again.
+      languageCode: en
+    originalText:
+      text: >-
+        The restaurant is in a busy street, with a few parking spots, but
+        there’s public parking close by. The menu has the all you can eat
+        option, and it was the one I’ve chosen. The first rolls were very good
+        (crab, avocado, and tuna) but other one called “heart attack” had a huge
+        pepper that was not eatable for me. The guioza and sushi’s were ok.
+        Overall it’s a different style of Japanese, and I wouldn’t go  again.
+      languageCode: en
+    authorAttribution:
+      displayName: Gustavo Gomes
+      uri: https://www.google.com/maps/contrib/117637917182868703268/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKbQjM6h1N3n2RubfkZIzdK55Q2fKllf_YkTMcVIMoItmjC_A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-30T22:15:15.324986Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJekxEVHNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJekxEVHNnRRAB!2m1!1s0x808e41c31a2c0105:0x5c800e09153b3dcb
+  - name: >-
+      places/ChIJBQEsGsNBjoARyz07FQkOgFw/reviews/ChdDSUhNMG9nS0VJQ0FnSURYLUtyS3BnRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I've been here a few times now. The all you can eat sushi is a good deal
+        for $36 or so. Nice selection of appetizers, soup, rolls and sushi.
+        Seems family run but that's good. Worth visiting for sure! You won't
+        want to look at sushi for weeks! The gyozo is so fresh, the baked
+        oysters are killer, and the Crazy boy (and crazy girl) rolls,
+        firecracker roll and Aloha rolls are yummy.
+      languageCode: en
+    originalText:
+      text: >-
+        I've been here a few times now. The all you can eat sushi is a good deal
+        for $36 or so. Nice selection of appetizers, soup, rolls and sushi.
+        Seems family run but that's good. Worth visiting for sure! You won't
+        want to look at sushi for weeks! The gyozo is so fresh, the baked
+        oysters are killer, and the Crazy boy (and crazy girl) rolls,
+        firecracker roll and Aloha rolls are yummy.
+      languageCode: en
+    authorAttribution:
+      displayName: S. G.A.
+      uri: https://www.google.com/maps/contrib/111386562462359263421/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJQlL3ND6nyOCdevOPw3DgLCfgCEVIAFopMcgKuifni5KgkPQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-24T02:42:17.310960Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYLUtyS3BnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYLUtyS3BnRRAB!2m1!1s0x808e41c31a2c0105:0x5c800e09153b3dcb
+  - name: >-
+      places/ChIJBQEsGsNBjoARyz07FQkOgFw/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3MmNlOEVREAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 2
+    text:
+      text: >-
+        Do yourself a favor and steer clear of Sushi Mori! I honestly can't
+        remember a worse restaurant experience — this place is a scam!
+
+
+        I ordered 6 rolls as part of the all you can eat option – the first four
+        came out ~20-30 minutes after ordering, but the last two took over 1.5
+        hours. We kept checking in with the server, who promised us they were on
+        the way. Another customer sat down, ordered, ate, paid, and left within
+        the time we were waiting. We were one of only two tables at the time.
+
+
+        The owner came in to check on us and was (apparently) shocked that we
+        had waited so long – after she asked the chef to finish our order, one
+        more roll came out. Finally we were ready to give up on the last roll so
+        I asked to pay – I brought up the long wait and the chef said it was
+        normal to wait up to two hours because orders are completed in the order
+        they are received, which makes absolutely no sense because all six were
+        received at once. I stepped outside to talk to the owner again, during
+        which the server and chef started loudly talking about us while my
+        girlfriend was still at the table.
+
+
+        Honestly super bad vibes here - the chef was rude and the server was not
+        helpful. Sushi itself was just okay, nothing special, and definitely not
+        worth waiting 1.5 hours for. This restaurant is borderline fraudulent
+        and dishonest. Steer clear!
+      languageCode: en
+    originalText:
+      text: >-
+        Do yourself a favor and steer clear of Sushi Mori! I honestly can't
+        remember a worse restaurant experience — this place is a scam!
+
+
+        I ordered 6 rolls as part of the all you can eat option – the first four
+        came out ~20-30 minutes after ordering, but the last two took over 1.5
+        hours. We kept checking in with the server, who promised us they were on
+        the way. Another customer sat down, ordered, ate, paid, and left within
+        the time we were waiting. We were one of only two tables at the time.
+
+
+        The owner came in to check on us and was (apparently) shocked that we
+        had waited so long – after she asked the chef to finish our order, one
+        more roll came out. Finally we were ready to give up on the last roll so
+        I asked to pay – I brought up the long wait and the chef said it was
+        normal to wait up to two hours because orders are completed in the order
+        they are received, which makes absolutely no sense because all six were
+        received at once. I stepped outside to talk to the owner again, during
+        which the server and chef started loudly talking about us while my
+        girlfriend was still at the table.
+
+
+        Honestly super bad vibes here - the chef was rude and the server was not
+        helpful. Sushi itself was just okay, nothing special, and definitely not
+        worth waiting 1.5 hours for. This restaurant is borderline fraudulent
+        and dishonest. Steer clear!
+      languageCode: en
+    authorAttribution:
+      displayName: Mickey Rush
+      uri: https://www.google.com/maps/contrib/100588361275327490418/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX3jLFWfu-Vzx2J0Ms16g7rxXbVDogFk4o7FUhBE1Crej4flzb6BQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-28T03:18:21.955303Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3MmNlOEVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3MmNlOEVREAE!2m1!1s0x808e41c31a2c0105:0x5c800e09153b3dcb
+  - name: >-
+      places/ChIJBQEsGsNBjoARyz07FQkOgFw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvcWVfVmxnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I live in NYC, and I acknowledge it’s skewed my view of food because of
+        the amazing options we have. That being said, this place was great!!!
+
+
+        I just flew in and needed a late food delivery, so I ordered SUSHI MORI
+        to my hotel. The food was hot, tasty, and fresh (salad greens weren’t
+        wilted at all and were actually crunchy!), and the portion size was
+        excellent for the price. Not sure what the low rating’s about! 🤷‍♀️
+      languageCode: en
+    originalText:
+      text: >-
+        I live in NYC, and I acknowledge it’s skewed my view of food because of
+        the amazing options we have. That being said, this place was great!!!
+
+
+        I just flew in and needed a late food delivery, so I ordered SUSHI MORI
+        to my hotel. The food was hot, tasty, and fresh (salad greens weren’t
+        wilted at all and were actually crunchy!), and the portion size was
+        excellent for the price. Not sure what the low rating’s about! 🤷‍♀️
+      languageCode: en
+    authorAttribution:
+      displayName: Kayla Bernardino
+      uri: https://www.google.com/maps/contrib/107137398908888490699/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVLCL4FAGUbKCk1pgdXn6VWdBY4uDXh8B5eZG35CcRsNawOclk=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-18T05:56:01.652876Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvcWVfVmxnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvcWVfVmxnRRAB!2m1!1s0x808e41c31a2c0105:0x5c800e09153b3dcb
+  - name: >-
+      places/ChIJBQEsGsNBjoARyz07FQkOgFw/reviews/ChZDSUhNMG9nS0VJQ0FnSURqbnZQakVnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        AYCE option for $35. Good value if you like to eat a variety of sushi.
+        I'm not a sushi expert or snob but it was all delicious, fresh and
+        prepared quickly. Granted, it was not very busy when I was there but the
+        staff was friendly and very attentive. I would definitely recommend and
+        I will go back.
+      languageCode: en
+    originalText:
+      text: >-
+        AYCE option for $35. Good value if you like to eat a variety of sushi.
+        I'm not a sushi expert or snob but it was all delicious, fresh and
+        prepared quickly. Granted, it was not very busy when I was there but the
+        staff was friendly and very attentive. I would definitely recommend and
+        I will go back.
+      languageCode: en
+    authorAttribution:
+      displayName: Dennis Gravett
+      uri: https://www.google.com/maps/contrib/107572789439024083402/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV4RoSlGwa4Om2LcAkV1MbNpobfpiJsOaJf1Kn3ps0mbR_enMQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-05-03T14:56:45.237213Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqbnZQakVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqbnZQakVnEAE!2m1!1s0x808e41c31a2c0105:0x5c800e09153b3dcb
+review_summary: >-
+  Insights from Recent Reviews$$$Folks who visit this sushi spot often highlight
+  the great value of the all-you-can-eat menu, praising the fresh rolls, tasty
+  appetizers, and variety that keep things exciting for sushi enthusiasts. While
+  some mention occasional waits during busier times, the overall vibe remains
+  welcoming with friendly service that makes up for it. Customers appreciate the
+  generous portions and flavorful options like baked oysters and specialty
+  rolls, which add to the fun of discovering new favorites. If you're on the
+  hunt for reliable sushi places near you, this location delivers a solid
+  experience that's worth trying, blending affordability with enjoyable flavors
+  to leave you satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: true
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

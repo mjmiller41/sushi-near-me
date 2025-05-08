@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rock Wrap & Roll"
+title: Rock Wrap & Roll
 permalink: /illinois/chicago/rock-wrap-roll.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Rock Wrap & Roll"
-  type: Restaurant
+  type: restaurant
   links: https://rockwrapandroll.com/
-description: "Casual eatery with Thai dishes & sushi in a modern space with a bring-your-own-alcohol policy. Rock Wrap & Roll serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9__BGuTSD4gRLgeMsGFy3JY
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://rockwrapandroll.com/
+description: >-
+  Discover Rock Wrap & Roll in Chicago, IL$$$Rock Wrap & Roll in Chicago, IL,
+  stands out as a vibrant sushi restaurant offering a blend of artistic rolls
+  and Thai flavors in a welcoming, modern setting. This spot is ideal for those
+  searching for top-rated sushi near me, with its creative dishes and
+  bring-your-own-beverage policy adding a fun twist to dining out. The menu
+  features a wide array of fresh sushi and Thai options, perfect for anyone
+  exploring Japanese places near me or craving innovative takes on classic
+  favorites. Accessibility is a key highlight, with wheelchair-friendly features
+  and convenient parking making it easy to visit. Whether you're in the mood for
+  a casual meal or something more festive, this establishment delivers an
+  enjoyable experience in the heart of the city.
+generative_summary: >-
+  Discover Rock Wrap & Roll in Chicago, IL$$$Rock Wrap & Roll in Chicago, IL,
+  stands out as a vibrant sushi restaurant offering a blend of artistic rolls
+  and Thai flavors in a welcoming, modern setting. This spot is ideal for those
+  searching for top-rated sushi near me, with its creative dishes and
+  bring-your-own-beverage policy adding a fun twist to dining out. The menu
+  features a wide array of fresh sushi and Thai options, perfect for anyone
+  exploring Japanese places near me or craving innovative takes on classic
+  favorites. Accessibility is a key highlight, with wheelchair-friendly features
+  and convenient parking making it easy to visit. Whether you're in the mood for
+  a casual meal or something more festive, this establishment delivers an
+  enjoyable experience in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9__BGuTSD4gRLgeMsGFy3JY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBeF9qZ1B3EAE
@@ -340,6 +363,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2d19qdlZBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2d19qdlZBEAE!2m1!1s0x880fd2e41ac1fff7:0x96dc7261b08c072e
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors to this Chicago sushi
+  restaurant often praise the freshness and creativity of the dishes, making it
+  a go-to choice for satisfying sushi cravings. Many appreciate the quick
+  service and beautifully presented rolls that elevate the overall dining
+  experience, with highlights on the variety that keeps things exciting for
+  repeat visits. Folks frequently mention the stylish atmosphere and convenient
+  location as bonuses, especially for those combining a meal with nearby
+  activities like catching a movie. While the menu offers plenty of options for
+  different tastes, including vegetarian choices, the consensus is that it's a
+  solid pick for groups or solo diners seeking reliable quality. Overall, the
+  positive feedback paints a picture of a welcoming place where good food and
+  attentive service come together to create memorable meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -370,8 +407,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual eatery with Thai dishes & sushi in a modern space with a
   bring-your-own-alcohol policy.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nomzilla! sushi et cetera"
+title: Nomzilla! sushi et cetera
 permalink: /tennessee/nashville/nomzilla-sushi-et-cetera.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nashville
 seo:
-  name: "Nomzilla! sushi et cetera"
-  type: Restaurant
+  type: restaurant
   links: https://www.nomzilla.com/
-description: "Cozy, bright-green eatery serving design-your-own maki rolls plus classic rolls, noodles & tea. Nomzilla! sushi et cetera serves delicious sushi in Nashville, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJG4AhtppmZIgRa3fWev10umw
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://www.nomzilla.com/
+description: >-
+  Discover Nomzilla! Sushi in Nashville, TN$$$Nestled in the vibrant Greenwood
+  neighborhood of Nashville, TN, Nomzilla! Sushi offers a cozy and inviting spot
+  for enjoying fresh Asian fusion dishes. This bright-green eatery specializes
+  in customizable maki rolls, classic sushi options, and flavorful noodles,
+  complemented by a selection of cocktails and happy hour deals that make it a
+  go-to for casual dining. With its accessible features like wheelchair-friendly
+  entrances and seating, it's designed to welcome everyone looking for a relaxed
+  meal. The menu highlights a mix of innovative flavors and traditional
+  elements, perfect for those exploring top sushi spots near me in a welcoming
+  atmosphere.
+generative_summary: >-
+  Discover Nomzilla! Sushi in Nashville, TN$$$Nestled in the vibrant Greenwood
+  neighborhood of Nashville, TN, Nomzilla! Sushi offers a cozy and inviting spot
+  for enjoying fresh Asian fusion dishes. This bright-green eatery specializes
+  in customizable maki rolls, classic sushi options, and flavorful noodles,
+  complemented by a selection of cocktails and happy hour deals that make it a
+  go-to for casual dining. With its accessible features like wheelchair-friendly
+  entrances and seating, it's designed to welcome everyone looking for a relaxed
+  meal. The menu highlights a mix of innovative flavors and traditional
+  elements, perfect for those exploring top sushi spots near me in a welcoming
+  atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJG4AhtppmZIgRa3fWev10umw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJOXZmUGpnRRAB
@@ -372,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYZ05XelVREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYZ05XelVREAE!2m1!1s0x8864669ab621801b:0x6cba74fd7ad6776b
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Nashville sushi restaurant
+  often rave about the creative and generous portions of dishes like sushi
+  rolls, fried rice, and ramen, making it a solid pick for anyone craving
+  flavorful options. Many appreciate the variety that caters to different diets,
+  including vegan and gluten-free choices, which add to the appeal for groups
+  with varied tastes. While some note that the decor could use a refresh, the
+  friendly service and tasty meals keep the overall vibe upbeat and enjoyable.
+  Folks frequently highlight the satisfying crunch and fresh ingredients in
+  appetizers, turning first-timers into regulars for quick lunches or dinners.
+  Overall, it's a welcoming spot that delivers on fun fusion eats, earning it a
+  reputation as one of the reliable sushi places near me for a laid-back outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -403,8 +437,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cozy, bright-green eatery serving design-your-own maki rolls plus classic
   rolls, noodles & tea.
 

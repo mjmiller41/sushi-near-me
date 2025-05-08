@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izanami"
+title: Izanami
 permalink: /california/south-san-francisco/izanami.html
 stateAbbr: CA
 stateName: California
 cityName: South San Francisco
 seo:
-  name: "Izanami"
-  type: Restaurant
+  type: restaurant
   links: http://izanamitogo.com/
-description: "Industrial-chic Japanese restaurant with curvy wooden booths serving sushi, ramen & yakitori. Izanami serves delicious sushi in South San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIyNi3655j4ARGj3IaAUfGEM
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: http://izanamitogo.com/
+description: >-
+  Explore Izanami in South San Francisco, CA$$$Izanami in South San Francisco,
+  CA, offers a welcoming spot for enjoying authentic Japanese cuisine in a
+  relaxed, industrial-chic atmosphere. This sushi restaurant features fresh
+  specialties like sushi and hearty ramen, making it a go-to choice for those
+  seeking flavorful Japanese dishes in a laid-back setting. The venue stands out
+  with its accessible design, including wheelchair-friendly features, and a
+  moderate price range that appeals to casual diners. Patrons can savor a
+  variety of options, from yakitori to creative rolls, all prepared with
+  attention to quality ingredients. Whether you're exploring sushi places near
+  me or looking for top-rated Japanese options, Izanami delivers a satisfying
+  experience with its blend of comfort and culinary excellence.
+generative_summary: >-
+  Explore Izanami in South San Francisco, CA$$$Izanami in South San Francisco,
+  CA, offers a welcoming spot for enjoying authentic Japanese cuisine in a
+  relaxed, industrial-chic atmosphere. This sushi restaurant features fresh
+  specialties like sushi and hearty ramen, making it a go-to choice for those
+  seeking flavorful Japanese dishes in a laid-back setting. The venue stands out
+  with its accessible design, including wheelchair-friendly features, and a
+  moderate price range that appeals to casual diners. Patrons can savor a
+  variety of options, from yakitori to creative rolls, all prepared with
+  attention to quality ingredients. Whether you're exploring sushi places near
+  me or looking for top-rated Japanese options, Izanami delivers a satisfying
+  experience with its blend of comfort and culinary excellence.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIyNi3655j4ARGj3IaAUfGEM/reviews/ChdDSUhNMG9nS0VJQ0FnSURYenRmaW1RRRAB
@@ -348,6 +371,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnOEsycndRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnOEsycndRRRAB!2m1!1s0x808f79aedf622323:0x43181f0568c83d1a
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the fresh flavors and welcoming vibe, with many highlighting the delicious
+  sushi rolls and flavorful ramen as standout choices. While some note that
+  portions could be more generous, the overall consensus praises the friendly
+  service and quick seating that make for a pleasant meal. A few mentions of
+  certain dishes being mildly seasoned add a note of variety in tastes, but the
+  majority agree that the value for money keeps things enjoyable. If you're on
+  the hunt for sushi restaurants near me, this place generally delivers a solid
+  experience with its approachable atmosphere and reliable options. All in all,
+  it's a great pick for anyone craving Japanese fare, as long as you come with
+  an open mind for the occasional tweak to your preferences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -379,8 +415,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Industrial-chic Japanese restaurant with curvy wooden booths serving sushi,
   ramen & yakitori.
 

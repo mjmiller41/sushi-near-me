@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yama Sushi bar"
+title: Yama Sushi bar
 permalink: /maryland/annapolis/yama-sushi-bar.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Annapolis
 seo:
-  name: "Yama Sushi bar"
-  type: Restaurant
-  links: null
-description: "Yama Sushi bar serves delicious sushi in Annapolis, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://yamasushiannapolis.com/
 place_id: ChIJdZjiq9r2t4kRJ19U0Xu5UFs
 photos:
   - name: >-
@@ -170,8 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7f6daabe29875:0x5b50b97bd1545f27!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +274,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (410) 266-8878
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 800
+website: http://yamasushiannapolis.com/
+description: >-
+  Explore Yama Sushi Bar in Annapolis, MD$$$Yama Sushi Bar in Annapolis, MD,
+  stands out as a cozy counter-serve spot specializing in fresh Japanese dishes,
+  perfect for those seeking authentic sushi experiences nearby. This laid-back
+  eatery offers a variety of sushi rolls and traditional Japanese fare, all
+  served in a welcoming atmosphere that encourages relaxed dining. With its
+  moderate pricing and accessibility features like wheelchair-friendly
+  entrances, it appeals to a wide range of visitors looking for quality Japanese
+  cuisine without the fuss. The spot's convenient location makes it an ideal
+  choice for anyone exploring top-rated sushi restaurants in the area, blending
+  simplicity with flavorful options that highlight fresh ingredients.
+generative_summary: >-
+  Explore Yama Sushi Bar in Annapolis, MD$$$Yama Sushi Bar in Annapolis, MD,
+  stands out as a cozy counter-serve spot specializing in fresh Japanese dishes,
+  perfect for those seeking authentic sushi experiences nearby. This laid-back
+  eatery offers a variety of sushi rolls and traditional Japanese fare, all
+  served in a welcoming atmosphere that encourages relaxed dining. With its
+  moderate pricing and accessibility features like wheelchair-friendly
+  entrances, it appeals to a wide range of visitors looking for quality Japanese
+  cuisine without the fuss. The spot's convenient location makes it an ideal
+  choice for anyone exploring top-rated sushi restaurants in the area, blending
+  simplicity with flavorful options that highlight fresh ingredients.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Yama Sushi Bar$$$Visitors often praise the tasty sushi
+  and appetizers at this Annapolis favorite, noting that they deliver great
+  flavors at reasonable prices that feel just right. Many highlight the warm and
+  attentive service that creates a welcoming vibe, making meals more enjoyable
+  for everyone. The overall atmosphere gets high marks for its relaxed setting
+  and outdoor seating, which adds a pleasant touch to the dining experience.
+  While opinions vary, the general consensus is that this spot offers solid
+  value and delicious options, encouraging repeat visits for those craving
+  Japanese dishes in a casual environment. All in all, it's a go-to choice for
+  anyone hunting for reliable sushi spots that balance quality with an easygoing
+  appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +342,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dash Dashi Sushi and Sake Bar"
+title: Dash Dashi Sushi and Sake Bar
 permalink: /california/manhattan-beach/dash-dashi-sushi-and-sake-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Manhattan Beach
 seo:
-  name: "Dash Dashi Sushi and Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.dashdashi.com/
-description: "Dash Dashi Sushi and Sake Bar serves delicious sushi in Manhattan Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJezzXvaizwoARPOYT2mrqy3k
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b3a8bdd73c7b:0x79cbea6ada13e63c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
@@ -178,54 +274,364 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 6:00 PM'
+      - 'Tuesday: 5:00 – 6:00 PM'
+      - 'Wednesday: 5:00 – 6:00 PM'
+      - 'Thursday: 5:00 – 6:00 PM'
+      - 'Friday: 5:00 – 6:00 PM'
+      - 'Saturday: 3:00 – 5:00 PM'
+      - 'Sunday: 3:00 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (310) 939-1000
 price_level: null
 price_range: null
 rating: '4.7'
-rating_count: 0
+rating_count: 145
 website: http://www.dashdashi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Dash Dashi Sushi and Sake Bar in Manhattan Beach, CA$$$Dash Dashi
+  Sushi and Sake Bar in Manhattan Beach, CA, stands out as a relaxed destination
+  for enjoying fresh sushi and a variety of Japanese-inspired beverages. This
+  spot combines casual vibes with accessible features like wheelchair-friendly
+  entrances and seating, making it welcoming for all visitors seeking sushi
+  restaurants nearby. Patrons can savor an array of flavorful rolls and dishes,
+  complemented by happy hour specials and outdoor seating that captures the
+  essence of beachside dining. With extended hours including evenings and
+  weekends, it's an ideal choice for those hunting for top-rated sushi
+  experiences close to the coast. Whether you're in the mood for authentic
+  flavors or a laid-back atmosphere, this place delivers a memorable blend of
+  quality and convenience.
+generative_summary: >-
+  Discover Dash Dashi Sushi and Sake Bar in Manhattan Beach, CA$$$Dash Dashi
+  Sushi and Sake Bar in Manhattan Beach, CA, stands out as a relaxed destination
+  for enjoying fresh sushi and a variety of Japanese-inspired beverages. This
+  spot combines casual vibes with accessible features like wheelchair-friendly
+  entrances and seating, making it welcoming for all visitors seeking sushi
+  restaurants nearby. Patrons can savor an array of flavorful rolls and dishes,
+  complemented by happy hour specials and outdoor seating that captures the
+  essence of beachside dining. With extended hours including evenings and
+  weekends, it's an ideal choice for those hunting for top-rated sushi
+  experiences close to the coast. Whether you're in the mood for authentic
+  flavors or a laid-back atmosphere, this place delivers a memorable blend of
+  quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJezzXvaizwoARPOYT2mrqy3k/reviews/ChdDSUhNMG9nS0VJQ0FnTURvazdlaWlRRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Cute restaurant with comfortable chairs, great sushi, and friendly
+        service. Our server was very attentive and made sure we were well taken
+        care of with both God and drinks replenished quickly. We went during
+        happy hour so the prices couldn't be beat for fresh fish. Cozy beach
+        vibes to top it all off, what more could you ask?
+      languageCode: en
+    originalText:
+      text: >-
+        Cute restaurant with comfortable chairs, great sushi, and friendly
+        service. Our server was very attentive and made sure we were well taken
+        care of with both God and drinks replenished quickly. We went during
+        happy hour so the prices couldn't be beat for fresh fish. Cozy beach
+        vibes to top it all off, what more could you ask?
+      languageCode: en
+    authorAttribution:
+      displayName: Shayla Brown
+      uri: https://www.google.com/maps/contrib/111226107600499669678/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXxs0JwG3PEkrt2FUkCpoZOW4I-_7hp7nR9T40XnGR4QIPxmRoYPw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-28T13:40:31.372460Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvazdlaWlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvazdlaWlRRRAB!2m1!1s0x80c2b3a8bdd73c7b:0x79cbea6ada13e63c
+  - name: >-
+      places/ChIJezzXvaizwoARPOYT2mrqy3k/reviews/ChZDSUhNMG9nS0VJQ0FnSURubjUtWWR3EAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        After an awful experience with The Strand we showed up here. We were sat
+        and had drinks in minutes. The staff was happy to share details on
+        everything. It was one of the best rolls I ever had! Plus we got a
+        picture with a giant tuna! The Omakase course my friends did was amazing
+        I even tried barracuda! Just look at the photos all fresh and tasty.
+        Highly recommend. It can get loud so off hours might be better if you
+        are sensitive to noise
+      languageCode: en
+    originalText:
+      text: >-
+        After an awful experience with The Strand we showed up here. We were sat
+        and had drinks in minutes. The staff was happy to share details on
+        everything. It was one of the best rolls I ever had! Plus we got a
+        picture with a giant tuna! The Omakase course my friends did was amazing
+        I even tried barracuda! Just look at the photos all fresh and tasty.
+        Highly recommend. It can get loud so off hours might be better if you
+        are sensitive to noise
+      languageCode: en
+    authorAttribution:
+      displayName: Ashley
+      uri: https://www.google.com/maps/contrib/116426662777631115714/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXrRBeMB_eEW1x2wraPU_xFLNS0l1_Z8Hz9oot8fhm9XT63AKZy=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-11T21:20:58.485069Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURubjUtWWR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURubjUtWWR3EAE!2m1!1s0x80c2b3a8bdd73c7b:0x79cbea6ada13e63c
+  - name: >-
+      places/ChIJezzXvaizwoARPOYT2mrqy3k/reviews/ChZDSUhNMG9nS0VJQ0FnSURfbHBlR05nEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Chef Tony the best Sushi Chef at Dash Dashi, sushi restaurant located in
+        Manhattan Beach creates the KG Roll (Kristina & Gordon) beyond tasty...
+        Dash Dashi is known for its fresh sushi and various Japanese dishes.
+        They typically offer a menu that includes a variety of sushi rolls,
+        sashimi, and other traditional Japanese fare. If you're looking to visit
+        or order from them, it’s a good idea to check their website or call for
+        the latest menu offerings and hours. Additionally, reviews and ratings
+        on platforms like Yelp or Google can provide insights into the dining
+        experience. Enjoy your meal!
+
+        #dashdashi #sushi
+      languageCode: en
+    originalText:
+      text: >-
+        Chef Tony the best Sushi Chef at Dash Dashi, sushi restaurant located in
+        Manhattan Beach creates the KG Roll (Kristina & Gordon) beyond tasty...
+        Dash Dashi is known for its fresh sushi and various Japanese dishes.
+        They typically offer a menu that includes a variety of sushi rolls,
+        sashimi, and other traditional Japanese fare. If you're looking to visit
+        or order from them, it’s a good idea to check their website or call for
+        the latest menu offerings and hours. Additionally, reviews and ratings
+        on platforms like Yelp or Google can provide insights into the dining
+        experience. Enjoy your meal!
+
+        #dashdashi #sushi
+      languageCode: en
+    authorAttribution:
+      displayName: Gordon Vasquez
+      uri: https://www.google.com/maps/contrib/103032134914977195091/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWQp1BLJ64K_XRKGFzx_7pTickamKgxBhB64agQVA-F8RapLYwdWA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-22T08:02:33.162080Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfbHBlR05nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfbHBlR05nEAE!2m1!1s0x80c2b3a8bdd73c7b:0x79cbea6ada13e63c
+  - name: >-
+      places/ChIJezzXvaizwoARPOYT2mrqy3k/reviews/ChZDSUhNMG9nS0VJQ0FnTURRN2NIU1l3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The sushi here is incredibly fresh, beautifully prepared, and bursting
+        with flavor. Every bite melts in your mouth, and you can really taste
+        the quality of the ingredients.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi here is incredibly fresh, beautifully prepared, and bursting
+        with flavor. Every bite melts in your mouth, and you can really taste
+        the quality of the ingredients.
+      languageCode: en
+    authorAttribution:
+      displayName: Mohamed AlAli
+      uri: https://www.google.com/maps/contrib/101459064568350090819/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUMp57ynEkoBtFe5NkCzspuUEdUaRrlN-XYanvOTms5ON46oTOw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-13T05:54:01.882698Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRN2NIU1l3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRN2NIU1l3EAE!2m1!1s0x80c2b3a8bdd73c7b:0x79cbea6ada13e63c
+  - name: >-
+      places/ChIJezzXvaizwoARPOYT2mrqy3k/reviews/ChZDSUhNMG9nS0VJQ0FnSURUdDgyVEJ3EAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        Wow, I didn't know where to even begin.
+
+        Was in town with one of my best friends catching up. We were having
+        drinks across the street and the bartender suggested we try Dash Dashi,
+        ask for Tony.
+
+        Well, ask for Tony we did and let me tell you, hands down this was one
+        of the best sushi  experiences I've had!
+
+        Tony and the crew offered a really nice Omakase.
+
+        I've never had fresh Soft Shell Blue Crab, incredible.
+
+        Delicious oysters.
+
+        All the fish were great, fresh, tasty and well seasoned.
+
+        They serve you as much or as little as you like when doing Omakase.
+
+        Oh and they serve REAL Japanese beer, Orion from Okinawa!! 🍺
+
+        We purposely let loose and ordered a lot so was a larger bill than
+        normal. It was still very affordable and great service.
+
+
+        Overall, a great time.
+
+        Thank you so much Tony and the crew!!
+      languageCode: en
+    originalText:
+      text: >-
+        Wow, I didn't know where to even begin.
+
+        Was in town with one of my best friends catching up. We were having
+        drinks across the street and the bartender suggested we try Dash Dashi,
+        ask for Tony.
+
+        Well, ask for Tony we did and let me tell you, hands down this was one
+        of the best sushi  experiences I've had!
+
+        Tony and the crew offered a really nice Omakase.
+
+        I've never had fresh Soft Shell Blue Crab, incredible.
+
+        Delicious oysters.
+
+        All the fish were great, fresh, tasty and well seasoned.
+
+        They serve you as much or as little as you like when doing Omakase.
+
+        Oh and they serve REAL Japanese beer, Orion from Okinawa!! 🍺
+
+        We purposely let loose and ordered a lot so was a larger bill than
+        normal. It was still very affordable and great service.
+
+
+        Overall, a great time.
+
+        Thank you so much Tony and the crew!!
+      languageCode: en
+    authorAttribution:
+      displayName: David Martinez
+      uri: https://www.google.com/maps/contrib/106488500735814321522/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWuKDDEy37i3Rql_1h5Kkc0ip07GoImwHOHJV0wTFMirWE6RRU=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-05-29T05:07:15.348558Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUdDgyVEJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUdDgyVEJ3EAE!2m1!1s0x80c2b3a8bdd73c7b:0x79cbea6ada13e63c
+review_summary: >-
+  Insights from Recent Visitors$$$Visitors often rave about the incredibly fresh
+  and tasty sushi options, with many highlighting the great value during happy
+  hour that makes it a go-to for affordable meals. Folks appreciate the friendly
+  service that keeps things running smoothly, ensuring drinks and dishes arrive
+  just right for a relaxed outing. The cozy beach atmosphere adds to the appeal,
+  creating an enjoyable setting that's perfect for casual get-togethers or
+  trying new flavors like unique rolls and sashimi. Overall, it's clear that the
+  welcoming vibe and solid food quality keep people coming back, offering a
+  positive spot for anyone exploring local Japanese-inspired eats. While it can
+  get lively at times, the general feedback leans toward it being a reliable
+  choice for satisfying your sushi cravings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  paidStreetParking: true
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

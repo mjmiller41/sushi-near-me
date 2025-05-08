@@ -5,4 +5,5 @@ permalink: /michigan/canton/
 stateAbbr: MI
 stateName: Michigan
 cityName: Canton
+
 ---

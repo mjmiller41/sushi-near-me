@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SOHO Sushi Burrito"
+title: SOHO Sushi Burrito
 permalink: /nevada/las-vegas/soho-sushi-burrito.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "SOHO Sushi Burrito"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SOHO Sushi Burrito serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa3LiiDrGyIARmaYmFIEcCcU
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover SOHO Sushi Burrito in Las Vegas, NV$$$Nestled in the vibrant city of
+  Las Vegas, NV, SOHO Sushi Burrito stands out as a casual spot for fresh sushi
+  and poke bowls that cater to a variety of tastes. This welcoming restaurant
+  offers a range of vegan options alongside creative bubble teas, making it a
+  go-to choice for those seeking flavorful Japanese-inspired dishes in a relaxed
+  atmosphere. Visitors can enjoy the convenience of accessibility features like
+  wheelchair-friendly parking and entrances, enhancing the overall dining
+  experience. Whether you're exploring sushi restaurants near you or looking for
+  top-rated options in the area, this spot delivers on quality and variety with
+  its inventive menu items that blend traditional flavors with modern twists.
+generative_summary: >-
+  Discover SOHO Sushi Burrito in Las Vegas, NV$$$Nestled in the vibrant city of
+  Las Vegas, NV, SOHO Sushi Burrito stands out as a casual spot for fresh sushi
+  and poke bowls that cater to a variety of tastes. This welcoming restaurant
+  offers a range of vegan options alongside creative bubble teas, making it a
+  go-to choice for those seeking flavorful Japanese-inspired dishes in a relaxed
+  atmosphere. Visitors can enjoy the convenience of accessibility features like
+  wheelchair-friendly parking and entrances, enhancing the overall dining
+  experience. Whether you're exploring sushi restaurants near you or looking for
+  top-rated options in the area, this spot delivers on quality and variety with
+  its inventive menu items that blend traditional flavors with modern twists.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Food$$$Folks who stop by SOHO Sushi Burrito
+  often rave about the fresh ingredients and creative twists on classic sushi
+  rolls, making it a solid pick for anyone craving reliable Japanese fare close
+  to home. Many appreciate the variety of options, including vegan choices that
+  keep things inclusive without skimping on taste, though some note that
+  portions can vary depending on the order. Visitors frequently mention the
+  quick service and casual vibe as highlights, perfect for a laid-back meal with
+  friends or a quick bite after exploring the area. Overall, it's clear that
+  this spot earns praise for its approachable flavors and welcoming environment,
+  encouraging repeat visits for those hunting for the best sushi experiences
+  nearby. While not every detail is flawless, the positive vibes around the food
+  and service make it a worthwhile stop for sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

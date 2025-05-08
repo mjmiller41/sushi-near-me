@@ -5,4 +5,5 @@ permalink: /washington/tukwila/
 stateAbbr: WA
 stateName: Washington
 cityName: Tukwila
+
 ---
