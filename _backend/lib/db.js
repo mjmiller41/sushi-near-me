@@ -3,7 +3,7 @@ import path from 'path'
 import pg from 'pg'
 import { getCurrMthYr } from './utils.js'
 import { config } from './config.js'
-const { Pool, Client } = pg
+const { Pool } = pg
 
 const __dirname = import.meta.dirname
 const pemFile = path.join(__dirname, './rds-ca-bundle.pem')
@@ -126,7 +126,7 @@ export default class DB {
   async initPlacesTable() {
     try {
       await this.query(`
-          CREATE TABLE IF NOT EXISTS sushi_restaurants (
+          CREATE TABLE IF NOT EXISTS ${process.env.TABLE_NAME} (
           place_id TEXT PRIMARY KEY,
           photos JSON,
           address TEXT,
@@ -184,9 +184,9 @@ export default class DB {
           rewiew_disclosure TEXT,
           update_category TEXT,
           updated_at TIMESTAMP NOT NULL DEFAULT NOW());
-          CREATE INDEX IF NOT EXISTS idx_sushi_restaurants_rating ON sushi_restaurants (rating);
-          CREATE INDEX IF NOT EXISTS idx_sushi_restaurants_city ON sushi_restaurants (city);
-          CREATE INDEX IF NOT EXISTS idx_sushi_restaurants_state ON sushi_restaurants (state);
+          CREATE INDEX IF NOT EXISTS idx_${process.env.TABLE_NAME}_rating ON ${process.env.TABLE_NAME} (rating);
+          CREATE INDEX IF NOT EXISTS idx_${process.env.TABLE_NAME}_city ON ${process.env.TABLE_NAME} (city);
+          CREATE INDEX IF NOT EXISTS idx_${process.env.TABLE_NAME}_state ON ${process.env.TABLE_NAME} (state);
         `)
     } catch (err) {
       console.error('Database initialization error:', err)
@@ -245,7 +245,7 @@ export default class DB {
   async deletePlace(placeId) {
     try {
       const queryTxt = `
-          DELETE FROM sushi_restaurants
+          DELETE FROM ${process.env.TABLE_NAME}
           WHERE place_id = $1`
       const result = await this.query(queryTxt, [placeId])
       console.log(`Deleted place_id: ${placeId}, rowCount: ${result.rowCount}`)
@@ -282,10 +282,12 @@ export default class DB {
     const placeholders = columns.map((_, i) => `$${i + 1}`).join(', ')
     const setClause = columns
       .filter(col => col !== 'place_id')
-      .map(col => `${col} = COALESCE(EXCLUDED.${col}, sushi_restaurants.${col})`)
+      .map(
+        col => `${col} = COALESCE(EXCLUDED.${col}, ${process.env.TABLE_NAME}.${col})`
+      )
       .join(', ')
     const queryTxt = `
-        INSERT INTO sushi_restaurants (${columns.join(', ')})
+        INSERT INTO ${process.env.TABLE_NAME} (${columns.join(', ')})
         VALUES (${placeholders})
         ON CONFLICT (place_id)
         DO UPDATE SET ${setClause}`
@@ -381,7 +383,7 @@ export default class DB {
     )
   }
 
-  async getAllPlaces(interval, { column, query }, orderBy = 'ASC') {
+  async getAllPlaces(interval, column, query, orderBy = 'ASC') {
     let queryTxt = `SELECT * FROM public.${process.env.PLACES_TABLE_NAME}\n`
     queryTxt += `WHERE updated_at <= NOW() - INTERVAL '${interval ? interval : '0'}'\n`
     queryTxt += column ? `AND ${column} ${query}\n` : ''
@@ -400,7 +402,7 @@ export default class DB {
 
   async getAllPlaceIds() {
     try {
-      const queryTxt = 'SELECT place_id FROM sushi_restaurants;'
+      const queryTxt = `SELECT place_id FROM ${process.env.TABLE_NAME};`
       const result = await this.query(queryTxt)
       return result.rows.map(obj => obj.place_id)
     } catch (error) {
@@ -412,7 +414,7 @@ export default class DB {
     try {
       const queryTxt = `
           SELECT place_id, updated_at
-          FROM sushi_restaurants
+          FROM ${process.env.TABLE_NAME}
           WHERE place_id = $1`
       const result = await this.query(queryTxt, [id])
       return result

@@ -1,16 +1,10 @@
 import OpenAI from 'openai'
 import { config } from './config.js'
-const keyWords = `
-keywords:
-  - sushi near me
-  - sushi restaurants
-  - sushi close to me
-  - best sushi near me
-  - sushi restaurants near me
-  - japanese places near me
-  - sushi places near me
-  - I love sushi
-  - top rated sushi`
+import { readYamlFile } from '_config.yml'
+
+const site = readYamlFile('_config.yml')
+
+const keyWords = site.keywords
 const generativePrompt = headingMaxLen => {
   return `
 - Write two 4 to 5 sentence paragraphs based on the following json data which represents a place retrieved from the Google Places API. The first paragraph is a description (not a review) it should be a description of the place's finer points. If the data includes generative_summary text, use that to inform the final description. In the first sentence of paragraph one, always mention the name, city and state of the place. Do not mention people's names and do not plagiarize.

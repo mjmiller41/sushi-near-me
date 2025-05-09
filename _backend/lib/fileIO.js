@@ -1,5 +1,6 @@
 import fs from 'fs/promises'
 import path from 'path'
+import yaml from 'js-yaml'
 
 async function checkDir(dirPath) {
   try {
@@ -37,6 +38,15 @@ async function readObjectFromFile(filePath) {
   }
 }
 
+async function readTextFromFile(filename) {
+  try {
+    const fileString = await fs.readFile(filename, { encoding: 'utf8' })
+    return fileString
+  } catch (error) {
+    throw error
+  }
+}
+
 async function writeTextToFile(dirPath, filename, text) {
   const filePath = path.join(dirPath, filename)
   try {
@@ -47,4 +57,32 @@ async function writeTextToFile(dirPath, filename, text) {
   }
 }
 
-export { saveObjectToFile, readObjectFromFile, writeTextToFile }
+async function readYamlFile(filePath) {
+  try {
+    const fileContents = await fs.readFile(filePath, { encoding: 'utf8' })
+    const data = yaml.load(fileContents, { json: true })
+    return data
+  } catch (e) {
+    console.error(e)
+    return null
+  }
+}
+
+async function writeYamlFile(filePath, data) {
+  try {
+    const fileContents = yaml.dump(data)
+    await fs.writeFile(filePath, fileContents, { encoding: 'utf8' })
+  } catch (e) {
+    console.error(e)
+    return null
+  }
+}
+
+export {
+  saveObjectToFile,
+  readObjectFromFile,
+  readTextFromFile,
+  writeTextToFile,
+  readYamlFile,
+  writeYamlFile
+}

@@ -1,3 +1,5 @@
+---
+---
 <header class="site-header" role="banner">
   {%- assign default_paths = site.pages | map: "path" -%}
   {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -11,7 +13,7 @@
       src="{{ logo |  relative_url }}"
       width="36px"
       height="36px"
-      alt="sushi logo" />
+      alt="{{ site.place_focus }} logo" />
     <h1 class="header-title">{{ site.title | escape }}</h1>
   </a>
 

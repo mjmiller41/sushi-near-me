@@ -4,15 +4,17 @@ import { writeTextToFile } from './lib/fileIO.js'
 import { Place } from './lib/Place.js'
 import { cleanDir, objToYaml, slugify } from './lib/utils.js'
 import { STATES } from './lib/constants.js'
+import { readYamlFile } from './lib/fileIO.js'
 import { config } from './lib/config.js'
 
+const site = await readYamlFile('_config.yaml')
 const __dirname = import.meta.dirname
 const db = new DB()
 
 async function writeState(stateName, stateAbbr) {
   const yamlObj = {
     layout: 'state',
-    title: `${stateName} cities with Sushi Restaurants`,
+    title: `${stateName} cities with ${site.place_type}s`,
     permalink: `/${slugify(stateName)}/`,
     stateAbbr: stateAbbr,
     stateName: stateName
@@ -26,7 +28,7 @@ async function writeState(stateName, stateAbbr) {
 async function writeCity(stateName, stateAbbr, city) {
   const yamlObj = {
     layout: 'city',
-    title: `${city}, ${stateAbbr} Sushi Restaurants`,
+    title: `${city}, ${stateAbbr} ${site.place_type}s`,
     permalink: `/${slugify(stateName)}/${slugify(city)}/`,
     stateAbbr: stateAbbr,
     stateName: stateName,
@@ -60,10 +62,7 @@ async function writePlace(stateName, stateAbbr, city, place) {
 }
 
 async function run() {
-  const { rows } = await db.getAllPlaces('0', {
-    column: 'generative_summary',
-    query: 'IS NOT NULL'
-  })
+  const { rows } = await db.getAllPlaces()
   console.log(`${rows.length} rows read from database.`)
 
   await cleanDir(path.join(__dirname, '../_states/**'))

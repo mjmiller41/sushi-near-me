@@ -1,1 +1,3 @@
-# sushi-near-me
+---
+---
+# {{ site.title }}

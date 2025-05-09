@@ -1,5 +1,8 @@
 import { curly } from 'node-libcurl'
 import { config } from './config.js'
+import { readYamlFile } from './fileIO.js'
+
+const site = await readYamlFile('_config.yml')
 
 function locationBias(lat, lng, radius = 1000) {
   if (lat && lng) {
@@ -82,7 +85,7 @@ async function textSearchByAddr(address, lat, lng, maskFields) {
       } else if (foundPlaces[0].types.includes('street_address')) {
         lat = foundPlaces[0].location.latitude
         lng = foundPlaces[0].location.longitude
-        queryFields.textQuery = 'sushi'
+        queryFields.textQuery = site.place_type
         queryFields.location_bias = locationBias(lat, lng, radius)
       } else if (foundPlaces.length > 0) {
         for (const foundPlace of foundPlaces) {
@@ -112,7 +115,7 @@ async function textSearchByLatLng(
   lat,
   lng,
   radius,
-  textQuery = 'sushi',
+  textQuery = site.place_type,
   includedType = 'restaurant'
 ) {
   // Include location bias in query if radius, lat, lng given

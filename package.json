@@ -20,7 +20,7 @@
     "build-serve-dev": "npm run build-collections-dev && bundle exec jekyll serve -l",
     "build-serve-prod": "NODE_ENV=production JEKYLL_ENV=production npm run build-collections && bundle exec jekyll serve -l",
     "build-dev": "bundle exec jekyll build",
-    "build-prod": "JEKYLL_ENV=production bundle exec jekyll clean && bundle exec jekyll build",
+    "build-prod": "bundle exec jekyll clean && JEKYLL_ENV=production bundle exec jekyll build",
     "build-build-dev": "npm run build-collections-dev && bundle exec jekyll build",
     "build-build-prod": "NODE_ENV=production npm run build-collections && JEKYLL_ENV=production bundle exec jekyll build",
     "update-sku-data": "node ./_backend/updateApiSkuData.js",
@@ -40,7 +40,6 @@
   "dependencies": {
     "@googlemaps/google-maps-services-js": "^3.4.0",
     "@googlemaps/places": "^1.9.1",
-    "axios": "^1.8.2",
     "cheerio": "^1.0.0",
     "columnify": "^1.6.0",
     "dotenv": "^16.4.7",
@@ -56,6 +55,7 @@
     "pg": "^8.14.1",
     "string-similarity": "^4.0.4",
     "svg-path-commander": "^2.1.10",
-    "url-slug": "^4.0.1"
+    "url-slug": "^4.0.1",
+    "xml-js": "^1.6.11"
   }
 }

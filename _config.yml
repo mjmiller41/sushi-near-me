@@ -21,14 +21,14 @@
 title: Sushi Near Me U.S.
 publisher: Sushi Near Me U.S.
 email: sushinearme.us@gmail.com
-logo: /assets/images/sushi_icon.png
-logo_icon: icons/sushi_icon.svg
+logo: /assets/images/logo.png
+logo_icon: icons/logo.svg
 place_focus: sushi
 place_type: Sushi Restaurant # used in liquid as singular or plural i.e. steakhouse(s)
 description: >- # this means to ignore newlines until "baseurl:"
   Find the best sushi restaurants near you with Sushi-Near-Me.us, your ultimate directory for sushi spots across the US. Explore top-rated sushi bars, local favorites, and hidden gems in every state. Search by location, browse menus, and satisfy your sushi cravings today!
 baseurl: '' # the subpath of your site, e.g. /blog
-domain: 'Sushi-near-me.us'
+domain: 'www.sushi-near-me.us'
 url: 'https://www.sushi-near-me.us' # the site's hostname & protocol, e.g. http://example.com
 google_analytics: 'G-9Q8C2EW976'
 google_site_verification: kWh0myIj2h7tZzeAhHqsZF-Z8CzdZh8Cnp79KIDjwd8
@@ -89,4 +89,3 @@ exclude:
   - package.json
   - package-lock.json
   - eslint.config.js
-  - CNAME

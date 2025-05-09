@@ -9,5 +9,8 @@
     href="/assets/main.css"
     as="style"
     onload="this.rel='stylesheet'">
-  {% include propeller_ads.html %}
+  {% if jekyll.environment == "production" %}
+    {% include propeller_ads.html %}
+    {% include ms_clarity.html %}
+  {% endif %}
 </head>
