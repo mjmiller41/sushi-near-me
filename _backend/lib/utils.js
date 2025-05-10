@@ -4,7 +4,7 @@ import yaml, { JSON_SCHEMA } from 'js-yaml'
 import { glob } from 'glob'
 import { MONTH_MAP } from './constants.js'
 
-const ONGOING_TASKS = []
+export const ONGOING_TASKS = []
 const __dirname = import.meta.dirname
 const dictionary = {
   '&': 'and',
@@ -29,17 +29,21 @@ String.prototype.truncate = function (num) {
   }
 }
 
-function slugify(name) {
+export function camelToSnakeCase(str) {
+  return str.replace(/([a-z])([A-Z])/g, '$1_$2').toLowerCase()
+}
+
+export function slugify(name) {
   if (!name || typeof name !== 'string') return ''
   return convert(name.toLowerCase())
 }
 
-function deslugify(slug) {
+export function deslugify(slug) {
   if (!slug || typeof slug !== 'string') return ''
   return revert(slug.trim())
 }
 
-function registerShutdown(saveDataCbs) {
+export function registerShutdown(saveDataCbs) {
   process.on('SIGINT', () => {
     console.log('Received SIGINT. Shutting down gracefully...')
     shutdown(saveDataCbs)
@@ -71,7 +75,7 @@ function registerShutdown(saveDataCbs) {
   })
 }
 
-async function shutdown(saveDataCbs) {
+export async function shutdown(saveDataCbs) {
   try {
     // upsert data before exit
     if (Array.isArray(saveDataCbs) || saveDataCbs.length > 0) {
@@ -87,7 +91,7 @@ async function shutdown(saveDataCbs) {
   }
 }
 
-function instancesEqualExcluding(obj1, obj2, excludedProperty) {
+export function instancesEqualExcluding(obj1, obj2, excludedProperty) {
   for (const prop in obj1) {
     if (Object.hasOwn(obj1, prop) && prop !== excludedProperty) {
       if (!Object.hasOwn(obj2, prop) || obj1[prop] !== obj2[prop]) {
@@ -105,7 +109,7 @@ function instancesEqualExcluding(obj1, obj2, excludedProperty) {
   return true
 }
 
-async function cleanDir(dir) {
+export async function cleanDir(dir) {
   try {
     const pathnames = await glob(dir)
     for (const pathname of pathnames) {
@@ -117,7 +121,7 @@ async function cleanDir(dir) {
   }
 }
 
-function objToYaml(object, globalIndent = 2) {
+export function objToYaml(object, globalIndent = 2) {
   function rplcr(key, value) {
     if (typeof value === 'string' && value.includes(':')) {
       return `"${value}"`
@@ -135,13 +139,13 @@ function objToYaml(object, globalIndent = 2) {
   return indentedYaml
 }
 
-function getCurrMthYr() {
+export function getCurrMthYr() {
   const month = MONTH_MAP[new Date().getMonth()]
   const year = new Date().getFullYear()
   return `${month}_${year}`
 }
 
-function extractId(str, type) {
+export function extractId(str, type) {
   const types = ['reviews', 'photos', 'places']
   if (!types.some(item => str.includes(item))) return null
   const regStr = `.*${type}\/([^\/]*)\/*.*`
@@ -150,7 +154,7 @@ function extractId(str, type) {
   return array[0]?.[1] ?? null
 }
 
-function dedupeArray(arr, key) {
+export function dedupeArray(arr, key) {
   const seen = new Set()
   return arr.filter(obj => {
     const keyValue = obj[key]
@@ -158,7 +162,7 @@ function dedupeArray(arr, key) {
   })
 }
 
-function timestamp() {
+export function timestamp() {
   const ts = Date.now()
   const date = new Date(ts)
   let isoDate = date.toISOString()
@@ -166,7 +170,7 @@ function timestamp() {
 }
 
 // Function to calculate surrounding lat/long coordinates for a given center and radius
-function calcSurroundingCoords(latitude, longitude, radius) {
+export function calcSurroundingCoords(latitude, longitude, radius) {
   // Earth's radius in meters
   const EARTH_RADIUS = 6371000
 
@@ -212,20 +216,4 @@ function calcSurroundingCoords(latitude, longitude, radius) {
   }
 
   return surroundingCoords
-}
-
-export {
-  ONGOING_TASKS,
-  extractId,
-  dedupeArray,
-  timestamp,
-  slugify,
-  deslugify,
-  getCurrMthYr,
-  objToYaml,
-  cleanDir,
-  instancesEqualExcluding,
-  registerShutdown,
-  shutdown,
-  calcSurroundingCoords
 }

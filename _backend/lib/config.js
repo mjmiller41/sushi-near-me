@@ -1,7 +1,7 @@
 import 'dotenv/config'
 
 const devMode =
-  process.env.NODE_ENV !== 'production' || process.env.JEKYLL_ENV !== 'production'
+  process.env.NODE_ENV !== 'production' && process.env.JEKYLL_ENV !== 'production'
 const placesLimit = devMode ? 5 : +Infinity
 const config = {
   googleApiKey: process.env.GOOGLE_API_KEY,
@@ -15,6 +15,7 @@ const config = {
   testMode: process.argv.includes('--test') || process.env.TEST === 'true'
 }
 
+console.log(`process.env.NODE_ENV=${process.env.NODE_ENV}`)
 console.log(`DevMode: ${config.devMode}`)
 
 export { config }

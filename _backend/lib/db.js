@@ -1,4 +1,3 @@
-import fs from 'fs/promises'
 import path from 'path'
 import pg from 'pg'
 import { getCurrMthYr } from './utils.js'
@@ -8,17 +7,6 @@ const { Pool } = pg
 const __dirname = import.meta.dirname
 const pemFile = path.join(__dirname, './rds-ca-bundle.pem')
 const devMode = config.devMode
-
-const rdsConfig = {
-  user: 'postgres',
-  password: 'GAP5dK2qTbzanPV',
-  host: 'gmap-search-db.chsm6wwis875.us-east-1.rds.amazonaws.com',
-  port: 5432,
-  ssl: {
-    rejectUnauthorized: true,
-    ca: await fs.readFile(pemFile, { encoding: 'utf8' })
-  }
-}
 
 export default class DB {
   constructor(cfg) {
@@ -384,7 +372,7 @@ export default class DB {
   }
 
   async getAllPlaces(interval, column, query, orderBy = 'ASC') {
-    let queryTxt = `SELECT * FROM public.${process.env.PLACES_TABLE_NAME}\n`
+    let queryTxt = `SELECT * FROM public.${process.env.TABLE_NAME}\n`
     queryTxt += `WHERE updated_at <= NOW() - INTERVAL '${interval ? interval : '0'}'\n`
     queryTxt += column ? `AND ${column} ${query}\n` : ''
     queryTxt += devMode ? `AND state = 'FL' OR state = 'DC'\n` : ''
@@ -454,12 +442,12 @@ export default class DB {
           FROM zip_codes
           WHERE latitude IS NOT NULL AND longitude IS NOT NULL
           AND irs_estimated_population IS NOT NULL
-          AND NOT EXISTS (
+          AND EXISTS (
             SELECT 1 
             FROM zip_search_history zsh
             WHERE zsh.latitude = zip_codes.latitude
             AND zsh.longitude = zip_codes.longitude
-            AND zsh.last_searched_at > NOW() - INTERVAL '${interval}'
+            AND zsh.last_searched_at < NOW() - INTERVAL '${interval}'
           )
           GROUP BY latitude, longitude`
       const result = await this.query(queryTxt)

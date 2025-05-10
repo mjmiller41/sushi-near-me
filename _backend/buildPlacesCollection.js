@@ -5,9 +5,9 @@ import { Place } from './lib/Place.js'
 import { cleanDir, objToYaml, slugify } from './lib/utils.js'
 import { STATES } from './lib/constants.js'
 import { readYamlFile } from './lib/fileIO.js'
-import { config } from './lib/config.js'
+import './lib/config.js'
 
-const site = await readYamlFile('_config.yaml')
+const site = await readYamlFile('_config.yml')
 const __dirname = import.meta.dirname
 const db = new DB()
 

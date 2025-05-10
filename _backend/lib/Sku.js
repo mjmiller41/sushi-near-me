@@ -15,8 +15,8 @@ const SKU_FUNCS = Object.freeze({
   TEXT_SEARCH: 'Text Search',
   PLACE_DETAILS: 'Place Details'
 })
-const DEFAULT_PLACES_API_SKU_DATA = [
-  Object.freeze({
+const DEFAULT_PLACES_API_SKU_DATA = Object.freeze([
+  {
     id: '',
     sku: '635D-A9DD-C520',
     func: SKU_FUNCS.TEXT_SEARCH,
@@ -30,8 +30,8 @@ const DEFAULT_PLACES_API_SKU_DATA = [
     cumm_cost: 0.0,
     billing_period: '',
     free_limit_hit: false
-  }),
-  Object.freeze({
+  },
+  {
     id: '',
     sku: '4FDA-34B1-A910',
     func: SKU_FUNCS.TEXT_SEARCH,
@@ -70,8 +70,8 @@ const DEFAULT_PLACES_API_SKU_DATA = [
     cumm_cost: 0.0,
     billing_period: '',
     free_limit_hit: false
-  }),
-  Object.freeze({
+  },
+  {
     id: '',
     sku: '5C36-E272-E88F',
     func: SKU_FUNCS.PLACE_DETAILS,
@@ -85,8 +85,8 @@ const DEFAULT_PLACES_API_SKU_DATA = [
     cumm_cost: 0.0,
     billing_period: '',
     free_limit_hit: false
-  }),
-  Object.freeze({
+  },
+  {
     id: '',
     sku: '6E05-E1C3-8D85',
     func: SKU_FUNCS.PLACE_DETAILS,
@@ -110,8 +110,8 @@ const DEFAULT_PLACES_API_SKU_DATA = [
     cumm_cost: 0.0,
     billing_period: '',
     free_limit_hit: false
-  }),
-  Object.freeze({
+  },
+  {
     id: '',
     sku: '4ED6-464A-2AFC',
     func: SKU_FUNCS.PLACE_DETAILS,
@@ -139,8 +139,8 @@ const DEFAULT_PLACES_API_SKU_DATA = [
     cumm_cost: 0.0,
     billing_period: '',
     free_limit_hit: false
-  }),
-  Object.freeze({
+  },
+  {
     id: '',
     sku: '2D9A-3DE0-3766',
     func: SKU_FUNCS.PLACE_DETAILS,
@@ -166,8 +166,8 @@ const DEFAULT_PLACES_API_SKU_DATA = [
     cumm_cost: 0.0,
     billing_period: '',
     free_limit_hit: false
-  }),
-  Object.freeze({
+  },
+  {
     id: '',
     sku: 'EB23-5ECC-F753',
     func: SKU_FUNCS.PLACE_DETAILS,
@@ -211,8 +211,8 @@ const DEFAULT_PLACES_API_SKU_DATA = [
     cumm_cost: 0.0,
     billing_period: '',
     free_limit_hit: false
-  }),
-  Object.freeze({
+  },
+  {
     id: '',
     sku: 'DCD1-FE97-8C71',
     func: SKU_FUNCS.PLACE_DETAILS,
@@ -226,8 +226,8 @@ const DEFAULT_PLACES_API_SKU_DATA = [
     cumm_cost: 0.0,
     billing_period: '',
     free_limit_hit: false
-  })
-]
+  }
+])
 const SKU_COST_LIMIT = config.costLimit
 
 const db = new DB()
@@ -236,7 +236,7 @@ class SkuData {
     this.skuObjs = []
   }
 
-  static async create() {
+  static async init() {
     const instance = new SkuData()
     await instance.getCurrentSkuData()
     return instance

@@ -44,7 +44,7 @@ async function askQuestion(question = '') {
 
 let dataModified = false
 async function run() {
-  const skuData = await SkuData.create()
+  const skuData = await SkuData.init()
   let quit = false
 
   while (!quit) {
